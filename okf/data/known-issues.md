@@ -33,4 +33,9 @@ status: stable
   existing one wins (52 cases, e.g. Brown stays CSS `#a52a2a`, not Wikipedia `#964b00`).
 * **One Japanese source row is inconsistent**: 桜鼠 (Sakuranezumi) lists RGB 172,129,118 (`#ac8176`) but hex
   `#AC8181`. The hex was used.
-* 565 colors have no English name (mostly German-only and Japanese-only entries).
+* Colors without an English name are mostly German-only and Japanese-only entries.
+* **Many near-identical colors.** The xkcd survey and Crayola add many colors that differ from existing ones by
+  only a few RGB steps. They are separate entries (the key is the exact hex) and sit next to each other on the map.
+* **Generated romaji** (see [/data/sources.md](/data/sources.md)) can be wrong where a kanji compound has an unusual
+  reading or where おう spans a word boundary; loanwords are not split into words (Orientaruburū).
+* **Small cells**: with 2617 colors the map is about 63 columns wide, so on a phone a cell is only about 7 px wide.

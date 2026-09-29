@@ -29,5 +29,5 @@ The original families were hand- or tool-assigned and had clear errors: pure yel
 of the 971 original labels. Borderline cases (olive greys, dusty mauves) can go either way; if you change a
 threshold, rebuild and check the family counts in the sidebar.
 
-Counts after the 2026-09 import: Blues 296, Reds 240, Pinks 220, Greens 197, Oranges 186, Neutrals 161,
-Yellows 136, Browns 112, Purples 68.
+Counts after the 2026-09 imports (2617 colors): Blues 465, Greens 413, Pinks 352, Reds 330, Oranges 285,
+Yellows 229, Neutrals 206, Browns 200, Purples 137.

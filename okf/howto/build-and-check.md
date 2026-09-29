@@ -13,7 +13,7 @@ Python 3.8+ only, no packages needed. Run them from the repository root.
 | Command | Does |
 |---|---|
 | `python3 tools/colorpedia.py import` | Merges `data/sources/*.json` into `colors.json` ([merge rules](/data/sources.md)), recomputes families and meta. |
-| `python3 tools/colorpedia.py build` | Computes the layout ([rules](/map/layout-rules.md)), rewrites the map block in `index.html`, sorts `colors.json` lightest first, recounts meta. About 1 second for 1600 colors. |
+| `python3 tools/colorpedia.py build` | Computes the layout ([rules](/map/layout-rules.md)), rewrites the map block in `index.html`, sorts `colors.json` lightest first, recounts meta. About 2.5 seconds for 2600 colors. |
 | `python3 tools/colorpedia.py check` | Validates data and map; exit code 1 on any error. |
 | `python3 tools/colorpedia.py all` | import, build, check. |
 

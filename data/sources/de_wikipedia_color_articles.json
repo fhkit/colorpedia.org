@@ -1,0 +1,444 @@
+{
+ "source": "https://de.wikipedia.org (color articles: Rot, Gelb, Grün, Blau, Braun, Grau, Violett, Türkis, Cyan, Umbra, Siena, Karmin, Lavendel, Orange; Vorlage:Farben im Farbkreis)",
+ "license": "CC BY-SA 4.0 (Wikipedia)",
+ "retrieved": "2026-09-29",
+ "lang": "de",
+ "note": "hand-curated from {{Farbmuster}} and {{Coltit}} samples; descriptive labels (e.g. \"Webfarbe Cyan\", \"CSS3 color sienna\") and generic base words were left out",
+ "colors": [
+  {
+   "hex": "#553a26",
+   "name": "Schwarzbraun",
+   "page": "https://de.wikipedia.org/wiki/Braun"
+  },
+  {
+   "hex": "#645d25",
+   "name": "Gelbbraun",
+   "page": "https://de.wikipedia.org/wiki/Braun"
+  },
+  {
+   "hex": "#965220",
+   "name": "Orangebraun",
+   "page": "https://de.wikipedia.org/wiki/Braun"
+  },
+  {
+   "hex": "#963f20",
+   "name": "Rotbraun",
+   "page": "https://de.wikipedia.org/wiki/Braun"
+  },
+  {
+   "hex": "#957101",
+   "name": "Ockerbraun",
+   "page": "https://de.wikipedia.org/wiki/Braun"
+  },
+  {
+   "hex": "#00ddff",
+   "name": "Mittleres Cyan",
+   "page": "https://de.wikipedia.org/wiki/Cyan"
+  },
+  {
+   "hex": "#00b7eb",
+   "name": "Druck-Cyan",
+   "page": "https://de.wikipedia.org/wiki/Cyan"
+  },
+  {
+   "hex": "#dfff00",
+   "name": "Zitronengelb",
+   "page": "https://de.wikipedia.org/wiki/Gelb"
+  },
+  {
+   "hex": "#ffff00",
+   "name": "Neutralgelb",
+   "page": "https://de.wikipedia.org/wiki/Gelb"
+  },
+  {
+   "hex": "#f7b600",
+   "name": "Indischgelb",
+   "page": "https://de.wikipedia.org/wiki/Gelb"
+  },
+  {
+   "hex": "#293c42",
+   "name": "Paynesgrau",
+   "page": "https://de.wikipedia.org/wiki/Grau"
+  },
+  {
+   "hex": "#b2beb5",
+   "name": "Aschgrau",
+   "page": "https://de.wikipedia.org/wiki/Grau"
+  },
+  {
+   "hex": "#99ff99",
+   "name": "Giftgrün",
+   "page": "https://de.wikipedia.org/wiki/Grün"
+  },
+  {
+   "hex": "#86a47c",
+   "name": "Blassgrün",
+   "page": "https://de.wikipedia.org/wiki/Grün"
+  },
+  {
+   "hex": "#6b8e23",
+   "name": "Olivgrün",
+   "page": "https://de.wikipedia.org/wiki/Grün"
+  },
+  {
+   "hex": "#366735",
+   "name": "Smaragdgrün",
+   "page": "https://de.wikipedia.org/wiki/Grün"
+  },
+  {
+   "hex": "#3b7561",
+   "name": "Patinagrün",
+   "page": "https://de.wikipedia.org/wiki/Grün"
+  },
+  {
+   "hex": "#1b7677",
+   "name": "Petrol",
+   "page": "https://de.wikipedia.org/wiki/Grün"
+  },
+  {
+   "hex": "#697d58",
+   "name": "Resedagrün",
+   "page": "https://de.wikipedia.org/wiki/Grün"
+  },
+  {
+   "hex": "#44c089",
+   "name": "Malachitgrün",
+   "page": "https://de.wikipedia.org/wiki/Grün"
+  },
+  {
+   "hex": "#88b407",
+   "name": "Brillantgrün",
+   "page": "https://de.wikipedia.org/wiki/Grün"
+  },
+  {
+   "hex": "#1c542d",
+   "name": "Perlgrün",
+   "page": "https://de.wikipedia.org/wiki/Grün"
+  },
+  {
+   "hex": "#26392f",
+   "name": "Tannengrün",
+   "page": "https://de.wikipedia.org/wiki/Grün"
+  },
+  {
+   "hex": "#254733",
+   "name": "Chromoxidgrün",
+   "page": "https://de.wikipedia.org/wiki/Grün"
+  },
+  {
+   "hex": "#283424",
+   "name": "Flaschengrün",
+   "page": "https://de.wikipedia.org/wiki/Grün"
+  },
+  {
+   "hex": "#008351",
+   "name": "Verkehrsgrün",
+   "page": "https://de.wikipedia.org/wiki/Grün"
+  },
+  {
+   "hex": "#960018",
+   "name": "Karmin",
+   "page": "https://de.wikipedia.org/wiki/Karmin"
+  },
+  {
+   "hex": "#c798f3",
+   "name": "Hell-Lavendel",
+   "page": "https://de.wikipedia.org/wiki/Lavendel_(Farbe)"
+  },
+  {
+   "hex": "#a965be",
+   "name": "Lavendel",
+   "page": "https://de.wikipedia.org/wiki/Lavendel_(Farbe)"
+  },
+  {
+   "hex": "#ff8000",
+   "name": "Orange",
+   "page": "https://de.wikipedia.org/wiki/Orange_(Farbe)"
+  },
+  {
+   "hex": "#fc5400",
+   "name": "Orangerot",
+   "page": "https://de.wikipedia.org/wiki/Rot"
+  },
+  {
+   "hex": "#ff0040",
+   "name": "Mittelrot",
+   "page": "https://de.wikipedia.org/wiki/Rot"
+  },
+  {
+   "hex": "#c1121c",
+   "name": "Verkehrsrot",
+   "page": "https://de.wikipedia.org/wiki/Rot"
+  },
+  {
+   "hex": "#cc0051",
+   "name": "Rubinrot",
+   "page": "https://de.wikipedia.org/wiki/Rot"
+  },
+  {
+   "hex": "#bc0061",
+   "name": "Purpurrot",
+   "page": "https://de.wikipedia.org/wiki/Rot"
+  },
+  {
+   "hex": "#8b0000",
+   "name": "Florentiner Rot",
+   "page": "https://de.wikipedia.org/wiki/Rot"
+  },
+  {
+   "hex": "#8b0000",
+   "name": "Marsrot",
+   "page": "https://de.wikipedia.org/wiki/Rot"
+  },
+  {
+   "hex": "#8c4139",
+   "name": "Gebrannte Siena",
+   "page": "https://de.wikipedia.org/wiki/Siena_(Farbe)"
+  },
+  {
+   "hex": "#e79239",
+   "name": "Siena natur",
+   "page": "https://de.wikipedia.org/wiki/Siena_(Farbe)"
+  },
+  {
+   "hex": "#00aaaa",
+   "name": "Dunkles Türkis",
+   "page": "https://de.wikipedia.org/wiki/Türkis_(Farbe)"
+  },
+  {
+   "hex": "#00cccc",
+   "name": "Mittleres Türkis",
+   "page": "https://de.wikipedia.org/wiki/Türkis_(Farbe)"
+  },
+  {
+   "hex": "#00c4f4",
+   "name": "Grünblau",
+   "page": "https://de.wikipedia.org/wiki/Türkis_(Farbe)"
+  },
+  {
+   "hex": "#00dddd",
+   "name": "Türkis",
+   "page": "https://de.wikipedia.org/wiki/Türkis_(Farbe)"
+  },
+  {
+   "hex": "#00f4c4",
+   "name": "Blaugrün",
+   "page": "https://de.wikipedia.org/wiki/Türkis_(Farbe)"
+  },
+  {
+   "hex": "#635147",
+   "name": "Raffinierte Umbra",
+   "page": "https://de.wikipedia.org/wiki/Umbra_(Farbe)"
+  },
+  {
+   "hex": "#8a3324",
+   "name": "Gebrannte Umbra",
+   "page": "https://de.wikipedia.org/wiki/Umbra_(Farbe)"
+  },
+  {
+   "hex": "#826644",
+   "name": "Rohe Umbra",
+   "page": "https://de.wikipedia.org/wiki/Umbra_(Farbe)"
+  },
+  {
+   "hex": "#9932cc",
+   "name": "Fliederviolett",
+   "page": "https://de.wikipedia.org/wiki/Violett"
+  },
+  {
+   "hex": "#8000ff",
+   "name": "Veilchenviolett",
+   "page": "https://de.wikipedia.org/wiki/Violett"
+  },
+  {
+   "hex": "#a146ff",
+   "name": "Violett",
+   "page": "https://de.wikipedia.org/wiki/Violett"
+  },
+  {
+   "hex": "#ff1493",
+   "name": "Tiefes Pink",
+   "page": "https://de.wikipedia.org/wiki/Violett"
+  },
+  {
+   "hex": "#9400d3",
+   "name": "Dunkles Violett",
+   "page": "https://de.wikipedia.org/wiki/Violett"
+  },
+  {
+   "hex": "#8b008b",
+   "name": "Dunkles Magenta",
+   "page": "https://de.wikipedia.org/wiki/Violett"
+  },
+  {
+   "hex": "#800080",
+   "name": "Purpur",
+   "page": "https://de.wikipedia.org/wiki/Violett"
+  },
+  {
+   "hex": "#ff0000",
+   "name": "Zinnoberrot",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#fc5400",
+   "name": "Rotorange",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#daa520",
+   "name": "Ocker",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#da6e00",
+   "name": "Gelborange",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#635147",
+   "name": "Umbra",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#ffd700",
+   "name": "Goldgelb",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#fff600",
+   "name": "Cadmiumgelb",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#ffff00",
+   "name": "Mittelgelb",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#704214",
+   "name": "Sepia",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#468641",
+   "name": "Maigrün",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#a3ff00",
+   "name": "Gelbgrün",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#35682d",
+   "name": "Grasgrün",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#00524e",
+   "name": "Blattgrün",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#20a040",
+   "name": "Mittelgrün",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#123524",
+   "name": "Phthalogrün",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#2e8b57",
+   "name": "Seegrün",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#058b8c",
+   "name": "Türkisblau",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#007eff",
+   "name": "Cyanblau",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#0091c6",
+   "name": "Coelinblau",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#005a99",
+   "name": "Bremerblau",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#4b0082",
+   "name": "Indigo",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#003153",
+   "name": "Preußischblau",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#0000cc",
+   "name": "Mittelblau",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#4040ff",
+   "name": "Pariserblau",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#120a8f",
+   "name": "Ultramarinblau",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#0047ab",
+   "name": "Kobaltblau",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#314f6f",
+   "name": "Violettblau",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#8a2be2",
+   "name": "Blauviolett",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#47243c",
+   "name": "Purpurviolett",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#6f011e",
+   "name": "Krapplack",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#960018",
+   "name": "Karminrot",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#d57453",
+   "name": "Venezianischrot",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  },
+  {
+   "hex": "#ff2400",
+   "name": "Scharlachrot",
+   "page": "https://de.wikipedia.org/wiki/Vorlage:Farben_im_Farbkreis"
+  }
+ ]
+}

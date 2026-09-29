@@ -1,0 +1,1209 @@
+{
+ "source": "https://ja.wikipedia.org/wiki/日本の色の一覧",
+ "license": "CC BY-SA 4.0 (Wikipedia)",
+ "retrieved": "2026-09-29",
+ "lang": "ja",
+ "note": "romaji from the hiragana reading in the source (first reading when several are given)",
+ "colors": [
+  {
+   "hex": "#165e83",
+   "name": "藍色",
+   "romaji": "Ai-iro"
+  },
+  {
+   "hex": "#5e7c85",
+   "name": "藍鼠",
+   "romaji": "Ainezumi"
+  },
+  {
+   "hex": "#0067c0",
+   "name": "青",
+   "romaji": "Ao"
+  },
+  {
+   "hex": "#72baa7",
+   "name": "青竹色",
+   "romaji": "Aotake-iro"
+  },
+  {
+   "hex": "#858954",
+   "name": "青丹",
+   "romaji": "Aoni"
+  },
+  {
+   "hex": "#324356",
+   "name": "青鈍色",
+   "romaji": "Aonibi-iro"
+  },
+  {
+   "hex": "#0090a8",
+   "name": "青緑",
+   "romaji": "Aomidori"
+  },
+  {
+   "hex": "#6f51a1",
+   "name": "青紫",
+   "romaji": "Aomurasaki"
+  },
+  {
+   "hex": "#ed1a3d",
+   "name": "赤",
+   "romaji": "Aka"
+  },
+  {
+   "hex": "#db8449",
+   "name": "赤朽葉",
+   "romaji": "Akakuchiba"
+  },
+  {
+   "hex": "#f6b894",
+   "name": "赤香色",
+   "romaji": "Akakō-iro"
+  },
+  {
+   "hex": "#f15a22",
+   "name": "赤橙",
+   "romaji": "Akadaidai"
+  },
+  {
+   "hex": "#b13546",
+   "name": "茜色",
+   "romaji": "Akane-iro"
+  },
+  {
+   "hex": "#eb6ea5",
+   "name": "赤紫",
+   "romaji": "Akamurasaki"
+  },
+  {
+   "hex": "#bcb09c",
+   "name": "灰汁色",
+   "romaji": "Aku-iro"
+  },
+  {
+   "hex": "#df7163",
+   "name": "浅緋",
+   "romaji": "Asaake"
+  },
+  {
+   "hex": "#ffcc33",
+   "name": "浅黄色",
+   "romaji": "Asagi-iro"
+  },
+  {
+   "hex": "#00a4ac",
+   "name": "浅葱色",
+   "romaji": "Asagi-iro"
+  },
+  {
+   "hex": "#9bcf97",
+   "name": "浅緑",
+   "romaji": "Asamidori"
+  },
+  {
+   "hex": "#98514b",
+   "name": "小豆色",
+   "romaji": "Azuki-iro"
+  },
+  {
+   "hex": "#d6c6af",
+   "name": "亜麻色",
+   "romaji": "Ama-iro"
+  },
+  {
+   "hex": "#cd6118",
+   "name": "飴色",
+   "romaji": "Ame-iro"
+  },
+  {
+   "hex": "#b168a8",
+   "name": "菖蒲色",
+   "romaji": "Ayame-iro"
+  },
+  {
+   "hex": "#f0b694",
+   "name": "洗柿",
+   "romaji": "Araigaki"
+  },
+  {
+   "hex": "#d0826c",
+   "name": "洗朱",
+   "romaji": "Araishu"
+  },
+  {
+   "hex": "#f4a466",
+   "name": "杏色",
+   "romaji": "Anzu-iro"
+  },
+  {
+   "hex": "#bb5561",
+   "name": "苺色",
+   "romaji": "Ichigo-iro"
+  },
+  {
+   "hex": "#ffd3e4",
+   "name": "一斤染",
+   "romaji": "Ikkonzome"
+  },
+  {
+   "hex": "#d0576b",
+   "name": "今様色",
+   "romaji": "Imayō-iro"
+  },
+  {
+   "hex": "#918d40",
+   "name": "鶯色",
+   "romaji": "Uguisu-iro"
+  },
+  {
+   "hex": "#715c1f",
+   "name": "鶯茶",
+   "romaji": "Uguisucha"
+  },
+  {
+   "hex": "#fabf14",
+   "name": "鬱金色",
+   "romaji": "Ukon-iro"
+  },
+  {
+   "hex": "#ceb4b9",
+   "name": "薄色",
+   "romaji": "Usu-iro"
+  },
+  {
+   "hex": "#b15c65",
+   "name": "薄紅",
+   "romaji": "Usubeni"
+  },
+  {
+   "hex": "#f3bf88",
+   "name": "淡香",
+   "romaji": "Usukō"
+  },
+  {
+   "hex": "#a3a3a2",
+   "name": "薄墨色",
+   "romaji": "Usuzumi-iro"
+  },
+  {
+   "hex": "#bce1df",
+   "name": "薄水色",
+   "romaji": "Usumizu-iro"
+  },
+  {
+   "hex": "#9d896c",
+   "name": "空五倍子色",
+   "romaji": "Utsubushi-iro"
+  },
+  {
+   "hex": "#fbfbf6",
+   "name": "卯の花色",
+   "romaji": "Unohana-iro"
+  },
+  {
+   "hex": "#ad7984",
+   "name": "梅鼠",
+   "romaji": "Umenezumi"
+  },
+  {
+   "hex": "#c1d8ac",
+   "name": "裏葉柳",
+   "romaji": "Urahayanagi"
+  },
+  {
+   "hex": "#cd8c5c",
+   "name": "江戸茶",
+   "romaji": "Edocha"
+  },
+  {
+   "hex": "#745399",
+   "name": "江戸紫",
+   "romaji": "Edomurasaki"
+  },
+  {
+   "hex": "#640125",
+   "name": "葡萄色/海老色",
+   "romaji": "Ebi-iro"
+  },
+  {
+   "hex": "#7a4171",
+   "name": "葡萄染",
+   "romaji": "Ebizome"
+  },
+  {
+   "hex": "#6c2c2f",
+   "name": "葡萄茶/海老茶",
+   "romaji": "Ebicha"
+  },
+  {
+   "hex": "#b3424a",
+   "name": "臙脂色",
+   "romaji": "Enji-iro"
+  },
+  {
+   "hex": "#ec6d51",
+   "name": "鉛丹色",
+   "romaji": "Entan'-iro"
+  },
+  {
+   "hex": "#769164",
+   "name": "老竹色",
+   "romaji": "Oitake-iro"
+  },
+  {
+   "hex": "#a596c7",
+   "name": "楝色",
+   "romaji": "Ōchi-iro"
+  },
+  {
+   "hex": "#c39143",
+   "name": "黄土色",
+   "romaji": "Ōdo-iro"
+  },
+  {
+   "hex": "#f47a55",
+   "name": "黄丹",
+   "romaji": "Ōtan"
+  },
+  {
+   "hex": "#125115",
+   "name": "織部色",
+   "romaji": "Oribe-iro"
+  },
+  {
+   "hex": "#c3b091",
+   "name": "カーキ色",
+   "romaji": "Kāki-iro"
+  },
+  {
+   "hex": "#7f1184",
+   "name": "貝紫色",
+   "romaji": "Kaimurasaki-iro"
+  },
+  {
+   "hex": "#ed6d3d",
+   "name": "柿色",
+   "romaji": "Kaki-iro"
+  },
+  {
+   "hex": "#bd7862",
+   "name": "柿渋色",
+   "romaji": "Kakishibu-iro"
+  },
+  {
+   "hex": "#5e3862",
+   "name": "杜若色",
+   "romaji": "Kakitsubata-iro"
+  },
+  {
+   "hex": "#4d5269",
+   "name": "勝色",
+   "romaji": "Kachi-iro"
+  },
+  {
+   "hex": "#c5591a",
+   "name": "樺色/蒲色",
+   "romaji": "Kaba-iro"
+  },
+  {
+   "hex": "#726250",
+   "name": "樺茶",
+   "romaji": "Kabacha"
+  },
+  {
+   "hex": "#c5e4ed",
+   "name": "瓶覗",
+   "romaji": "Kamenozoki"
+  },
+  {
+   "hex": "#d93448",
+   "name": "唐紅/韓紅",
+   "romaji": "Karakurenai"
+  },
+  {
+   "hex": "#d0af4c",
+   "name": "芥子色",
+   "romaji": "Karashi-iro"
+  },
+  {
+   "hex": "#a06705",
+   "name": "唐茶",
+   "romaji": "Karacha"
+  },
+  {
+   "hex": "#ffd768",
+   "name": "苅安色/刈安色",
+   "romaji": "Kariyasu-iro"
+  },
+  {
+   "hex": "#c37854",
+   "name": "土器色",
+   "romaji": "Kawarake-iro"
+  },
+  {
+   "hex": "#f8b862",
+   "name": "萱草色",
+   "romaji": "Kanzō-iro"
+  },
+  {
+   "hex": "#ffd400",
+   "name": "黄色",
+   "romaji": "Ki-iro"
+  },
+  {
+   "hex": "#6a4c9c",
+   "name": "桔梗色",
+   "romaji": "Kikyō-iro"
+  },
+  {
+   "hex": "#bfbd9e",
+   "name": "麹塵",
+   "romaji": "Kikujin"
+  },
+  {
+   "hex": "#c48847",
+   "name": "狐色",
+   "romaji": "Kitsune-iro"
+  },
+  {
+   "hex": "#c2b280",
+   "name": "生成色",
+   "romaji": "Kinari-iro"
+  },
+  {
+   "hex": "#fcf16e",
+   "name": "黄蘗色",
+   "romaji": "Kihada-iro"
+  },
+  {
+   "hex": "#b9c42f",
+   "name": "黄緑色",
+   "romaji": "Kimidori-iro"
+  },
+  {
+   "hex": "#d8a373",
+   "name": "伽羅色",
+   "romaji": "Kyara-iro"
+  },
+  {
+   "hex": "#772f6d",
+   "name": "京紫",
+   "romaji": "Kyōmurasaki"
+  },
+  {
+   "hex": "#ffd700",
+   "name": "金色",
+   "romaji": "Kin'-iro"
+  },
+  {
+   "hex": "#c0c0c0",
+   "name": "銀色",
+   "romaji": "Gin'-iro"
+  },
+  {
+   "hex": "#f12b00",
+   "name": "銀朱",
+   "romaji": "Ginshu"
+  },
+  {
+   "hex": "#e0861a",
+   "name": "金茶",
+   "romaji": "Kincha"
+  },
+  {
+   "hex": "#bbbcbf",
+   "name": "銀鼠",
+   "romaji": "Ginnezumi"
+  },
+  {
+   "hex": "#7b8d42",
+   "name": "草色",
+   "romaji": "Kusa-iro"
+  },
+  {
+   "hex": "#ffd768",
+   "name": "梔子色/支子色",
+   "romaji": "Kuchinashi-iro"
+  },
+  {
+   "hex": "#896a45",
+   "name": "朽葉色",
+   "romaji": "Kuchiba-iro"
+  },
+  {
+   "hex": "#800000",
+   "name": "栗色",
+   "romaji": "Kuri-iro"
+  },
+  {
+   "hex": "#433634",
+   "name": "涅色",
+   "romaji": "Kuri-iro"
+  },
+  {
+   "hex": "#6c1912",
+   "name": "栗梅",
+   "romaji": "Kiriume"
+  },
+  {
+   "hex": "#a86f4c",
+   "name": "胡桃色",
+   "romaji": "Kurumi-iro"
+  },
+  {
+   "hex": "#ad002d",
+   "name": "紅蓮色",
+   "romaji": "Guren'-iro"
+  },
+  {
+   "hex": "#c22047",
+   "name": "紅色",
+   "romaji": "Kurenai-iro"
+  },
+  {
+   "hex": "#000000",
+   "name": "黒",
+   "romaji": "Kuro"
+  },
+  {
+   "hex": "#dabc91",
+   "name": "桑染",
+   "romaji": "Kuwazome"
+  },
+  {
+   "hex": "#465daa",
+   "name": "群青色",
+   "romaji": "Gunjō-iro"
+  },
+  {
+   "hex": "#595045",
+   "name": "消炭色",
+   "romaji": "Keshizumi-iro"
+  },
+  {
+   "hex": "#594255",
+   "name": "滅紫",
+   "romaji": "Messhi<ref>{{cite web | url=https://irocore.com/messhi/ | title=滅紫(めっし)とは？：伝統色のいろは }}</ref>"
+  },
+  {
+   "hex": "#f6f7f8",
+   "name": "月白",
+   "romaji": "Geppaku"
+  },
+  {
+   "hex": "#543f32",
+   "name": "憲法色",
+   "romaji": "Kenpō-iro"
+  },
+  {
+   "hex": "#002e4e",
+   "name": "濃藍",
+   "romaji": "Koiai"
+  },
+  {
+   "hex": "#efcd9a",
+   "name": "香色",
+   "romaji": "Kō-iro"
+  },
+  {
+   "hex": "#ff5234",
+   "name": "柑子色",
+   "romaji": "Kōji-iro"
+  },
+  {
+   "hex": "#e86b79",
+   "name": "紅梅色",
+   "romaji": "Kōbai-iro"
+  },
+  {
+   "hex": "#d99502",
+   "name": "黄櫨染",
+   "romaji": "Kōrozen"
+  },
+  {
+   "hex": "#250d00",
+   "name": "黒檀",
+   "romaji": "Kokutan"
+  },
+  {
+   "hex": "#7b6c3e",
+   "name": "国防色",
+   "romaji": "Kokubōshoku"
+  },
+  {
+   "hex": "#78882d",
+   "name": "苔色",
+   "romaji": "Koke-iro"
+  },
+  {
+   "hex": "#6a4d32",
+   "name": "焦茶",
+   "romaji": "Kogecha"
+  },
+  {
+   "hex": "#8c6589",
+   "name": "古代紫",
+   "romaji": "Kodaimurasaki"
+  },
+  {
+   "hex": "#ea930a",
+   "name": "琥珀色",
+   "romaji": "Kohaku-iro"
+  },
+  {
+   "hex": "#716246",
+   "name": "媚茶",
+   "romaji": "Kobicha"
+  },
+  {
+   "hex": "#e4a343",
+   "name": "小麦色",
+   "romaji": "Komugi-iro"
+  },
+  {
+   "hex": "#233b6c",
+   "name": "紺色",
+   "romaji": "Kon'-iro"
+  },
+  {
+   "hex": "#211e55",
+   "name": "紺桔梗",
+   "romaji": "Konkikyō"
+  },
+  {
+   "hex": "#1a4472",
+   "name": "紺青色",
+   "romaji": "Konjō-iro"
+  },
+  {
+   "hex": "#328131",
+   "name": "左伊多津万色",
+   "romaji": "Saitazuma-iro"
+  },
+  {
+   "hex": "#feeeed",
+   "name": "桜色",
+   "romaji": "Sakura-iro"
+  },
+  {
+   "hex": "#5c9291",
+   "name": "錆浅葱",
+   "romaji": "Sabiasagi"
+  },
+  {
+   "hex": "#6c3424",
+   "name": "錆色",
+   "romaji": "Sabi-iro"
+  },
+  {
+   "hex": "#ff7f50",
+   "name": "珊瑚色",
+   "romaji": "Sango-iro"
+  },
+  {
+   "hex": "#968abd",
+   "name": "紫苑色",
+   "romaji": "Shion-iro"
+  },
+  {
+   "hex": "#ad7e4e",
+   "name": "芝翫茶",
+   "romaji": "Shikancha"
+  },
+  {
+   "hex": "#400b36",
+   "name": "紫紺",
+   "romaji": "Shikon"
+  },
+  {
+   "hex": "#080000",
+   "name": "漆黒",
+   "romaji": "Shikkoku"
+  },
+  {
+   "hex": "#f19072",
+   "name": "東雲色",
+   "romaji": "Shinonome-iro"
+  },
+  {
+   "hex": "#7e0f09",
+   "name": "赤銅色",
+   "romaji": "Shakudō-iro"
+  },
+  {
+   "hex": "#ef454a",
+   "name": "朱色",
+   "romaji": "Shu-iro"
+  },
+  {
+   "hex": "#ce313d",
+   "name": "猩々緋",
+   "romaji": "Shōjōhi"
+  },
+  {
+   "hex": "#dac4a5",
+   "name": "白茶",
+   "romaji": "Shiracha"
+  },
+  {
+   "hex": "#ffffff",
+   "name": "白",
+   "romaji": "Shiro"
+  },
+  {
+   "hex": "#b1063a",
+   "name": "真紅",
+   "romaji": "Shinku"
+  },
+  {
+   "hex": "#59b9c6",
+   "name": "新橋色",
+   "romaji": "Shinbashi-iro"
+  },
+  {
+   "hex": "#973c3f",
+   "name": "蘇芳色",
+   "romaji": "Suō-iro"
+  },
+  {
+   "hex": "#6f514c",
+   "name": "煤竹色",
+   "romaji": "Susutake-iro"
+  },
+  {
+   "hex": "#864337",
+   "name": "雀色",
+   "romaji": "Suzume-iro"
+  },
+  {
+   "hex": "#343434",
+   "name": "墨色",
+   "romaji": "Sumi-iro"
+  },
+  {
+   "hex": "#705da8",
+   "name": "菫色",
+   "romaji": "Sumire-iro"
+  },
+  {
+   "hex": "#60b49f",
+   "name": "青磁色",
+   "romaji": "Seiji-iro"
+  },
+  {
+   "hex": "#f9c1cf",
+   "name": "石竹色",
+   "romaji": "Sekichiku-iro"
+  },
+  {
+   "hex": "#474b42",
+   "name": "仙斎茶",
+   "romaji": "Sensaicha"
+  },
+  {
+   "hex": "#ab6953",
+   "name": "赭",
+   "romaji": "Soho"
+  },
+  {
+   "hex": "#90d7ec",
+   "name": "空色",
+   "romaji": "Sora-iro"
+  },
+  {
+   "hex": "#b36c3c",
+   "name": "代赭色",
+   "romaji": "Taisha-iro"
+  },
+  {
+   "hex": "#ffb74c",
+   "name": "橙色",
+   "romaji": "Daidai-iro"
+  },
+  {
+   "hex": "#9f563a",
+   "name": "団十郎茶",
+   "romaji": "Danjūrōcha"
+  },
+  {
+   "hex": "#92b5a9",
+   "name": "千草色",
+   "romaji": "Chigusa-iro"
+  },
+  {
+   "hex": "#994c00",
+   "name": "茶色",
+   "romaji": "Cha-iro"
+  },
+  {
+   "hex": "#b4866b",
+   "name": "丁子茶",
+   "romaji": "Chōjicha"
+  },
+  {
+   "hex": "#e761a4",
+   "name": "躑躅色",
+   "romaji": "Tsutsuji-iro"
+  },
+  {
+   "hex": "#21a0db",
+   "name": "露草色",
+   "romaji": "Tsuyukusa-iro"
+  },
+  {
+   "hex": "#003149",
+   "name": "鉄紺",
+   "romaji": "Tetsukon"
+  },
+  {
+   "hex": "#f3a696",
+   "name": "鴇色",
+   "romaji": "Toki-iro"
+  },
+  {
+   "hex": "#007b43",
+   "name": "常磐色",
+   "romaji": "Tokiwa-iro"
+  },
+  {
+   "hex": "#22825d",
+   "name": "木賊色",
+   "romaji": "Tokusa-iro"
+  },
+  {
+   "hex": "#f4dda5",
+   "name": "砥粉色",
+   "romaji": "Tonoko-iro"
+  },
+  {
+   "hex": "#85403a",
+   "name": "鳶色",
+   "romaji": "Tobi-iro"
+  },
+  {
+   "hex": "#1c305c",
+   "name": "留紺",
+   "romaji": "Tomekon"
+  },
+  {
+   "hex": "#fff1cf",
+   "name": "鳥の子色",
+   "romaji": "Torinoko-iro"
+  },
+  {
+   "hex": "#b0ca71",
+   "name": "苗色",
+   "romaji": "Nae-iro"
+  },
+  {
+   "hex": "#824880",
+   "name": "茄子紺",
+   "romaji": "Nasukon"
+  },
+  {
+   "hex": "#f6adc6",
+   "name": "撫子色",
+   "romaji": "Nadeshiko-iro"
+  },
+  {
+   "hex": "#fcd900",
+   "name": "菜の花色",
+   "romaji": "Nanohanacha"
+  },
+  {
+   "hex": "#aa8c63",
+   "name": "生壁色",
+   "romaji": "Namakabe-iro"
+  },
+  {
+   "hex": "#7b7c7d",
+   "name": "鉛色",
+   "romaji": "Namari-iro"
+  },
+  {
+   "hex": "#008899",
+   "name": "納戸色",
+   "romaji": "Nando-iro"
+  },
+  {
+   "hex": "#e45e32",
+   "name": "丹色",
+   "romaji": "Ni-iro"
+  },
+  {
+   "hex": "#513743",
+   "name": "似紫",
+   "romaji": "Nisemurasaki"
+  },
+  {
+   "hex": "#727171",
+   "name": "鈍色",
+   "romaji": "Nibi-iro"
+  },
+  {
+   "hex": "#fffffb",
+   "name": "乳白色",
+   "romaji": "Nyūhakushoku"
+  },
+  {
+   "hex": "#000b00",
+   "name": "濡烏",
+   "romaji": "Nuregarasu"
+  },
+  {
+   "hex": "#908e65",
+   "name": "根岸色",
+   "romaji": "Negishi-iro"
+  },
+  {
+   "hex": "#949495",
+   "name": "鼠色",
+   "romaji": "Nezumi-iro"
+  },
+  {
+   "hex": "#fff9e2",
+   "name": "練色",
+   "romaji": "Neri-iro"
+  },
+  {
+   "hex": "#808080",
+   "name": "灰色",
+   "romaji": "Hai-iro"
+  },
+  {
+   "hex": "#e8d3d1",
+   "name": "灰桜",
+   "romaji": "Haizakura"
+  },
+  {
+   "hex": "#bfa46f",
+   "name": "榛色",
+   "romaji": "Hashibami-iro"
+  },
+  {
+   "hex": "#f1bb93",
+   "name": "肌色",
+   "romaji": "Hada-iro"
+  },
+  {
+   "hex": "#95859c",
+   "name": "鳩羽色",
+   "romaji": "Hatoba-iro"
+  },
+  {
+   "hex": "#267ca7",
+   "name": "縹色",
+   "romaji": "Hanada-iro"
+  },
+  {
+   "hex": "#f0908d",
+   "name": "唐棣色",
+   "romaji": "Hanezu-iro"
+  },
+  {
+   "hex": "#e73275",
+   "name": "薔薇色",
+   "romaji": "Bara-iro"
+  },
+  {
+   "hex": "#e54848",
+   "name": "緋色",
+   "romaji": "Hi-iro"
+  },
+  {
+   "hex": "#83ccd2",
+   "name": "白群",
+   "romaji": "Byakugun"
+  },
+  {
+   "hex": "#daead0",
+   "name": "白緑",
+   "romaji": "Byakuroku"
+  },
+  {
+   "hex": "#7b4334",
+   "name": "桧皮色",
+   "romaji": "Hiwada-iro"
+  },
+  {
+   "hex": "#82ae46",
+   "name": "鶸萌黄",
+   "romaji": "Hiwamo'egi"
+  },
+  {
+   "hex": "#85a1a0",
+   "name": "深川鼠",
+   "romaji": "Fukagawanezumi"
+  },
+  {
+   "hex": "#004025",
+   "name": "深緑",
+   "romaji": "Fukamidori"
+  },
+  {
+   "hex": "#afb4db",
+   "name": "藤色",
+   "romaji": "Fuji-iro"
+  },
+  {
+   "hex": "#606da1",
+   "name": "藤納戸",
+   "romaji": "Fujinando"
+  },
+  {
+   "hex": "#9b95c9",
+   "name": "藤紫",
+   "romaji": "Fujimurasaki"
+  },
+  {
+   "hex": "#6b4978",
+   "name": "二藍",
+   "romaji": "Futa'ai"
+  },
+  {
+   "hex": "#e5004f",
+   "name": "紅赤",
+   "romaji": "Beniaka"
+  },
+  {
+   "hex": "#c22047",
+   "name": "紅色",
+   "romaji": "Beni-iro"
+  },
+  {
+   "hex": "#b63d1b",
+   "name": "紅樺色",
+   "romaji": "Benikaba-iro"
+  },
+  {
+   "hex": "#f83929",
+   "name": "紅緋",
+   "romaji": "Benihi"
+  },
+  {
+   "hex": "#8f2e14",
+   "name": "弁柄色",
+   "romaji": "Bengara-iro"
+  },
+  {
+   "hex": "#e761a4",
+   "name": "牡丹色",
+   "romaji": "Botan'-iro"
+  },
+  {
+   "hex": "#fb3c02",
+   "name": "紛紅",
+   "romaji": "Magaibeni"
+  },
+  {
+   "hex": "#5b7e91",
+   "name": "枡花色",
+   "romaji": "Masuhana-iro"
+  },
+  {
+   "hex": "#3f7735",
+   "name": "松葉色",
+   "romaji": "Matsuba-iro"
+  },
+  {
+   "hex": "#f08300",
+   "name": "蜜柑色",
+   "romaji": "Mikan'-iro"
+  },
+  {
+   "hex": "#8cd2bc",
+   "name": "水浅葱",
+   "romaji": "Mizu'asagi"
+  },
+  {
+   "hex": "#afdfe4",
+   "name": "水色",
+   "romaji": "Mizu-iro"
+  },
+  {
+   "hex": "#008000",
+   "name": "緑",
+   "romaji": "Midori"
+  },
+  {
+   "hex": "#6e6b41",
+   "name": "海松色",
+   "romaji": "Miru-iro"
+  },
+  {
+   "hex": "#a757a8",
+   "name": "紫",
+   "romaji": "Murasaki"
+  },
+  {
+   "hex": "#966f9c",
+   "name": "紫鈍",
+   "romaji": "Murasakinibi"
+  },
+  {
+   "hex": "#594255",
+   "name": "滅紫",
+   "romaji": "Messhi<ref>{{cite web | url=https://irocore.com/messhi/ | title=滅紫(めっし)とは？：伝統色のいろは }}</ref>"
+  },
+  {
+   "hex": "#a9d159",
+   "name": "萌黄色",
+   "romaji": "Moegi-iro"
+  },
+  {
+   "hex": "#006c4f",
+   "name": "萌葱色",
+   "romaji": "Moegi-iro"
+  },
+  {
+   "hex": "#c7b370",
+   "name": "木蘭色",
+   "romaji": "Mokuran'-iro"
+  },
+  {
+   "hex": "#f58f98",
+   "name": "桃色",
+   "romaji": "Momo-iro"
+  },
+  {
+   "hex": "#542d24",
+   "name": "百塩茶",
+   "romaji": "Momoshiocha"
+  },
+  {
+   "hex": "#a8c97f",
+   "name": "柳色",
+   "romaji": "Yanagi-iro"
+  },
+  {
+   "hex": "#bfbd9e",
+   "name": "山鳩色",
+   "romaji": "Yamabato-iro"
+  },
+  {
+   "hex": "#f8b400",
+   "name": "山吹色",
+   "romaji": "Yamabuki-iro"
+  },
+  {
+   "hex": "#ee9d19",
+   "name": "雄黄色",
+   "romaji": "Yūō-iro"
+  },
+  {
+   "hex": "#616b07",
+   "name": "蓬色",
+   "romaji": "Yomogi-iro"
+  },
+  {
+   "hex": "#6d3c14",
+   "name": "羊羹色",
+   "romaji": "Yōkan'-iro"
+  },
+  {
+   "hex": "#bf794e",
+   "name": "駱駝色",
+   "romaji": "Rakuda-iro"
+  },
+  {
+   "hex": "#6e6636",
+   "name": "璃寛茶",
+   "romaji": "Rikancha"
+  },
+  {
+   "hex": "#897845",
+   "name": "利休茶",
+   "romaji": "Rikyūcha"
+  },
+  {
+   "hex": "#888e7e",
+   "name": "利休鼠",
+   "romaji": "Rikyūnezumi"
+  },
+  {
+   "hex": "#6967ab",
+   "name": "竜胆色",
+   "romaji": "Rindō-iro"
+  },
+  {
+   "hex": "#2a5caa",
+   "name": "瑠璃色",
+   "romaji": "Ruri-iro"
+  },
+  {
+   "hex": "#224b8f",
+   "name": "瑠璃紺",
+   "romaji": "Rurikon"
+  },
+  {
+   "hex": "#fff450",
+   "name": "檸檬色",
+   "romaji": "Remon'-iro"
+  },
+  {
+   "hex": "#aa5c3f",
+   "name": "煉瓦色",
+   "romaji": "Renga-iro"
+  },
+  {
+   "hex": "#0c0c0c",
+   "name": "呂色",
+   "romaji": "Ro-iro"
+  },
+  {
+   "hex": "#5bad92",
+   "name": "緑青",
+   "romaji": "Rokushō"
+  },
+  {
+   "hex": "#8c7042",
+   "name": "路考茶",
+   "romaji": "Rokōcha"
+  },
+  {
+   "hex": "#abc900",
+   "name": "若草色",
+   "romaji": "Wakakusa-iro"
+  },
+  {
+   "hex": "#7cc28e",
+   "name": "若竹色",
+   "romaji": "Wakatake-iro"
+  },
+  {
+   "hex": "#ccde68",
+   "name": "若菜色",
+   "romaji": "Wakana-iro"
+  },
+  {
+   "hex": "#c7dc68",
+   "name": "若苗色",
+   "romaji": "Wakanae-iro"
+  },
+  {
+   "hex": "#a4ca68",
+   "name": "若葉色",
+   "romaji": "Wakaba-iro"
+  },
+  {
+   "hex": "#a5cd89",
+   "name": "若緑",
+   "romaji": "Wakamidori"
+  },
+  {
+   "hex": "#e0ebaf",
+   "name": "若芽色",
+   "romaji": "Wakame-iro"
+  },
+  {
+   "hex": "#8ec298",
+   "name": "山葵色",
+   "romaji": "Wasabi-iro"
+  },
+  {
+   "hex": "#9cc5e6",
+   "name": "勿忘草色",
+   "romaji": "Wasurenagusa-iro"
+  }
+ ]
+}

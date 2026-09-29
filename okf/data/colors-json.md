@@ -10,7 +10,7 @@ status: stable
 # Shape
 ```json
 {
-  "meta":   { "count_raw": 2291, "count_unique": 1616 },
+  "meta":   { "count_raw": 3386, "count_unique": 2617 },
   "colors": [
     { "hex": "#fcc9b9", "family": "Pinks",
       "names_en": [], "names_de": [], "names_ja": ["桜色"], "names_ja_romaji": ["Sakura-iro"],
@@ -43,7 +43,7 @@ default selection (the first color, white). The map does not depend on it.
 # meta
 * `count_unique` = number of colors.
 * `count_raw` = total number of names over `names_en`, `names_de`, `names_ja`, `names_brand`.
-Shown in the header as "(1616 unique / 2291 named)". The tool recomputes both; `check` fails if they are out of date.
+Shown in the header as "(2617 unique / 3386 named)". The tool recomputes both; `check` fails if they are out of date.
 
 # Runtime adjustments (in index.html, not in the file)
 At startup the app removes the German names `Grün`, `Rot` and `Blau` from every color except `#00ff00`,

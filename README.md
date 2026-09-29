@@ -7,4 +7,5 @@ Static site: `index.html` + `colors.json`, no build step needed to serve it.
   [okf/overview.md](okf/overview.md) and [okf/map/layout-rules.md](okf/map/layout-rules.md).
 * **Change colors** by editing `data/sources/*.json` or `colors.json`, then run
   `python3 tools/colorpedia.py all` (import + regenerate the SVG map + validate). Never edit the map by hand.
+* **Preview**: every push to `main` is checked and deployed to GitHub Pages: https://fhkit.github.io/colorpedia.org/
 * **Run locally**: `python3 -m http.server 8000` and open http://localhost:8000/.

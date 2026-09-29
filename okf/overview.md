@@ -23,6 +23,7 @@ hex, both names go on the same entry.
 | `manifest.webmanifest`, `Icon.svg` | PWA manifest and icon (an emoji on a dark rounded square). |
 | `imprint.html` | Legal imprint (German "Impressum"). |
 | `robots.txt` | Allows all crawlers. |
+| `.github/workflows/pages.yml` | On every push to `main`: runs `tools/colorpedia.py check`, then publishes the site files and `okf/` to GitHub Pages (https://fhkit.github.io/colorpedia.org/). |
 
 # The two views
 * **Map**: the SVG in `index.html`. Every color is one hexagon, arranged as a color wheel. See [/map/](/map/).

@@ -1,0 +1,1344 @@
+{
+ "source": "https://ja.wikipedia.org/wiki/JIS慣用色名",
+ "license": "CC BY-SA 4.0 (Wikipedia); names from JIS Z 8102:2001 Annex 1, hex values are sRGB approximations of the Munsell values given there",
+ "retrieved": "2026-09-29",
+ "lang": "ja",
+ "note": "romaji generated from the kana spelling or the reading given in the source; three readings (るり紺, なす紺, すす竹色) added by hand",
+ "colors": [
+  {
+   "hex": "#f9a1d0",
+   "name": "とき色",
+   "romaji": "Toki-iro"
+  },
+  {
+   "hex": "#cb4b94",
+   "name": "つつじ色",
+   "romaji": "Tsutsuji-iro"
+  },
+  {
+   "hex": "#ffdbed",
+   "name": "桜色",
+   "romaji": "Sakura-iro"
+  },
+  {
+   "hex": "#d34778",
+   "name": "ばら色",
+   "romaji": "Bara-iro"
+  },
+  {
+   "hex": "#e3557f",
+   "name": "からくれない",
+   "romaji": "Karakurenai"
+  },
+  {
+   "hex": "#ff87a0",
+   "name": "さんご色",
+   "romaji": "Sango-iro"
+  },
+  {
+   "hex": "#e08899",
+   "name": "紅梅色",
+   "romaji": "Kōbai-iro"
+  },
+  {
+   "hex": "#e38698",
+   "name": "桃色",
+   "romaji": "Momo-iro"
+  },
+  {
+   "hex": "#bd1e48",
+   "name": "紅色",
+   "romaji": "Beni-iro"
+  },
+  {
+   "hex": "#b92946",
+   "name": "紅赤",
+   "romaji": "Beniaka"
+  },
+  {
+   "hex": "#ae3846",
+   "name": "えんじ",
+   "romaji": "Enji"
+  },
+  {
+   "hex": "#974b52",
+   "name": "蘇芳",
+   "romaji": "Suō"
+  },
+  {
+   "hex": "#a0283a",
+   "name": "茜色",
+   "romaji": "Akane-iro"
+  },
+  {
+   "hex": "#bf1e33",
+   "name": "赤",
+   "romaji": "Aka"
+  },
+  {
+   "hex": "#ed514e",
+   "name": "朱色",
+   "romaji": "Shu-iro"
+  },
+  {
+   "hex": "#a14641",
+   "name": "紅樺色",
+   "romaji": "Benikaba-iro"
+  },
+  {
+   "hex": "#ee5145",
+   "name": "紅緋",
+   "romaji": "Benihi"
+  },
+  {
+   "hex": "#d3503c",
+   "name": "鉛丹色",
+   "romaji": "Entan'-iro"
+  },
+  {
+   "hex": "#703b32",
+   "name": "紅海老茶",
+   "romaji": "Beniebicha"
+  },
+  {
+   "hex": "#7d483e",
+   "name": "とび色",
+   "romaji": "Tobi-iro"
+  },
+  {
+   "hex": "#946259",
+   "name": "小豆色",
+   "romaji": "Azuki-iro"
+  },
+  {
+   "hex": "#8a4031",
+   "name": "弁柄色",
+   "romaji": "Bengara-iro"
+  },
+  {
+   "hex": "#6d3d33",
+   "name": "海老茶",
+   "romaji": "Ebicha"
+  },
+  {
+   "hex": "#ed542a",
+   "name": "金赤",
+   "romaji": "Kin'aka"
+  },
+  {
+   "hex": "#b15237",
+   "name": "赤茶",
+   "romaji": "Akacha"
+  },
+  {
+   "hex": "#923a21",
+   "name": "赤錆色",
+   "romaji": "Akasabi-iro"
+  },
+  {
+   "hex": "#ef6d3e",
+   "name": "黄丹",
+   "romaji": "Ōni"
+  },
+  {
+   "hex": "#ed551b",
+   "name": "赤橙",
+   "romaji": "Akadaidai"
+  },
+  {
+   "hex": "#e06030",
+   "name": "柿色",
+   "romaji": "Kaki-iro"
+  },
+  {
+   "hex": "#b97761",
+   "name": "肉桂色",
+   "romaji": "Nikkei-iro"
+  },
+  {
+   "hex": "#bd4a1d",
+   "name": "樺色",
+   "romaji": "Kaba-iro"
+  },
+  {
+   "hex": "#974e33",
+   "name": "れんが色",
+   "romaji": "Renga-iro"
+  },
+  {
+   "hex": "#664134",
+   "name": "錆色",
+   "romaji": "Sabi-iro"
+  },
+  {
+   "hex": "#8a604f",
+   "name": "桧皮色",
+   "romaji": "Hiwada-iro"
+  },
+  {
+   "hex": "#754c38",
+   "name": "栗色",
+   "romaji": "Kuri-iro"
+  },
+  {
+   "hex": "#e45e00",
+   "name": "黄赤",
+   "romaji": "Kiaka"
+  },
+  {
+   "hex": "#ba6432",
+   "name": "たいしゃ",
+   "romaji": "Taisha"
+  },
+  {
+   "hex": "#b67a52",
+   "name": "らくだ色",
+   "romaji": "Rakuda-iro"
+  },
+  {
+   "hex": "#bb6421",
+   "name": "黄茶",
+   "romaji": "Kicha"
+  },
+  {
+   "hex": "#f4be9b",
+   "name": "肌色",
+   "romaji": "Hada-iro"
+  },
+  {
+   "hex": "#fd7e00",
+   "name": "橙色",
+   "romaji": "Daidai-iro"
+  },
+  {
+   "hex": "#866955",
+   "name": "灰茶",
+   "romaji": "Haicha"
+  },
+  {
+   "hex": "#734e30",
+   "name": "茶色",
+   "romaji": "Cha-iro"
+  },
+  {
+   "hex": "#594639",
+   "name": "焦茶",
+   "romaji": "Kogecha"
+  },
+  {
+   "hex": "#ffa75e",
+   "name": "こうじ色",
+   "romaji": "Kōji-iro"
+  },
+  {
+   "hex": "#dda273",
+   "name": "杏色",
+   "romaji": "Anzu-iro"
+  },
+  {
+   "hex": "#fa8000",
+   "name": "蜜柑色",
+   "romaji": "Mikan'-iro"
+  },
+  {
+   "hex": "#763900",
+   "name": "褐色",
+   "romaji": "Kachi-iro"
+  },
+  {
+   "hex": "#a96e2d",
+   "name": "土色",
+   "romaji": "Tsuchi-iro"
+  },
+  {
+   "hex": "#d9a46d",
+   "name": "小麦色",
+   "romaji": "Komugi-iro"
+  },
+  {
+   "hex": "#c67400",
+   "name": "こはく色",
+   "romaji": "Kohaku-iro"
+  },
+  {
+   "hex": "#c47600",
+   "name": "金茶",
+   "romaji": "Kincha"
+  },
+  {
+   "hex": "#fabe6f",
+   "name": "卵色",
+   "romaji": "Tamago-iro"
+  },
+  {
+   "hex": "#ffa500",
+   "name": "山吹色",
+   "romaji": "Yamabuki-iro"
+  },
+  {
+   "hex": "#c18a39",
+   "name": "黄土色",
+   "romaji": "Ōdo-iro"
+  },
+  {
+   "hex": "#897868",
+   "name": "朽葉色",
+   "romaji": "Kuchiba-iro"
+  },
+  {
+   "hex": "#ffb500",
+   "name": "ひまわり色",
+   "romaji": "Himawari-iro"
+  },
+  {
+   "hex": "#fcac00",
+   "name": "うこん色",
+   "romaji": "Ukon'-iro"
+  },
+  {
+   "hex": "#c9b9a8",
+   "name": "砂色",
+   "romaji": "Suna-iro"
+  },
+  {
+   "hex": "#cda966",
+   "name": "芥子色",
+   "romaji": "Karashi-iro"
+  },
+  {
+   "hex": "#ffbe00",
+   "name": "黄色",
+   "romaji": "Ki-iro"
+  },
+  {
+   "hex": "#ffbe00",
+   "name": "たんぽぽ色",
+   "romaji": "Tanpopo-iro"
+  },
+  {
+   "hex": "#70613a",
+   "name": "鶯茶",
+   "romaji": "Uguisucha"
+  },
+  {
+   "hex": "#fad43a",
+   "name": "中黄",
+   "romaji": "Chūki"
+  },
+  {
+   "hex": "#eed67e",
+   "name": "刈安色",
+   "romaji": "Kariyasu-iro"
+  },
+  {
+   "hex": "#d9cb65",
+   "name": "きはだ色",
+   "romaji": "Kihada-iro"
+  },
+  {
+   "hex": "#736f55",
+   "name": "みる色",
+   "romaji": "Miru-iro"
+  },
+  {
+   "hex": "#c2c05c",
+   "name": "ひわ色",
+   "romaji": "Hiwa-iro"
+  },
+  {
+   "hex": "#71714a",
+   "name": "鶯色",
+   "romaji": "Uguisu-iro"
+  },
+  {
+   "hex": "#bdbf92",
+   "name": "抹茶色",
+   "romaji": "Matcha-iro"
+  },
+  {
+   "hex": "#b9c42f",
+   "name": "黄緑",
+   "romaji": "Kimidori"
+  },
+  {
+   "hex": "#7a7f46",
+   "name": "苔色",
+   "romaji": "Koke-iro"
+  },
+  {
+   "hex": "#a9b735",
+   "name": "若草色",
+   "romaji": "Wakakusa-iro"
+  },
+  {
+   "hex": "#96aa3d",
+   "name": "萌黄",
+   "romaji": "Moegi"
+  },
+  {
+   "hex": "#72814b",
+   "name": "草色",
+   "romaji": "Kusa-iro"
+  },
+  {
+   "hex": "#afc297",
+   "name": "若葉色",
+   "romaji": "Wakaba-iro"
+  },
+  {
+   "hex": "#6e815c",
+   "name": "松葉色",
+   "romaji": "Matsuba-iro"
+  },
+  {
+   "hex": "#cadbcf",
+   "name": "白緑",
+   "romaji": "Byakuroku"
+  },
+  {
+   "hex": "#4db56a",
+   "name": "緑",
+   "romaji": "Midori"
+  },
+  {
+   "hex": "#357c4c",
+   "name": "常磐色",
+   "romaji": "Tokiwa-iro"
+  },
+  {
+   "hex": "#5f836d",
+   "name": "緑青色",
+   "romaji": "Rokushō-iro"
+  },
+  {
+   "hex": "#4a6956",
+   "name": "千歳緑",
+   "romaji": "Chitosemidori"
+  },
+  {
+   "hex": "#005731",
+   "name": "深緑",
+   "romaji": "Fukamidori"
+  },
+  {
+   "hex": "#15543b",
+   "name": "もえぎ色",
+   "romaji": "Moegi-iro"
+  },
+  {
+   "hex": "#49a581",
+   "name": "若竹色",
+   "romaji": "Wakatake-iro"
+  },
+  {
+   "hex": "#80aa9f",
+   "name": "青磁色",
+   "romaji": "Seiji-iro"
+  },
+  {
+   "hex": "#7aaaac",
+   "name": "青竹色",
+   "romaji": "Aotake-iro"
+  },
+  {
+   "hex": "#244344",
+   "name": "鉄色",
+   "romaji": "Tetsu-iro"
+  },
+  {
+   "hex": "#0090a8",
+   "name": "青緑",
+   "romaji": "Aomidori"
+  },
+  {
+   "hex": "#6c8d9b",
+   "name": "錆浅葱",
+   "romaji": "Sabiasagi"
+  },
+  {
+   "hex": "#7a99aa",
+   "name": "水浅葱",
+   "romaji": "Mizu'asagi"
+  },
+  {
+   "hex": "#69aac6",
+   "name": "新橋色",
+   "romaji": "Shinbashi-iro"
+  },
+  {
+   "hex": "#0087aa",
+   "name": "浅葱色",
+   "romaji": "Asagi-iro"
+  },
+  {
+   "hex": "#84b5cf",
+   "name": "白群",
+   "romaji": "Byakugun"
+  },
+  {
+   "hex": "#166a88",
+   "name": "納戸色",
+   "romaji": "Nando-iro"
+  },
+  {
+   "hex": "#8cb4ce",
+   "name": "かめのぞき",
+   "romaji": "Kamenozoki"
+  },
+  {
+   "hex": "#a9ceec",
+   "name": "水色",
+   "romaji": "Mizu-iro"
+  },
+  {
+   "hex": "#5e7184",
+   "name": "藍鼠",
+   "romaji": "Ainezu"
+  },
+  {
+   "hex": "#95c0ec",
+   "name": "空色",
+   "romaji": "Sora-iro"
+  },
+  {
+   "hex": "#0067c0",
+   "name": "青",
+   "romaji": "Ao"
+  },
+  {
+   "hex": "#2e4b71",
+   "name": "藍色",
+   "romaji": "Ai-iro"
+  },
+  {
+   "hex": "#20324e",
+   "name": "濃藍",
+   "romaji": "Koiai"
+  },
+  {
+   "hex": "#92afe4",
+   "name": "勿忘草色",
+   "romaji": "Wasurenagusa-iro"
+  },
+  {
+   "hex": "#3d7cce",
+   "name": "露草色",
+   "romaji": "Tsuyukusa-iro"
+  },
+  {
+   "hex": "#3c639b",
+   "name": "はなだ色",
+   "romaji": "Hanada-iro"
+  },
+  {
+   "hex": "#3d496b",
+   "name": "紺青",
+   "romaji": "Konjō"
+  },
+  {
+   "hex": "#3451a4",
+   "name": "るり色",
+   "romaji": "Ruri-iro"
+  },
+  {
+   "hex": "#324784",
+   "name": "るり紺",
+   "romaji": "Ruri-kon"
+  },
+  {
+   "hex": "#333c5e",
+   "name": "紺色",
+   "romaji": "Kon'-iro"
+  },
+  {
+   "hex": "#4c5dab",
+   "name": "かきつばた色",
+   "romaji": "Kakitsubata-iro"
+  },
+  {
+   "hex": "#383c57",
+   "name": "勝色",
+   "romaji": "Kachi-iro"
+  },
+  {
+   "hex": "#414fa3",
+   "name": "群青色",
+   "romaji": "Gunjō-iro"
+  },
+  {
+   "hex": "#232538",
+   "name": "鉄紺",
+   "romaji": "Tetsukon"
+  },
+  {
+   "hex": "#6869a8",
+   "name": "藤納戸",
+   "romaji": "Fujinando"
+  },
+  {
+   "hex": "#4a49ad",
+   "name": "ききょう色",
+   "romaji": "Kikyō-iro"
+  },
+  {
+   "hex": "#35357d",
+   "name": "紺藍",
+   "romaji": "Kon'ai"
+  },
+  {
+   "hex": "#a09bd8",
+   "name": "藤色",
+   "romaji": "Fuji-iro"
+  },
+  {
+   "hex": "#948bdb",
+   "name": "藤紫",
+   "romaji": "Fujimurasaki"
+  },
+  {
+   "hex": "#704cbc",
+   "name": "青紫",
+   "romaji": "Aomurasaki"
+  },
+  {
+   "hex": "#6d52ab",
+   "name": "菫色",
+   "romaji": "Sumire-iro"
+  },
+  {
+   "hex": "#675d7e",
+   "name": "鳩羽色",
+   "romaji": "Hatoba-iro"
+  },
+  {
+   "hex": "#7051aa",
+   "name": "しょうぶ色",
+   "romaji": "Shōbu-iro"
+  },
+  {
+   "hex": "#5f4c86",
+   "name": "江戸紫",
+   "romaji": "Edomurasaki"
+  },
+  {
+   "hex": "#a260bf",
+   "name": "紫",
+   "romaji": "Murasaki"
+  },
+  {
+   "hex": "#775686",
+   "name": "古代紫",
+   "romaji": "Kodaimurasaki"
+  },
+  {
+   "hex": "#47384f",
+   "name": "なす紺",
+   "romaji": "Nasu-kon"
+  },
+  {
+   "hex": "#402949",
+   "name": "紫紺",
+   "romaji": "Shikon"
+  },
+  {
+   "hex": "#c27bc8",
+   "name": "あやめ色",
+   "romaji": "Ayame-iro"
+  },
+  {
+   "hex": "#c24dae",
+   "name": "牡丹色",
+   "romaji": "Botan'-iro"
+  },
+  {
+   "hex": "#c54ea0",
+   "name": "赤紫",
+   "romaji": "Akamurasaki"
+  },
+  {
+   "hex": "#f1f1f1",
+   "name": "白",
+   "romaji": "Shiro"
+  },
+  {
+   "hex": "#f2e8ec",
+   "name": "胡粉色",
+   "romaji": "Gofun'-iro"
+  },
+  {
+   "hex": "#f0e2e0",
+   "name": "生成り色",
+   "romaji": "Kinari-iro"
+  },
+  {
+   "hex": "#e3d4ca",
+   "name": "象牙色",
+   "romaji": "Zōge-iro"
+  },
+  {
+   "hex": "#a0a0a0",
+   "name": "銀鼠",
+   "romaji": "Ginnezu"
+  },
+  {
+   "hex": "#9f9190",
+   "name": "茶鼠",
+   "romaji": "Chanezumi"
+  },
+  {
+   "hex": "#868686",
+   "name": "鼠色",
+   "romaji": "Nezumi-iro"
+  },
+  {
+   "hex": "#787c7a",
+   "name": "利休鼠",
+   "romaji": "Rikyūnezumi"
+  },
+  {
+   "hex": "#797a88",
+   "name": "鉛色",
+   "romaji": "Namari-iro"
+  },
+  {
+   "hex": "#797979",
+   "name": "灰色",
+   "romaji": "Hai-iro"
+  },
+  {
+   "hex": "#605448",
+   "name": "すす竹色",
+   "romaji": "Susutake-iro"
+  },
+  {
+   "hex": "#3e2e28",
+   "name": "黒茶",
+   "romaji": "Kurocha"
+  },
+  {
+   "hex": "#313131",
+   "name": "墨",
+   "romaji": "Sumi"
+  },
+  {
+   "hex": "#262626",
+   "name": "黒",
+   "romaji": "Kuro"
+  },
+  {
+   "hex": "#262626",
+   "name": "鉄黒",
+   "romaji": "Tetsuguro"
+  },
+  {
+   "hex": "#ef93b6",
+   "name": "ローズピンク",
+   "romaji": "Rōzupinku"
+  },
+  {
+   "hex": "#af3168",
+   "name": "コチニールレッド",
+   "romaji": "Kochinīrureddo"
+  },
+  {
+   "hex": "#b91e68",
+   "name": "ルビーレッド",
+   "romaji": "Rubīreddo"
+  },
+  {
+   "hex": "#83274e",
+   "name": "ワインレッド",
+   "romaji": "Wainreddo"
+  },
+  {
+   "hex": "#452a35",
+   "name": "バーガンディー",
+   "romaji": "Bāgandeī"
+  },
+  {
+   "hex": "#c97f96",
+   "name": "オールドローズ",
+   "romaji": "Ōrudorōzu"
+  },
+  {
+   "hex": "#d94177",
+   "name": "ローズ",
+   "romaji": "Rōzu"
+  },
+  {
+   "hex": "#bb1e5e",
+   "name": "ストロベリー",
+   "romaji": "Sutoroberī"
+  },
+  {
+   "hex": "#ff87a0",
+   "name": "コーラルレッド",
+   "romaji": "Kōrarureddo"
+  },
+  {
+   "hex": "#eb97a8",
+   "name": "ピンク",
+   "romaji": "Pinku"
+  },
+  {
+   "hex": "#55353b",
+   "name": "ボルドー",
+   "romaji": "Borudō"
+  },
+  {
+   "hex": "#ffc9d2",
+   "name": "ベビーピンク",
+   "romaji": "Bebīpinku"
+  },
+  {
+   "hex": "#dd4157",
+   "name": "ポピーレッド",
+   "romaji": "Popīreddo"
+  },
+  {
+   "hex": "#ce314a",
+   "name": "シグナルレッド",
+   "romaji": "Shigunarureddo"
+  },
+  {
+   "hex": "#be1e3e",
+   "name": "カーマイン",
+   "romaji": "Kāmain"
+  },
+  {
+   "hex": "#de424c",
+   "name": "レッド",
+   "romaji": "Reddo"
+  },
+  {
+   "hex": "#de424c",
+   "name": "トマトレッド",
+   "romaji": "Tomatoreddo"
+  },
+  {
+   "hex": "#682a2b",
+   "name": "マルーン",
+   "romaji": "Marūn"
+  },
+  {
+   "hex": "#ed514e",
+   "name": "バーミリオン",
+   "romaji": "Bāmirion"
+  },
+  {
+   "hex": "#de4335",
+   "name": "スカーレット",
+   "romaji": "Sukāretto"
+  },
+  {
+   "hex": "#ac5647",
+   "name": "テラコッタ",
+   "romaji": "Terakotta"
+  },
+  {
+   "hex": "#ffa594",
+   "name": "サーモンピンク",
+   "romaji": "Sāmonpinku"
+  },
+  {
+   "hex": "#fbccc3",
+   "name": "シェルピンク",
+   "romaji": "Shierupinku"
+  },
+  {
+   "hex": "#f1beb1",
+   "name": "ネールピンク",
+   "romaji": "Nērupinku"
+  },
+  {
+   "hex": "#ff5d20",
+   "name": "チャイニーズレッド",
+   "romaji": "Chainīzureddo"
+  },
+  {
+   "hex": "#cc572c",
+   "name": "キャロットオレンジ",
+   "romaji": "Kyarottōrenji"
+  },
+  {
+   "hex": "#a8593c",
+   "name": "バーントシェンナ",
+   "romaji": "Bāntoshienna"
+  },
+  {
+   "hex": "#52372f",
+   "name": "チョコレート",
+   "romaji": "Chokorēto"
+  },
+  {
+   "hex": "#9a753a",
+   "name": "カーキー",
+   "romaji": "Kākī"
+  },
+  {
+   "hex": "#e3b466",
+   "name": "ブロンド",
+   "romaji": "Burondo"
+  },
+  {
+   "hex": "#754c38",
+   "name": "ココアブラウン",
+   "romaji": "Kokoaburaun"
+  },
+  {
+   "hex": "#ebc0af",
+   "name": "ピーチ",
+   "romaji": "Pīchi"
+  },
+  {
+   "hex": "#bb6421",
+   "name": "ローシェンナ",
+   "romaji": "Rōshienna"
+  },
+  {
+   "hex": "#fd7e00",
+   "name": "オレンジ",
+   "romaji": "Orenji"
+  },
+  {
+   "hex": "#734e31",
+   "name": "ブラウン",
+   "romaji": "Buraun"
+  },
+  {
+   "hex": "#dda273",
+   "name": "アプリコット",
+   "romaji": "Apurikotto"
+  },
+  {
+   "hex": "#a56f3f",
+   "name": "タン",
+   "romaji": "Tan"
+  },
+  {
+   "hex": "#fd951e",
+   "name": "マンダリンオレンジ",
+   "romaji": "Mandarin'orenji"
+  },
+  {
+   "hex": "#a58161",
+   "name": "コルク",
+   "romaji": "Koruku"
+  },
+  {
+   "hex": "#f8cfae",
+   "name": "エクルベイジュ",
+   "romaji": "Ekurubeiju"
+  },
+  {
+   "hex": "#f39a38",
+   "name": "ゴールデンイエロー",
+   "romaji": "Gōruden'ierō"
+  },
+  {
+   "hex": "#ffa000",
+   "name": "マリーゴールド",
+   "romaji": "Marīgōrudo"
+  },
+  {
+   "hex": "#c5996d",
+   "name": "バフ",
+   "romaji": "Bafu"
+  },
+  {
+   "hex": "#b37d40",
+   "name": "アンバー",
+   "romaji": "Anbā"
+  },
+  {
+   "hex": "#815a2b",
+   "name": "ブロンズ",
+   "romaji": "Buronzu"
+  },
+  {
+   "hex": "#c1ab96",
+   "name": "ベージュ",
+   "romaji": "Bēju"
+  },
+  {
+   "hex": "#c18a39",
+   "name": "イエローオーカー",
+   "romaji": "Ierōōkā"
+  },
+  {
+   "hex": "#5b462a",
+   "name": "バーントアンバー",
+   "romaji": "Bāntoanbā"
+  },
+  {
+   "hex": "#4a3b2a",
+   "name": "セピア",
+   "romaji": "Sepia"
+  },
+  {
+   "hex": "#f2c26b",
+   "name": "ネープルスイエロー",
+   "romaji": "Nēpurusuierō"
+  },
+  {
+   "hex": "#e1c59b",
+   "name": "レグホーン",
+   "romaji": "Reguhōn"
+  },
+  {
+   "hex": "#7f5c13",
+   "name": "ローアンバー",
+   "romaji": "Rōanbā"
+  },
+  {
+   "hex": "#ffbc00",
+   "name": "クロムイエロー",
+   "romaji": "Kuromuierō"
+  },
+  {
+   "hex": "#ffcc00",
+   "name": "イエロー",
+   "romaji": "Ierō"
+  },
+  {
+   "hex": "#e8d5af",
+   "name": "クリームイエロー",
+   "romaji": "Kurīmuierō"
+  },
+  {
+   "hex": "#ffcc00",
+   "name": "ジョンブリアン",
+   "romaji": "Jonburian"
+  },
+  {
+   "hex": "#f7d54e",
+   "name": "カナリヤ",
+   "romaji": "Kanariya"
+  },
+  {
+   "hex": "#68624e",
+   "name": "オリーブドラブ",
+   "romaji": "Orībudorabu"
+  },
+  {
+   "hex": "#605627",
+   "name": "オリーブ",
+   "romaji": "Orību"
+  },
+  {
+   "hex": "#e8c800",
+   "name": "レモンイエロー",
+   "romaji": "Remon'ierō"
+  },
+  {
+   "hex": "#565838",
+   "name": "オリーブグリーン",
+   "romaji": "Orībugurīn"
+  },
+  {
+   "hex": "#bdd458",
+   "name": "シャトルーズグリーン",
+   "romaji": "Shatorūzugurīn"
+  },
+  {
+   "hex": "#879d4e",
+   "name": "リーフグリーン",
+   "romaji": "Rīfugurīn"
+  },
+  {
+   "hex": "#7b8d41",
+   "name": "グラスグリーン",
+   "romaji": "Gurasugurīn"
+  },
+  {
+   "hex": "#9ab961",
+   "name": "シーグリーン",
+   "romaji": "Shīgurīn"
+  },
+  {
+   "hex": "#516a39",
+   "name": "アイビーグリーン",
+   "romaji": "Aibīgurīn"
+  },
+  {
+   "hex": "#b0d3a8",
+   "name": "アップルグリーン",
+   "romaji": "Appurugurīn"
+  },
+  {
+   "hex": "#81cc91",
+   "name": "ミントグリーン",
+   "romaji": "Mintogurīn"
+  },
+  {
+   "hex": "#2a9b50",
+   "name": "グリーン",
+   "romaji": "Gurīn"
+  },
+  {
+   "hex": "#5dc288",
+   "name": "コバルトグリーン",
+   "romaji": "Kobarutogurīn"
+  },
+  {
+   "hex": "#4da573",
+   "name": "エメラルドグリーン",
+   "romaji": "Emerarudogurīn"
+  },
+  {
+   "hex": "#008047",
+   "name": "マラカイトグリーン",
+   "romaji": "Marakaitogurīn"
+  },
+  {
+   "hex": "#264435",
+   "name": "ボトルグリーン",
+   "romaji": "Botorugurīn"
+  },
+  {
+   "hex": "#3e795c",
+   "name": "フォレストグリーン",
+   "romaji": "Fuoresutogurīn"
+  },
+  {
+   "hex": "#156f5c",
+   "name": "ビリジアン",
+   "romaji": "Birijian"
+  },
+  {
+   "hex": "#004840",
+   "name": "ビリヤードグリーン",
+   "romaji": "Biriyādogurīn"
+  },
+  {
+   "hex": "#007f91",
+   "name": "ピーコックグリーン",
+   "romaji": "Pīkokkugurīn"
+  },
+  {
+   "hex": "#5190a4",
+   "name": "ナイルブルー",
+   "romaji": "Nairuburū"
+  },
+  {
+   "hex": "#00708b",
+   "name": "ピーコックブルー",
+   "romaji": "Pīkokkuburū"
+  },
+  {
+   "hex": "#399ecc",
+   "name": "ターコイズブルー",
+   "romaji": "Tākoizuburū"
+  },
+  {
+   "hex": "#005175",
+   "name": "マリンブルー",
+   "romaji": "Marinburū"
+  },
+  {
+   "hex": "#91b2d2",
+   "name": "ホリゾンブルー",
+   "romaji": "Horizonburū"
+  },
+  {
+   "hex": "#219ddd",
+   "name": "シアン",
+   "romaji": "Shian"
+  },
+  {
+   "hex": "#95c0ec",
+   "name": "スカイブルー",
+   "romaji": "Sukaiburū"
+  },
+  {
+   "hex": "#0b74af",
+   "name": "セルリアンブルー",
+   "romaji": "Serurianburū"
+  },
+  {
+   "hex": "#abbdda",
+   "name": "ベビーブルー",
+   "romaji": "Bebīburū"
+  },
+  {
+   "hex": "#627da1",
+   "name": "サックスブルー",
+   "romaji": "Sakkusuburū"
+  },
+  {
+   "hex": "#3170b9",
+   "name": "ブルー",
+   "romaji": "Burū"
+  },
+  {
+   "hex": "#2863ab",
+   "name": "コバルトブルー",
+   "romaji": "Kobarutoburū"
+  },
+  {
+   "hex": "#3d496b",
+   "name": "アイアンブルー",
+   "romaji": "Aianburū"
+  },
+  {
+   "hex": "#3d496b",
+   "name": "プルシャンブルー",
+   "romaji": "Purushanburū"
+  },
+  {
+   "hex": "#00152d",
+   "name": "ミッドナイトブルー",
+   "romaji": "Middonaitoburū"
+  },
+  {
+   "hex": "#7586bb",
+   "name": "ヒヤシンス",
+   "romaji": "Hiyashinsu"
+  },
+  {
+   "hex": "#333c5e",
+   "name": "ネービーブルー",
+   "romaji": "Nēbīburū"
+  },
+  {
+   "hex": "#414fa3",
+   "name": "ウルトラマリンブルー",
+   "romaji": "Urutoramarinburū"
+  },
+  {
+   "hex": "#37438f",
+   "name": "オリエンタルブルー",
+   "romaji": "Orientaruburū"
+  },
+  {
+   "hex": "#776ed2",
+   "name": "ウィスタリア",
+   "romaji": "Uisutaria"
+  },
+  {
+   "hex": "#40317e",
+   "name": "パンジー",
+   "romaji": "Panjī"
+  },
+  {
+   "hex": "#836dc5",
+   "name": "ヘリオトロープ",
+   "romaji": "Heriotorōpu"
+  },
+  {
+   "hex": "#6d52ab",
+   "name": "バイオレット",
+   "romaji": "Baioretto"
+  },
+  {
+   "hex": "#9e8eae",
+   "name": "ラベンダー",
+   "romaji": "Rabendā"
+  },
+  {
+   "hex": "#835fa8",
+   "name": "モーブ",
+   "romaji": "Mōbu"
+  },
+  {
+   "hex": "#c2a2da",
+   "name": "ライラック",
+   "romaji": "Rairakku"
+  },
+  {
+   "hex": "#c7a1d7",
+   "name": "オーキッド",
+   "romaji": "Ōkiddo"
+  },
+  {
+   "hex": "#a260bf",
+   "name": "パープル",
+   "romaji": "Pāpuru"
+  },
+  {
+   "hex": "#c949a2",
+   "name": "マゼンタ",
+   "romaji": "Mazenta"
+  },
+  {
+   "hex": "#cf61a5",
+   "name": "チェリーピンク",
+   "romaji": "Chierīpinku"
+  },
+  {
+   "hex": "#c74f90",
+   "name": "ローズレッド",
+   "romaji": "Rōzureddo"
+  },
+  {
+   "hex": "#f1f1f1",
+   "name": "ホワイト",
+   "romaji": "Howaito"
+  },
+  {
+   "hex": "#f1f1f1",
+   "name": "スノーホワイト",
+   "romaji": "Sunōhowaito"
+  },
+  {
+   "hex": "#e3d4ca",
+   "name": "アイボリー",
+   "romaji": "Aiborī"
+  },
+  {
+   "hex": "#babac6",
+   "name": "スカイグレイ",
+   "romaji": "Sukaigurei"
+  },
+  {
+   "hex": "#adadad",
+   "name": "パールグレイ",
+   "romaji": "Pārugurei"
+  },
+  {
+   "hex": "#a0a0a0",
+   "name": "シルバーグレイ",
+   "romaji": "Shirubāgurei"
+  },
+  {
+   "hex": "#939393",
+   "name": "アッシュグレイ",
+   "romaji": "Asshugurei"
+  },
+  {
+   "hex": "#93848b",
+   "name": "ローズグレイ",
+   "romaji": "Rōzugurei"
+  },
+  {
+   "hex": "#797979",
+   "name": "グレイ",
+   "romaji": "Gurei"
+  },
+  {
+   "hex": "#736c79",
+   "name": "スチールグレイ",
+   "romaji": "Suchīrugurei"
+  },
+  {
+   "hex": "#56555e",
+   "name": "スレートグレイ",
+   "romaji": "Surētogurei"
+  },
+  {
+   "hex": "#4e4854",
+   "name": "チャコールグレイ",
+   "romaji": "Chakōrugurei"
+  },
+  {
+   "hex": "#1c1c1c",
+   "name": "ランプブラック",
+   "romaji": "Ranpuburakku"
+  },
+  {
+   "hex": "#1c1c1c",
+   "name": "ブラック",
+   "romaji": "Burakku"
+  }
+ ]
+}
