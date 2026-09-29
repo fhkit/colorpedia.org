@@ -36,8 +36,8 @@ MARGIN = 20.0                     # free space around the outermost cells
 # --- Colour-wheel orientation ----------------------------------------------
 # Angles are mathematical (0 deg = right, counter-clockwise, y axis up).
 # SEAM is the direction of the neutral (grey) spoke; black sits at its end.
-# Hue runs clockwise from the seam: violet -> blue -> cyan -> green ->
-# yellow -> orange -> red -> magenta and back to the seam.
+# Hue increases clockwise on screen, starting at the seam: magenta -> red ->
+# orange -> yellow -> green -> cyan -> blue -> violet and back to the seam.
 SEAM_DEG = 270.0                  # straight down
 SEAM_HUE = 293.0                  # HSL hue that sits right next to the seam
 NEUTRAL_CHROMA = 6.0              # CIELAB C* below this -> neutral spoke
@@ -320,7 +320,8 @@ def svg_for(colors, placement):
     w = max(xs) - min(xs) + 2 * (MARGIN + HEX_R)
     h = max(ys) - min(ys) + 2 * (MARGIN + ROW_STEP / 2)
     out = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {fmt(w)} {fmt(h)}" '
-           f'width="{fmt(w)}" height="{fmt(h)}" shape-rendering="crispEdges">']
+           f'width="{fmt(w)}" height="{fmt(h)}" shape-rendering="crispEdges">',
+           '<g stroke="#444444" stroke-width="1" stroke-opacity="0.25">']
     # row-major order (top to bottom, left to right) keeps the file diff-friendly
     order = sorted(colors, key=lambda c: (cell_center(*placement[c["hex"]])[1],
                                           cell_center(*placement[c["hex"]])[0]))
@@ -331,11 +332,14 @@ def svg_for(colors, placement):
         pts = " ".join(f"{fmt(cx + HEX_R * math.cos(math.radians(k)))},"
                        f"{fmt(cy + HEX_R * math.sin(math.radians(k)))}"
                        for k in (0, 60, 120, 180, 240, 300))
-        names = [display_name(n) for f in ("names_en", "names_de", "names_ja") for n in c.get(f, [])]
+        names = [display_name(n) for f in ("names_en", "names_de") for n in c.get(f, [])]
+        names += [f"{n} · {r}" if r else n
+                  for n, r in zip(c.get("names_ja", []), c.get("names_ja_romaji", []))]
         names += c.get("names_brand", [])
         label = html.escape(" · ".join(names), quote=True)
         out.append(f'  <polygon points="{pts}" fill="{c["hex"]}" data-hex="{c["hex"]}" '
                    f'data-name="{label}"><title>{label} {c["hex"]}</title></polygon>')
+    out.append("</g>")
     out.append("</svg>")
     return "\n".join(out)
 
