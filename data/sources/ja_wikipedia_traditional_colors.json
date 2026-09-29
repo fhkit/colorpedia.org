@@ -1,0 +1,1377 @@
+{
+ "source": "https://en.wikipedia.org/wiki/Traditional_colors_of_Japan",
+ "license": "CC BY-SA 4.0 (Wikipedia)",
+ "retrieved": "2026-09-29",
+ "lang": "ja",
+ "note": "hex column used; source row for 桜鼠 (Sakuranezumi) lists RGB 172,129,118 which disagrees with its hex #AC8181",
+ "colors": [
+  {
+   "hex": "#f08f90",
+   "name": "一斤染",
+   "romaji": "Ikkonzome",
+   "meaning": "One kin (0.6 kg) dye"
+  },
+  {
+   "hex": "#f47983",
+   "name": "桃色",
+   "romaji": "Momo-iro",
+   "meaning": "Peach-colored"
+  },
+  {
+   "hex": "#db5a6b",
+   "name": "紅梅色",
+   "romaji": "Kōbai-iro",
+   "meaning": "Red plum colored"
+  },
+  {
+   "hex": "#c93756",
+   "name": "中紅",
+   "romaji": "Nakabeni",
+   "meaning": "Medium crimson (dye)"
+  },
+  {
+   "hex": "#fcc9b9",
+   "name": "桜色",
+   "romaji": "Sakura-iro",
+   "meaning": "Cherry blossom color"
+  },
+  {
+   "hex": "#ffb3a7",
+   "name": "退紅",
+   "romaji": "Arazome",
+   "meaning": "Washed-out crimson (dye)"
+  },
+  {
+   "hex": "#f2666c",
+   "name": "薄紅",
+   "romaji": "Usubeni",
+   "meaning": "Pale crimson (dye)"
+  },
+  {
+   "hex": "#f58f84",
+   "name": "鴇羽色",
+   "romaji": "Tokiha-iro",
+   "meaning": "Ibis wing color"
+  },
+  {
+   "hex": "#ac8181",
+   "name": "桜鼠",
+   "romaji": "Sakuranezumi",
+   "meaning": "Cherry blossom mouse grey"
+  },
+  {
+   "hex": "#b95754",
+   "name": "長春色",
+   "romaji": "Chōshun-iro",
+   "meaning": "Long spring (season) color"
+  },
+  {
+   "hex": "#c91f37",
+   "name": "唐紅/韓紅",
+   "romaji": "Karakurenai",
+   "meaning": "Foreign crimson{{efn|\"Since magenta, an imported artificial color, also resembled {{translit|ja|Kara-kurenai}} (here also {{translit|ja|Kara}} means Korea; {{translit|ja|kurenai}} means red), people started to call the deep red formerly known as {{translit|ja|kara-ai}} by the new designation {{translit|ja|Kara-kurenai}} (here, however, {{translit|ja|\"Kara\"}} means China).\"{{rp|37}}}}"
+  },
+  {
+   "hex": "#9d2933",
+   "name": "臙脂色",
+   "romaji": "Enji-iro",
+   "meaning": "Cochineal red/rouge"
+  },
+  {
+   "hex": "#7b3b3a",
+   "name": "深緋",
+   "romaji": "Kokiake",
+   "meaning": "Deep scarlet"
+  },
+  {
+   "hex": "#f7665a",
+   "name": "甚三紅",
+   "romaji": "Jinzamomi",
+   "meaning": "Thrice-dyed crimson"
+  },
+  {
+   "hex": "#b56c60",
+   "name": "水がき",
+   "romaji": "Mizugaki",
+   "meaning": "Water persimmon"
+  },
+  {
+   "hex": "#97645a",
+   "name": "梅鼠",
+   "romaji": "Umenezumi",
+   "meaning": "Plum-blossom mouse grey"
+  },
+  {
+   "hex": "#a24f46",
+   "name": "蘇芳香",
+   "romaji": "Su'ōkō",
+   "meaning": "Sappanwood incense"
+  },
+  {
+   "hex": "#c3272b",
+   "name": "赤紅",
+   "romaji": "Akabeni",
+   "meaning": "Pure crimson (dye)"
+  },
+  {
+   "hex": "#8f1d21",
+   "name": "真朱",
+   "romaji": "Shinshu",
+   "meaning": "True red"
+  },
+  {
+   "hex": "#672422",
+   "name": "小豆色",
+   "romaji": "Azuki-iro",
+   "meaning": "Azuki bean color"
+  },
+  {
+   "hex": "#bc2d29",
+   "name": "銀朱",
+   "romaji": "Ginshu",
+   "meaning": "Greyed red (lit. silvered red)"
+  },
+  {
+   "hex": "#5e2824",
+   "name": "海老茶",
+   "romaji": "Ebicha",
+   "meaning": "Maroon (shrimp brown)"
+  },
+  {
+   "hex": "#8b352d",
+   "name": "栗梅",
+   "romaji": "Kiriume",
+   "meaning": "Red-brown (lit. chestnut-plum)"
+  },
+  {
+   "hex": "#fa7b62",
+   "name": "曙色",
+   "romaji": "Akebono-iro",
+   "meaning": "Dawn-color"
+  },
+  {
+   "hex": "#f8674f",
+   "name": "珊瑚色",
+   "romaji": "Sango-iro",
+   "meaning": "Coral color"
+  },
+  {
+   "hex": "#dc3023",
+   "name": "猩々緋",
+   "romaji": "Shōjōhi",
+   "meaning": "Red-orange (lit. orangutan-colored)"
+  },
+  {
+   "hex": "#ab4c3d",
+   "name": "芝翫茶",
+   "romaji": "Shikancha",
+   "meaning": "Wilted brown (lit. wilted lawn-clippings)"
+  },
+  {
+   "hex": "#934337",
+   "name": "柿渋色",
+   "romaji": "Kakishibu-iro",
+   "meaning": "Persimmon-juice color"
+  },
+  {
+   "hex": "#9d2b22",
+   "name": "紅樺",
+   "romaji": "Benikaba",
+   "meaning": "Red birch"
+  },
+  {
+   "hex": "#913228",
+   "name": "紅鳶",
+   "romaji": "Benitobi",
+   "meaning": "Red kite (bird species)"
+  },
+  {
+   "hex": "#6f3028",
+   "name": "紅檜皮",
+   "romaji": "Benihibata",
+   "meaning": "Cypress bark red"
+  },
+  {
+   "hex": "#351e1c",
+   "name": "黒鳶",
+   "romaji": "Kurotobi",
+   "meaning": "Black kite (bird species)"
+  },
+  {
+   "hex": "#f35336",
+   "name": "紅緋",
+   "romaji": "Benihi",
+   "meaning": "Blood red"
+  },
+  {
+   "hex": "#d34e36",
+   "name": "照柿",
+   "romaji": "Terigaki",
+   "meaning": "Glazed persimmon"
+  },
+  {
+   "hex": "#cf3a24",
+   "name": "緋",
+   "romaji": "Ake",
+   "meaning": "Scarlet (blood)"
+  },
+  {
+   "hex": "#a13d2d",
+   "name": "江戸茶",
+   "romaji": "Edocha",
+   "meaning": "Red-brown (Edo brown)"
+  },
+  {
+   "hex": "#913225",
+   "name": "紅柄色",
+   "romaji": "Bengara-iro",
+   "meaning": "Dyestalk red (lit. the color from dying with the stalk of the {{translit|ja|beni}} (safflower) plant)"
+  },
+  {
+   "hex": "#752e23",
+   "name": "檜皮色",
+   "romaji": "Hihada-iro",
+   "meaning": "Cypress bark color"
+  },
+  {
+   "hex": "#f9906f",
+   "name": "宍色",
+   "romaji": "Shishi-iro",
+   "meaning": "Meat-color"
+  },
+  {
+   "hex": "#ff7952",
+   "name": "洗朱",
+   "romaji": "Araishu",
+   "meaning": "Rinsed-out red"
+  },
+  {
+   "hex": "#f07f5e",
+   "name": "赤香色",
+   "romaji": "Akakō-iro",
+   "meaning": "Red incense-colored"
+  },
+  {
+   "hex": "#e68364",
+   "name": "ときがら茶",
+   "romaji": "Tokigaracha",
+   "meaning": "Brewed mustard-brown"
+  },
+  {
+   "hex": "#ff4e20",
+   "name": "黄丹",
+   "romaji": "Ōtan",
+   "meaning": "Ochre (earthen yellow-red-brown)"
+  },
+  {
+   "hex": "#e35c38",
+   "name": "蘇比",
+   "romaji": "Sohi",
+   "meaning": "Overdyed/refreshed red-brown"
+  },
+  {
+   "hex": "#cb6649",
+   "name": "遠州茶",
+   "romaji": "Enshūcha",
+   "meaning": "Muddy brown (lit. the brown of a distant river)"
+  },
+  {
+   "hex": "#b35c44",
+   "name": "唐茶",
+   "romaji": "Karacha",
+   "meaning": "Spicy red-brown (Chinese tea brown)"
+  },
+  {
+   "hex": "#b14a30",
+   "name": "樺茶",
+   "romaji": "Kabacha",
+   "meaning": "Birch brown"
+  },
+  {
+   "hex": "#9b533f",
+   "name": "宗傳唐茶",
+   "romaji": "Sōdenkaracha",
+   "meaning": "Faded spicy red-brown"
+  },
+  {
+   "hex": "#8c4736",
+   "name": "雀茶",
+   "romaji": "Suzumecha",
+   "meaning": "Sparrow-brown"
+  },
+  {
+   "hex": "#60281e",
+   "name": "栗皮茶",
+   "romaji": "Kurikawacha",
+   "meaning": "Chestnut-leather brown"
+  },
+  {
+   "hex": "#542d24",
+   "name": "百塩茶",
+   "romaji": "Momoshiocha",
+   "meaning": "Boiled red bean brown"
+  },
+  {
+   "hex": "#4c221b",
+   "name": "鳶色",
+   "romaji": "Tobi-iro",
+   "meaning": "Ibis-color"
+  },
+  {
+   "hex": "#ff3500",
+   "name": "朱色",
+   "romaji": "Shu-iro",
+   "meaning": "Cinnabar-color"
+  },
+  {
+   "hex": "#9f7462",
+   "name": "胡桃染",
+   "romaji": "Kurumizome",
+   "meaning": "Walnut-dyed"
+  },
+  {
+   "hex": "#b64925",
+   "name": "蒲色",
+   "romaji": "Kaba-iro",
+   "meaning": "Cattail color"
+  },
+  {
+   "hex": "#592b1f",
+   "name": "黄櫨染",
+   "romaji": "Kōrozen",
+   "meaning": "Sumac-dyed"
+  },
+  {
+   "hex": "#351f19",
+   "name": "焦茶",
+   "romaji": "Kogecha",
+   "meaning": "Scorched brown"
+  },
+  {
+   "hex": "#f57f4f",
+   "name": "深支子",
+   "romaji": "Kokikuchinashi",
+   "meaning": "Rich gardenia"
+  },
+  {
+   "hex": "#ec8254",
+   "name": "洗柿",
+   "romaji": "Araigaki",
+   "meaning": "Washed-out persimmon"
+  },
+  {
+   "hex": "#9f5233",
+   "name": "代赭色",
+   "romaji": "Taisha-iro",
+   "meaning": "Red ochre color"
+  },
+  {
+   "hex": "#ec956c",
+   "name": "赤白橡",
+   "romaji": "Akashirotsurubami",
+   "meaning": "Sawtooth oak"
+  },
+  {
+   "hex": "#985538",
+   "name": "礪茶",
+   "romaji": "Tonocha",
+   "meaning": "Polished brown"
+  },
+  {
+   "hex": "#824b35",
+   "name": "煎茶色",
+   "romaji": "Sencha-iro",
+   "meaning": "Green tea-colored"
+  },
+  {
+   "hex": "#ffa26b",
+   "name": "洒落柿",
+   "romaji": "Sharegaki",
+   "meaning": "Stylish persimmon"
+  },
+  {
+   "hex": "#fca474",
+   "name": "薄柿",
+   "romaji": "Usugaki",
+   "meaning": "Pale persimmon"
+  },
+  {
+   "hex": "#ff8936",
+   "name": "萱草色",
+   "romaji": "Kanzō-iro",
+   "meaning": "Daylily-colored"
+  },
+  {
+   "hex": "#fa9258",
+   "name": "梅染",
+   "romaji": "Umezome",
+   "meaning": "Plum-dyed"
+  },
+  {
+   "hex": "#fb8136",
+   "name": "紅鬱金",
+   "romaji": "Beni'ukon",
+   "meaning": "Red-bronze (lit. red dye and turmeric)"
+  },
+  {
+   "hex": "#8f583c",
+   "name": "丁子茶",
+   "romaji": "Chōjicha",
+   "meaning": "Clove-brown"
+  },
+  {
+   "hex": "#2e211b",
+   "name": "憲法染",
+   "romaji": "Kenpōzome",
+   "meaning": "named after the swordsman Yoshioka Kenpo (lit. Legal dye)"
+  },
+  {
+   "hex": "#ab6134",
+   "name": "枇杷茶",
+   "romaji": "Biwacha",
+   "meaning": "Loquat tree-brown"
+  },
+  {
+   "hex": "#ca6924",
+   "name": "琥珀色",
+   "romaji": "Kohaku-iro",
+   "meaning": "Amber color"
+  },
+  {
+   "hex": "#ffa565",
+   "name": "淡香",
+   "romaji": "Usukō",
+   "meaning": "Pale incense"
+  },
+  {
+   "hex": "#d57835",
+   "name": "朽葉色",
+   "romaji": "Kuchiba-iro",
+   "meaning": "Decaying leaves color"
+  },
+  {
+   "hex": "#c66b27",
+   "name": "金茶",
+   "romaji": "Kincha",
+   "meaning": "Golden brown"
+  },
+  {
+   "hex": "#a96232",
+   "name": "丁子染",
+   "romaji": "Chōjizome",
+   "meaning": "Clove-dyed"
+  },
+  {
+   "hex": "#985629",
+   "name": "狐色",
+   "romaji": "Kitsune-iro",
+   "meaning": "Fox-color"
+  },
+  {
+   "hex": "#8c5939",
+   "name": "柴染",
+   "romaji": "Fushizome",
+   "meaning": "Brushwood-dyed"
+  },
+  {
+   "hex": "#6a432d",
+   "name": "伽羅色",
+   "romaji": "Kyara-iro",
+   "meaning": "Aloewood-color"
+  },
+  {
+   "hex": "#593a27",
+   "name": "煤竹色",
+   "romaji": "Susutake-iro",
+   "meaning": "Weathered bamboo (lit. \"sooty\")"
+  },
+  {
+   "hex": "#c48e69",
+   "name": "白茶",
+   "romaji": "Shiracha",
+   "meaning": "White tea-colored"
+  },
+  {
+   "hex": "#be7f51",
+   "name": "黄土色",
+   "romaji": "Ōdo-iro",
+   "meaning": "Ochre (lit. earthen yellow)"
+  },
+  {
+   "hex": "#7d4e2d",
+   "name": "銀煤竹",
+   "romaji": "Kinsusutake",
+   "meaning": "Golden-grey bamboo (dried and weathered)"
+  },
+  {
+   "hex": "#b7702d",
+   "name": "黄唐茶",
+   "romaji": "Kigaracha",
+   "meaning": "Chinese yellow tea-colored"
+  },
+  {
+   "hex": "#6b4423",
+   "name": "媚茶",
+   "romaji": "Kobicha",
+   "meaning": "Kobi tea"
+  },
+  {
+   "hex": "#db8449",
+   "name": "赤朽葉",
+   "romaji": "Akakuchiba",
+   "meaning": "Red fallen leaves"
+  },
+  {
+   "hex": "#f7bb7d",
+   "name": "浅黄",
+   "romaji": "Asagi",
+   "meaning": "Light yellow"
+  },
+  {
+   "hex": "#ffa400",
+   "name": "山吹色",
+   "romaji": "Yamabuki-iro",
+   "meaning": "Golden yellow (Kerria japonica)"
+  },
+  {
+   "hex": "#ffa631",
+   "name": "玉子色",
+   "romaji": "Tamago-iro",
+   "meaning": "Egg-colored"
+  },
+  {
+   "hex": "#e08a1e",
+   "name": "櫨染",
+   "romaji": "Hajizome",
+   "meaning": "Sumac-dyed"
+  },
+  {
+   "hex": "#cb7e1f",
+   "name": "山吹茶",
+   "romaji": "Yamabukicha",
+   "meaning": "Gold-brown"
+  },
+  {
+   "hex": "#c57f2e",
+   "name": "桑染",
+   "romaji": "Kuwazome",
+   "meaning": "Mulberry-dyed"
+  },
+  {
+   "hex": "#785e49",
+   "name": "生壁色",
+   "romaji": "Namakabe-iro",
+   "meaning": "The color of undried plaster"
+  },
+  {
+   "hex": "#ffb95a",
+   "name": "梔子",
+   "romaji": "Kuchinashi",
+   "meaning": "Cape jasmine or gardenia"
+  },
+  {
+   "hex": "#faa945",
+   "name": "玉蜀黍色",
+   "romaji": "Tōmorokoshi-iro",
+   "meaning": "Corn-colored"
+  },
+  {
+   "hex": "#ce9f6f",
+   "name": "白橡",
+   "romaji": "Shirotsurubami",
+   "meaning": "White oak"
+  },
+  {
+   "hex": "#bb8141",
+   "name": "黄橡",
+   "romaji": "Kitsurubami",
+   "meaning": "Golden oak"
+  },
+  {
+   "hex": "#ffb61e",
+   "name": "藤黄",
+   "romaji": "Tō'ō",
+   "meaning": "Gamboge"
+  },
+  {
+   "hex": "#ffb94e",
+   "name": "花葉色",
+   "romaji": "Hanaba-iro or kayou-iro",
+   "meaning": "Floral leaf-colored"
+  },
+  {
+   "hex": "#e2be9f",
+   "name": "鳥の子色",
+   "romaji": "Torinoko-iro",
+   "meaning": "Eggshell paper-colored"
+  },
+  {
+   "hex": "#e69b3a",
+   "name": "鬱金色",
+   "romaji": "Ukon-iro",
+   "meaning": "Turmeric-colored"
+  },
+  {
+   "hex": "#e29c45",
+   "name": "黄朽葉",
+   "romaji": "Kikuchiba",
+   "meaning": "Golden fallen leaves"
+  },
+  {
+   "hex": "#b0927a",
+   "name": "利休白茶",
+   "romaji": "Rikyūshiracha",
+   "meaning": "Faded Sen no Rikyū's tea"
+  },
+  {
+   "hex": "#826b58",
+   "name": "利休茶",
+   "romaji": "Rikyūcha",
+   "meaning": "Sen no Rikyū's tea"
+  },
+  {
+   "hex": "#7f6b5d",
+   "name": "灰汁色",
+   "romaji": "Aku-iro",
+   "meaning": "Lye-colored"
+  },
+  {
+   "hex": "#7f5d3b",
+   "name": "肥後煤竹",
+   "romaji": "Higosusutake",
+   "meaning": "Japanese iris and sooty bamboo"
+  },
+  {
+   "hex": "#665343",
+   "name": "路考茶",
+   "romaji": "Rokōcha",
+   "meaning": "Contemplation in a tea garden"
+  },
+  {
+   "hex": "#4c3d30",
+   "name": "海松茶",
+   "romaji": "Mirucha",
+   "meaning": "Simmered seaweed"
+  },
+  {
+   "hex": "#a17917",
+   "name": "菜種油色",
+   "romaji": "Nataneyu-iro",
+   "meaning": "Rapeseed oil-colored"
+  },
+  {
+   "hex": "#896c39",
+   "name": "黄海松茶",
+   "romaji": "Kimirucha",
+   "meaning": "Yellow Sea pine-brown"
+  },
+  {
+   "hex": "#5c4827",
+   "name": "鶯茶",
+   "romaji": "Uguisucha",
+   "meaning": "Japanese bush warbler-brown (greenish brown)"
+  },
+  {
+   "hex": "#e3b130",
+   "name": "菜の花色",
+   "romaji": "Nanohanacha",
+   "meaning": "Rape-blossom brown"
+  },
+  {
+   "hex": "#e2b13c",
+   "name": "苅萱",
+   "romaji": "Kariyasu",
+   "meaning": "Japanese triandra grass (''Themeda japonica'')"
+  },
+  {
+   "hex": "#f3c13a",
+   "name": "黄蘗",
+   "romaji": "Kihada",
+   "meaning": "Amur cork tree (''Phellodendron amurense'')"
+  },
+  {
+   "hex": "#d3b17d",
+   "name": "蒸栗色",
+   "romaji": "Mushikuri-iro",
+   "meaning": "Steamed chestnut color"
+  },
+  {
+   "hex": "#aa8736",
+   "name": "青朽葉",
+   "romaji": "Aokuchiba",
+   "meaning": "Pale fallen leaves"
+  },
+  {
+   "hex": "#957b38",
+   "name": "鶸茶",
+   "romaji": "Hiwacha",
+   "meaning": "Finch-brown (Cardueline finch)"
+  },
+  {
+   "hex": "#d9b611",
+   "name": "女郎花",
+   "romaji": "Ominaeshi",
+   "meaning": "Patrinia flowers (''Patrinia scabiosaefolia'')"
+  },
+  {
+   "hex": "#645530",
+   "name": "鶯色",
+   "romaji": "Uguisu-iro",
+   "meaning": "Japanese bush warbler-colored"
+  },
+  {
+   "hex": "#bda928",
+   "name": "鶸色",
+   "romaji": "Hiwa-iro",
+   "meaning": "Greenfinch color"
+  },
+  {
+   "hex": "#9ba88d",
+   "name": "青白橡",
+   "romaji": "Aoshirotsurubami",
+   "meaning": "Pale oak"
+  },
+  {
+   "hex": "#9c8a4d",
+   "name": "柳茶",
+   "romaji": "Yanagicha",
+   "meaning": "Willow tea"
+  },
+  {
+   "hex": "#534a32",
+   "name": "璃寛茶",
+   "romaji": "Rikancha",
+   "meaning": "Rikan brown"
+  },
+  {
+   "hex": "#473f2d",
+   "name": "藍媚茶",
+   "romaji": "Aikobicha",
+   "meaning": "Indigo tea"
+  },
+  {
+   "hex": "#8b7d3a",
+   "name": "苔色",
+   "romaji": "Koke-iro",
+   "meaning": "Moss color"
+  },
+  {
+   "hex": "#524b2a",
+   "name": "海松色",
+   "romaji": "Miru-iro",
+   "meaning": "''Codium fragile'' seaweed color"
+  },
+  {
+   "hex": "#3b3429",
+   "name": "千歳茶",
+   "romaji": "Sensaicha",
+   "meaning": "Thousand year old brown"
+  },
+  {
+   "hex": "#857c55",
+   "name": "梅幸茶",
+   "romaji": "Baikōcha",
+   "meaning": "Baiko brown"
+  },
+  {
+   "hex": "#5e5545",
+   "name": "岩井茶",
+   "romaji": "Iwaicha",
+   "meaning": "Iwai brown{{sfn|Hibi|Fukuda|2000|p=44|ps= .After the kabuki actor Iwai Hanshiro IV.}}"
+  },
+  {
+   "hex": "#7a942e",
+   "name": "鶸萌黄",
+   "romaji": "Hiwamo'egi",
+   "meaning": "Siskin sprout yellow"
+  },
+  {
+   "hex": "#4d4b3a",
+   "name": "柳煤竹",
+   "romaji": "Yanagisusutake",
+   "meaning": "Sooty willow bamboo"
+  },
+  {
+   "hex": "#bcb58c",
+   "name": "裏柳",
+   "romaji": "Urahayanagi",
+   "meaning": "Underside of willow leaves"
+  },
+  {
+   "hex": "#8db255",
+   "name": "淡萌黄",
+   "romaji": "Usumo'egi",
+   "meaning": "Pale young green onion"
+  },
+  {
+   "hex": "#8c9e5e",
+   "name": "柳染",
+   "romaji": "Yanagizome",
+   "meaning": "Willow-dyed"
+  },
+  {
+   "hex": "#5b8930",
+   "name": "萌黄",
+   "romaji": "Mo'egi",
+   "meaning": "Fresh onion"
+  },
+  {
+   "hex": "#52593b",
+   "name": "青丹",
+   "romaji": "Aoni",
+   "meaning": "Blue-black clay"
+  },
+  {
+   "hex": "#454d32",
+   "name": "松葉色",
+   "romaji": "Matsuba-iro",
+   "meaning": "Pine needle color"
+  },
+  {
+   "hex": "#8c9c76",
+   "name": "薄青",
+   "romaji": "Usu'ao",
+   "meaning": "Pale blue"
+  },
+  {
+   "hex": "#6b9362",
+   "name": "若竹色",
+   "romaji": "Wakatake-iro",
+   "meaning": "Young bamboo color"
+  },
+  {
+   "hex": "#817b69",
+   "name": "柳鼠",
+   "romaji": "Yanaginezumi",
+   "meaning": "Willow grey"
+  },
+  {
+   "hex": "#5e644f",
+   "name": "老竹色",
+   "romaji": "Oitake-iro",
+   "meaning": "Old bamboo color"
+  },
+  {
+   "hex": "#374231",
+   "name": "千歳緑",
+   "romaji": "Chitosemidori",
+   "meaning": "Thousand year old green"
+  },
+  {
+   "hex": "#2a603b",
+   "name": "緑",
+   "romaji": "Midori",
+   "meaning": "Green"
+  },
+  {
+   "hex": "#a5ba93",
+   "name": "白緑",
+   "romaji": "Byakuroku",
+   "meaning": "Whitish green"
+  },
+  {
+   "hex": "#898a74",
+   "name": "錆青磁",
+   "romaji": "Sabiseiji",
+   "meaning": "Rusty celadon"
+  },
+  {
+   "hex": "#407a52",
+   "name": "緑青",
+   "romaji": "Rokushō",
+   "meaning": "Patina"
+  },
+  {
+   "hex": "#3d5d42",
+   "name": "木賊色",
+   "romaji": "Tokusa-iro",
+   "meaning": "Horsetail color"
+  },
+  {
+   "hex": "#3d4035",
+   "name": "御納戸茶",
+   "romaji": "Onandocha",
+   "meaning": "Storeroom brown"
+  },
+  {
+   "hex": "#006442",
+   "name": "青竹色",
+   "romaji": "Aotake-iro",
+   "meaning": "Green bamboo color"
+  },
+  {
+   "hex": "#656255",
+   "name": "利休鼠",
+   "romaji": "Rikyūnezumi",
+   "meaning": "Greyish dark green"
+  },
+  {
+   "hex": "#224634",
+   "name": "びろうど",
+   "romaji": "Birōdo",
+   "meaning": "Velvet"
+  },
+  {
+   "hex": "#2d4436",
+   "name": "虫襖",
+   "romaji": "Mushi'ao",
+   "meaning": "Insect screen"
+  },
+  {
+   "hex": "#2e372e",
+   "name": "藍海松茶",
+   "romaji": "Aimirucha",
+   "meaning": "Indigo ''Codium fragile'' seaweed brown"
+  },
+  {
+   "hex": "#5a6457",
+   "name": "沈香茶",
+   "romaji": "Tonocha",
+   "meaning": "Aloeswood brown"
+  },
+  {
+   "hex": "#749f8d",
+   "name": "水浅葱",
+   "romaji": "Mizu'asagi",
+   "meaning": "Pale green onion"
+  },
+  {
+   "hex": "#819c8b",
+   "name": "青磁色",
+   "romaji": "Seiji-iro",
+   "meaning": "Celadon color"
+  },
+  {
+   "hex": "#3a6960",
+   "name": "青碧",
+   "romaji": "Seiheki",
+   "meaning": "Blue-green"
+  },
+  {
+   "hex": "#3a403b",
+   "name": "錆鉄御納戸",
+   "romaji": "Sabitetsuonando",
+   "meaning": "Rusty storeroom"
+  },
+  {
+   "hex": "#2b3733",
+   "name": "鉄色",
+   "romaji": "Tetsu-iro",
+   "meaning": "Iron color"
+  },
+  {
+   "hex": "#354e4b",
+   "name": "御召茶",
+   "romaji": "Omeshicha",
+   "meaning": "Silk crepe brown"
+  },
+  {
+   "hex": "#203838",
+   "name": "高麗納戸",
+   "romaji": "Kōrainando",
+   "meaning": "Goryeo storeroom"
+  },
+  {
+   "hex": "#757d75",
+   "name": "湊鼠",
+   "romaji": "Minatonezumi",
+   "meaning": "Harbor rat"
+  },
+  {
+   "hex": "#4f4944",
+   "name": "青鈍",
+   "romaji": "Aonibi",
+   "meaning": "Dull blue"
+  },
+  {
+   "hex": "#2b3736",
+   "name": "鉄御納戸",
+   "romaji": "Tetsuonando",
+   "meaning": "Iron storage"
+  },
+  {
+   "hex": "#86aba5",
+   "name": "水色",
+   "romaji": "Mizu-iro",
+   "meaning": "Aqua Blue color"
+  },
+  {
+   "hex": "#6a7f7a",
+   "name": "錆浅葱",
+   "romaji": "Sabiasagi",
+   "meaning": "Rusted light-blue"
+  },
+  {
+   "hex": "#c6c2b6",
+   "name": "瓶覗",
+   "romaji": "Kamenozoki",
+   "meaning": "Inside of a bottle"
+  },
+  {
+   "hex": "#48929b",
+   "name": "浅葱色",
+   "romaji": "Asagi-iro",
+   "meaning": "Light blue color"
+  },
+  {
+   "hex": "#006c7f",
+   "name": "新橋色",
+   "romaji": "Shinbashi-iro",
+   "meaning": "\"New Bridge\" color"
+  },
+  {
+   "hex": "#455859",
+   "name": "錆御納戸",
+   "romaji": "Sabionando",
+   "meaning": "Rusty storage"
+  },
+  {
+   "hex": "#5c544e",
+   "name": "藍鼠",
+   "romaji": "Ainezumi",
+   "meaning": "Mousy indigo"
+  },
+  {
+   "hex": "#264348",
+   "name": "藍色",
+   "romaji": "Ai-iro",
+   "meaning": "Indigo color"
+  },
+  {
+   "hex": "#364141",
+   "name": "御納戸色",
+   "romaji": "Onando-iro",
+   "meaning": "Onando color"
+  },
+  {
+   "hex": "#1d697c",
+   "name": "花浅葱",
+   "romaji": "Hanaasagi",
+   "meaning": "Light blue flower"
+  },
+  {
+   "hex": "#317589",
+   "name": "千草色",
+   "romaji": "Chigusa-iro",
+   "meaning": "Thousand herb color"
+  },
+  {
+   "hex": "#4d646c",
+   "name": "舛花色",
+   "romaji": "Masuhana-iro",
+   "meaning": "Ichikawa family crest blue"
+  },
+  {
+   "hex": "#044f67",
+   "name": "縹",
+   "romaji": "Hanada",
+   "meaning": "Light blue silk"
+  },
+  {
+   "hex": "#344d56",
+   "name": "熨斗目花色",
+   "romaji": "Noshimehana-iro",
+   "meaning": "Iron head flower color"
+  },
+  {
+   "hex": "#3d4c51",
+   "name": "御召御納戸",
+   "romaji": "Omeshionando",
+   "meaning": "Kimono storage"
+  },
+  {
+   "hex": "#4d8fac",
+   "name": "空色",
+   "romaji": "Sora-iro",
+   "meaning": "Sky Blue color"
+  },
+  {
+   "hex": "#252321",
+   "name": "黒橡",
+   "romaji": "Kurotsurubami",
+   "meaning": "Black chestnut oak"
+  },
+  {
+   "hex": "#5d8cae",
+   "name": "群青色",
+   "romaji": "Gunjō-iro",
+   "meaning": "Ultramarine color"
+  },
+  {
+   "hex": "#192236",
+   "name": "紺",
+   "romaji": "Kon",
+   "meaning": "Dark blue"
+  },
+  {
+   "hex": "#181b26",
+   "name": "褐色",
+   "romaji": "Kachi-iro",
+   "meaning": "Coarse wool color"
+  },
+  {
+   "hex": "#1f4788",
+   "name": "瑠璃色",
+   "romaji": "Ruri-iro",
+   "meaning": "Lapis lazuli color"
+  },
+  {
+   "hex": "#003171",
+   "name": "紺青色",
+   "romaji": "Konjō-iro",
+   "meaning": "Prussian blue color"
+  },
+  {
+   "hex": "#1b294b",
+   "name": "瑠璃紺",
+   "romaji": "Rurikon",
+   "meaning": "Dark blue lapis lazuli"
+  },
+  {
+   "hex": "#78779b",
+   "name": "紅碧",
+   "romaji": "Benimidori",
+   "meaning": "Stained red"
+  },
+  {
+   "hex": "#191f45",
+   "name": "紺桔梗",
+   "romaji": "Konkikyō",
+   "meaning": "Navy blue bellflower"
+  },
+  {
+   "hex": "#766980",
+   "name": "藤鼠",
+   "romaji": "Fujinezumi",
+   "meaning": "Mousy wisteria"
+  },
+  {
+   "hex": "#5a4f74",
+   "name": "紅掛花色",
+   "romaji": "Benikakehana-iro",
+   "meaning": "Safflower color"
+  },
+  {
+   "hex": "#89729e",
+   "name": "藤色",
+   "romaji": "Fuji-iro",
+   "meaning": "Wisteria color"
+  },
+  {
+   "hex": "#614e6e",
+   "name": "二藍",
+   "romaji": "Futa'ai",
+   "meaning": "Dark indigo"
+  },
+  {
+   "hex": "#875f9a",
+   "name": "藤紫",
+   "romaji": "Fujimurasaki",
+   "meaning": "Wisteria purple"
+  },
+  {
+   "hex": "#5d3f6a",
+   "name": "桔梗色",
+   "romaji": "Kikyō-iro",
+   "meaning": "Bellflower color"
+  },
+  {
+   "hex": "#976e9a",
+   "name": "紫苑色",
+   "romaji": "Shion-iro",
+   "meaning": "Tatarian aster color"
+  },
+  {
+   "hex": "#3f313a",
+   "name": "滅紫",
+   "romaji": "Messhi<ref>{{cite web | url=https://irocore.com/messhi/ | title=滅紫(めっし)とは？：伝統色のいろは }}</ref>",
+   "meaning": "Poppy purple"
+  },
+  {
+   "hex": "#2b2028",
+   "name": "紫紺",
+   "romaji": "Shikon",
+   "meaning": "Blue-violet"
+  },
+  {
+   "hex": "#3a243b",
+   "name": "深紫",
+   "romaji": "Kokimurasaki",
+   "meaning": "Deep purple"
+  },
+  {
+   "hex": "#a87ca0",
+   "name": "薄色",
+   "romaji": "Usu-iro",
+   "meaning": "Thin color"
+  },
+  {
+   "hex": "#8d608c",
+   "name": "半色",
+   "romaji": "Hashita-iro",
+   "meaning": "Half color"
+  },
+  {
+   "hex": "#5b3256",
+   "name": "菫色",
+   "romaji": "Sumire-iro",
+   "meaning": "Violet color"
+  },
+  {
+   "hex": "#4f284b",
+   "name": "紫",
+   "romaji": "Murasaki",
+   "meaning": "Purple"
+  },
+  {
+   "hex": "#23191e",
+   "name": "黒紅",
+   "romaji": "Kurobeni",
+   "meaning": "Dark red"
+  },
+  {
+   "hex": "#763568",
+   "name": "菖蒲色",
+   "romaji": "Ayame-iro",
+   "meaning": "Iris color"
+  },
+  {
+   "hex": "#bb7796",
+   "name": "紅藤",
+   "romaji": "Benifuji",
+   "meaning": "Red wisteria"
+  },
+  {
+   "hex": "#491e3c",
+   "name": "杜若",
+   "romaji": "Kakitsubata",
+   "meaning": "Rabbit-ear iris"
+  },
+  {
+   "hex": "#755d5b",
+   "name": "鳩羽鼠",
+   "romaji": "Hatobanezumi",
+   "meaning": "Dove feather grey"
+  },
+  {
+   "hex": "#63424b",
+   "name": "葡萄鼠",
+   "romaji": "Budōnezumi",
+   "meaning": "Grape mouse"
+  },
+  {
+   "hex": "#6d2b50",
+   "name": "蒲萄",
+   "romaji": "Ebizome",
+   "meaning": "Vine grape"
+  },
+  {
+   "hex": "#4d3b3c",
+   "name": "藤煤竹",
+   "romaji": "Fujisusutake",
+   "meaning": "Wisteria and burnt-bamboo"
+  },
+  {
+   "hex": "#a4345d",
+   "name": "牡丹",
+   "romaji": "Bōtan",
+   "meaning": "Tree peony"
+  },
+  {
+   "hex": "#8f4155",
+   "name": "梅紫",
+   "romaji": "Umemurasaki",
+   "meaning": "Plum purple"
+  },
+  {
+   "hex": "#43242a",
+   "name": "似せ紫",
+   "romaji": "Nisemurasaki",
+   "meaning": "Fake purple"
+  },
+  {
+   "hex": "#512c31",
+   "name": "紫鳶",
+   "romaji": "Murasakitobi",
+   "meaning": "Purple kite"
+  },
+  {
+   "hex": "#7e2639",
+   "name": "蘇芳",
+   "romaji": "Su'ō",
+   "meaning": "Sappanwood"
+  },
+  {
+   "hex": "#59292c",
+   "name": "桑染",
+   "romaji": "Kuwazome",
+   "meaning": "Mulberry dye"
+  },
+  {
+   "hex": "#44312e",
+   "name": "紅消鼠",
+   "romaji": "Benikeshinezumi",
+   "meaning": "Vanishing red mouse"
+  },
+  {
+   "hex": "#ffddca",
+   "name": "白練",
+   "romaji": "Shironeri",
+   "meaning": "Unbleached silk"
+  },
+  {
+   "hex": "#b9a193",
+   "name": "白鼠",
+   "romaji": "Shironezumi",
+   "meaning": "White mouse"
+  },
+  {
+   "hex": "#97867c",
+   "name": "銀鼠",
+   "romaji": "Ginnezumi",
+   "meaning": "Silver-grey"
+  },
+  {
+   "hex": "#6e5f57",
+   "name": "素鼠",
+   "romaji": "Sunezumi",
+   "meaning": "Plain mouse"
+  },
+  {
+   "hex": "#4b3c39",
+   "name": "丼鼠",
+   "romaji": "Dobunezumi",
+   "meaning": "Brown rat grey"
+  },
+  {
+   "hex": "#393432",
+   "name": "藍墨茶",
+   "romaji": "Aisumicha",
+   "meaning": "Indigo ink brown"
+  },
+  {
+   "hex": "#352925",
+   "name": "檳榔子染",
+   "romaji": "Binrōjizome",
+   "meaning": "Betel nut-dyed"
+  },
+  {
+   "hex": "#27221f",
+   "name": "墨色",
+   "romaji": "Sumi-iro",
+   "meaning": "Ink color"
+  },
+  {
+   "hex": "#171412",
+   "name": "黒色",
+   "romaji": "Kokushoku",
+   "meaning": "Black"
+  },
+  {
+   "hex": "#ebf6f7",
+   "name": "藍白",
+   "romaji": "Aijiro",
+   "meaning": "Indigo white"
+  }
+ ]
+}
