@@ -1,0 +1,9847 @@
+{
+  "meta": {
+    "count_raw": 1041,
+    "count_unique": 971
+  },
+  "colors": [
+    {
+      "hex": "#ffffff",
+      "names_en": [
+        "White"
+      ],
+      "names_de": [
+        "Weiß"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#f5fffa",
+      "names_en": [
+        "MintCream"
+      ],
+      "names_de": [
+        "Minzcreme"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#fffafa",
+      "names_en": [
+        "Snow"
+      ],
+      "names_de": [
+        "Schnee"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#fffaf0",
+      "names_en": [
+        "FloralWhite"
+      ],
+      "names_de": [
+        "Blütenweiß"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#f8f8ff",
+      "names_en": [
+        "GhostWhite"
+      ],
+      "names_de": [
+        "Geisterweiß"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#fff5ee",
+      "names_en": [
+        "Seashell"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#f0f8ff",
+      "names_en": [
+        "AliceBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#f5f5f5",
+      "names_en": [
+        "WhiteSmoke"
+      ],
+      "names_de": [
+        "Weißrauch"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#f2f3f4",
+      "names_en": [
+        "AntiFlashWhite",
+        "Munsell"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#f4f0ec",
+      "names_en": [
+        "Isabelline"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#e5e4e2",
+      "names_en": [
+        "Platinum"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#dcdcdc",
+      "names_en": [
+        "Gainsboro"
+      ],
+      "names_de": [
+        "Gainsboro"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#dbd7d2",
+      "names_en": [
+        "Timberwolf"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#d3d3d3",
+      "names_en": [
+        "LightGray"
+      ],
+      "names_de": [
+        "Hellgrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#cfcfc4",
+      "names_en": [
+        "PastelGray"
+      ],
+      "names_de": [
+        "Grau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#c9c0bb",
+      "names_en": [
+        "PaleSilver"
+      ],
+      "names_de": [
+        "Blasssilber"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#c0c0c0",
+      "names_en": [
+        "Silver"
+      ],
+      "names_de": [
+        "Silber"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#a9a9a9",
+      "names_en": [
+        "DarkGray"
+      ],
+      "names_de": [
+        "Dunkelgrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#8b8589",
+      "names_en": [
+        "TaupeGray"
+      ],
+      "names_de": [
+        "Taupegrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#848482",
+      "names_en": [
+        "BattleshipGrey"
+      ],
+      "names_de": [
+        "Grau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#808080",
+      "names_en": [
+        "Gray",
+        "TrolleyGrey"
+      ],
+      "names_de": [
+        "Grau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#696969",
+      "names_en": [
+        "DimGray"
+      ],
+      "names_de": [
+        "Grau",
+        "Mattes Grau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#555555",
+      "names_en": [
+        "DavyGrey"
+      ],
+      "names_de": [
+        "Grau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#534b4f",
+      "names_en": [
+        "Liver"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#414a4c",
+      "names_en": [
+        "OuterSpace"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#0f0f0f",
+      "names_en": [
+        "Onyx"
+      ],
+      "names_de": [],
+      "names_brand": [
+        "GitHub Black"
+      ],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#100c08",
+      "names_en": [
+        "SmokyBlack"
+      ],
+      "names_de": [
+        "Rauchigschwarz"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#000000",
+      "names_en": [
+        "Black"
+      ],
+      "names_de": [
+        "Schwarz"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#181717",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "GitHub"
+      ],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#fadadd",
+      "names_en": [
+        "PalePink"
+      ],
+      "names_de": [
+        "Blassrosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ffd1dc",
+      "names_en": [
+        "PastelPink"
+      ],
+      "names_de": [
+        "Rosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ffc1cc",
+      "names_en": [
+        "BubbleGum"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ffc0cb",
+      "names_en": [
+        "Pink"
+      ],
+      "names_de": [
+        "Rosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ffb7c5",
+      "names_en": [
+        "CherryBlossomPink"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ffb6c1",
+      "names_en": [
+        "LightPink"
+      ],
+      "names_de": [
+        "Hellrosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#cc8899",
+      "names_en": [
+        "Puce"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#b57281",
+      "names_en": [
+        "TurkishRose"
+      ],
+      "names_de": [
+        "Rosen"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#b76e79",
+      "names_en": [
+        "RoseGold"
+      ],
+      "names_de": [
+        "Rosengold"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#98777b",
+      "names_en": [
+        "Bazaar"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#915f6d",
+      "names_en": [
+        "MauveTaupe",
+        "RaspberryGlace"
+      ],
+      "names_de": [
+        "Taupe"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ff91a4",
+      "names_en": [
+        "SalmonPink"
+      ],
+      "names_de": [
+        "Lachsrosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#fc8eac",
+      "names_en": [
+        "FlamingoPink"
+      ],
+      "names_de": [
+        "Rosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ef98aa",
+      "names_en": [
+        "Mauvelous"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#f78fa7",
+      "names_en": [
+        "PinkSherbet"
+      ],
+      "names_de": [
+        "Rosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#fc89ac",
+      "names_en": [
+        "TickleMePink"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#e18e96",
+      "names_en": [
+        "RuddyPink"
+      ],
+      "names_de": [
+        "Rosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#db7093",
+      "names_en": [
+        "PaleRedViolet",
+        "PaleVioletRed"
+      ],
+      "names_de": [
+        "Blassrotviolett",
+        "Blasses Violettrot"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#de5d83",
+      "names_en": [
+        "Blush"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#b3446c",
+      "names_en": [
+        "RaspberryRose"
+      ],
+      "names_de": [
+        "Rosen"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#b03060",
+      "names_en": [
+        "RichMaroon"
+      ],
+      "names_de": [
+        "Sattkastanienbraun"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#560319",
+      "names_en": [
+        "DarkScarlet"
+      ],
+      "names_de": [
+        "Dunkel"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#fc6c85",
+      "names_en": [
+        "WildWatermelon"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#f56991",
+      "names_en": [
+        "LightCrimson"
+      ],
+      "names_de": [
+        "Hell"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#fb607f",
+      "names_en": [
+        "BrinkPink"
+      ],
+      "names_de": [
+        "Rosa"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#f64a8a",
+      "names_en": [
+        "FrenchRose"
+      ],
+      "names_de": [
+        "Rosen"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#e75480",
+      "names_en": [
+        "DarkPink"
+      ],
+      "names_de": [
+        "Dunkelrosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ff007f",
+      "names_en": [
+        "BrightPink",
+        "Rose"
+      ],
+      "names_de": [
+        "Leuchtendrosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ec3b83",
+      "names_en": [
+        "CerisePink"
+      ],
+      "names_de": [
+        "Rosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#e3256b",
+      "names_en": [
+        "Razzmatazz"
+      ],
+      "names_de": [],
+      "names_brand": [
+        "Instagram Pink"
+      ],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#de3163",
+      "names_en": [
+        "Cerise",
+        "Cherry"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#e30b5d",
+      "names_en": [
+        "Raspberry"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#e0115f",
+      "names_en": [
+        "Ruby"
+      ],
+      "names_de": [
+        "Rubin"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#d71868",
+      "names_en": [
+        "DogwoodRose"
+      ],
+      "names_de": [
+        "Rosen"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#d9004c",
+      "names_en": [
+        "UARed"
+      ],
+      "names_de": [
+        "Rot"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#d70a53",
+      "names_en": [
+        "DebianRed"
+      ],
+      "names_de": [
+        "Rot"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#c32148",
+      "names_en": [
+        "BrightMaroon"
+      ],
+      "names_de": [
+        "Leuchtendkastanienbraun"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#a9203e",
+      "names_en": [
+        "DeepCarmine"
+      ],
+      "names_de": [
+        "Tief"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ffe4e1",
+      "names_en": [
+        "MistyRose"
+      ],
+      "names_de": [
+        "Rosen"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#f4c2c2",
+      "names_en": [
+        "BabyPink",
+        "TeaRose"
+      ],
+      "names_de": [
+        "Rosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#fdbcb4",
+      "names_en": [
+        "Melon"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ddadaf",
+      "names_en": [
+        "PaleChestnut"
+      ],
+      "names_de": [
+        "Blass"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#bc8f8f",
+      "names_en": [
+        "RosyBrown"
+      ],
+      "names_de": [
+        "Braun",
+        "Rosiges Braun"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#c08081",
+      "names_en": [
+        "OldRose"
+      ],
+      "names_de": [
+        "Rosen"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#996666",
+      "names_en": [
+        "CopperRose"
+      ],
+      "names_de": [
+        "Kupferrosen"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#905d5d",
+      "names_en": [
+        "RoseTaupe"
+      ],
+      "names_de": [
+        "Rosentaupe"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#645452",
+      "names_en": [
+        "Wenge"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#674846",
+      "names_en": [
+        "RoseEbony"
+      ],
+      "names_de": [
+        "Rosen"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#704241",
+      "names_en": [
+        "DeepCoffee"
+      ],
+      "names_de": [
+        "Tiefkaffee"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#722f37",
+      "names_en": [
+        "Wine"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#592720",
+      "names_en": [
+        "CaputMortuum"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#480607",
+      "names_en": [
+        "BulgarianRose"
+      ],
+      "names_de": [
+        "Rosen"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#3c1414",
+      "names_en": [
+        "DarkSienna"
+      ],
+      "names_de": [
+        "Dunkel"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#321414",
+      "names_en": [
+        "SealBrown"
+      ],
+      "names_de": [
+        "Braun"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff9999",
+      "names_en": [
+        "LightSalmonPink"
+      ],
+      "names_de": [
+        "Helllachsrosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#f88379",
+      "names_en": [
+        "CoralPink"
+      ],
+      "names_de": [
+        "Korallenrosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#f08080",
+      "names_en": [
+        "LightCoral"
+      ],
+      "names_de": [
+        "Hellkoralle",
+        "Helles Korallenrot"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#e4717a",
+      "names_en": [
+        "CandyPink"
+      ],
+      "names_de": [
+        "Rosa"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#e66771",
+      "names_en": [
+        "LightCarminePink"
+      ],
+      "names_de": [
+        "Hellrosa"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#cc6666",
+      "names_en": [
+        "FuzzyWuzzy"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#cd5c5c",
+      "names_en": [
+        "Chestnut",
+        "IndianRed"
+      ],
+      "names_de": [
+        "Indischrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#cc4e5c",
+      "names_en": [
+        "DarkTerraCotta"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#b94e48",
+      "names_en": [
+        "DeepChestnut"
+      ],
+      "names_de": [
+        "Tief"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ab4e52",
+      "names_en": [
+        "RoseVale"
+      ],
+      "names_de": [
+        "Rosen"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#af4035",
+      "names_en": [
+        "MediumCarmine",
+        "PaleCarmine"
+      ],
+      "names_de": [
+        "Mittel"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#a52a2a",
+      "names_en": [
+        "Auburn",
+        "Brown",
+        "RedBrown"
+      ],
+      "names_de": [
+        "Braun"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#933d41",
+      "names_en": [
+        "SmokeyTopaz"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#893f45",
+      "names_en": [
+        "Cordovan"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#9f1d35",
+      "names_en": [
+        "VividBurgundy"
+      ],
+      "names_de": [
+        "Kräftigburgund"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#922724",
+      "names_en": [
+        "VividAuburn"
+      ],
+      "names_de": [
+        "Kräftig"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#8b0000",
+      "names_en": [
+        "DarkRed"
+      ],
+      "names_de": [
+        "Dunkelrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#801818",
+      "names_en": [
+        "FaluRed"
+      ],
+      "names_de": [
+        "Rot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#800020",
+      "names_en": [
+        "Burgundy"
+      ],
+      "names_de": [
+        "Burgund"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#7b1113",
+      "names_en": [
+        "UPMaroon"
+      ],
+      "names_de": [
+        "Kastanienbraun"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#800000",
+      "names_en": [
+        "Maroon"
+      ],
+      "names_de": [
+        "Kastanienbraun"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#701c1c",
+      "names_en": [
+        "PersianPlum"
+      ],
+      "names_de": [
+        "Pflaumen"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#65000b",
+      "names_en": [
+        "Rosewood"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#fe6f5e",
+      "names_en": [
+        "Bittersweet"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff6961",
+      "names_en": [
+        "PastelRed"
+      ],
+      "names_de": [
+        "Hellrot",
+        "Rot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#fd5e53",
+      "names_en": [
+        "SunsetOrange"
+      ],
+      "names_de": [
+        "Orange"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff5349",
+      "names_en": [
+        "RedOrange"
+      ],
+      "names_de": [
+        "Rotorange"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff4040",
+      "names_en": [
+        "CoralRed"
+      ],
+      "names_de": [
+        "Korallenrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff355e",
+      "names_en": [
+        "RadicalRed"
+      ],
+      "names_de": [
+        "Rot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff2052",
+      "names_en": [
+        "Awesome"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#eb4c42",
+      "names_en": [
+        "CarminePink"
+      ],
+      "names_de": [
+        "Rosa"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff004f",
+      "names_en": [
+        "Folly"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ff033e",
+      "names_en": [
+        "AmericanRose"
+      ],
+      "names_de": [
+        "Rosen"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff0040",
+      "names_en": [
+        "Carmine"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ff003f",
+      "names_en": [
+        "ElectricCrimson"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff0038",
+      "names_en": [
+        "CarmineRed"
+      ],
+      "names_de": [
+        "Rot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff0028",
+      "names_en": [
+        "Ruddy"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#fd0e35",
+      "names_en": [
+        "TractorRed"
+      ],
+      "names_de": [
+        "Rot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff0800",
+      "names_en": [
+        "CandyAppleRed"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff0000",
+      "names_en": [
+        "Red"
+      ],
+      "names_de": [
+        "Rot"
+      ],
+      "names_brand": [
+        "YouTube Red",
+        "Coca-Cola Red"
+      ],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ef3038",
+      "names_en": [
+        "DeepCarminePink"
+      ],
+      "names_de": [
+        "Tiefrosa"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#e34234",
+      "names_en": [
+        "Cinnabar",
+        "Vermilion"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#e52b50",
+      "names_en": [
+        "Amaranth"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#e03c31",
+      "names_en": [
+        "CGRed"
+      ],
+      "names_de": [
+        "Rot"
+      ],
+      "names_brand": [
+        "Google Red"
+      ],
+      "family": "Reds"
+    },
+    {
+      "hex": "#e62020",
+      "names_en": [
+        "Lust"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#e32636",
+      "names_en": [
+        "AlizarinCrimson",
+        "RoseMadder"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#d73b3e",
+      "names_en": [
+        "Jasper"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#e8000d",
+      "names_en": [
+        "KUCrimson"
+      ],
+      "names_de": [],
+      "names_brand": [
+        "Netflix Red"
+      ],
+      "family": "Reds"
+    },
+    {
+      "hex": "#e2062c",
+      "names_en": [
+        "MediumCandyAppleRed"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#cb4154",
+      "names_en": [
+        "BrickRed"
+      ],
+      "names_de": [
+        "Rot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#e30022",
+      "names_en": [
+        "CadmiumRed"
+      ],
+      "names_de": [
+        "Rot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#dc143c",
+      "names_en": [
+        "Crimson"
+      ],
+      "names_de": [
+        "Karmesinrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#cc3333",
+      "names_en": [
+        "PersianRed"
+      ],
+      "names_de": [
+        "Rot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#d70040",
+      "names_en": [
+        "RichCarmine"
+      ],
+      "names_de": [
+        "Satt"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#d3003f",
+      "names_en": [
+        "UtahCrimson"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ce2029",
+      "names_en": [
+        "FireEngineRed"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#d40000",
+      "names_en": [
+        "RossoCorsa"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#cf1020",
+      "names_en": [
+        "Lava"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#c41e3a",
+      "names_en": [
+        "Cardinal"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#cc0000",
+      "names_en": [
+        "BostonUniversityRed"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#c90016",
+      "names_en": [
+        "HarvardCrimson"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#c80815",
+      "names_en": [
+        "VenetianRed"
+      ],
+      "names_de": [
+        "Rot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#be0032",
+      "names_en": [
+        "CrimsonGlory"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#b22222",
+      "names_en": [
+        "Firebrick",
+        "Traffic Light Red"
+      ],
+      "names_de": [
+        "Ampel Rot",
+        "Ziegelfarbe"
+      ],
+      "names_brand": [
+        "EN 12368"
+      ],
+      "family": "Reds"
+    },
+    {
+      "hex": "#b31b1b",
+      "names_en": [
+        "Carnelian",
+        "CornellRed"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ae2029",
+      "names_en": [
+        "UpsdellRed"
+      ],
+      "names_de": [
+        "Rot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#a40000",
+      "names_en": [
+        "DarkCandyAppleRed"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#990000",
+      "names_en": [
+        "CrimsonRed",
+        "Stizza",
+        "USCCardinal"
+      ],
+      "names_de": [
+        "Rot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#98817b",
+      "names_en": [
+        "Cinereous"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#986960",
+      "names_en": [
+        "DarkChestnut"
+      ],
+      "names_de": [
+        "Dunkel"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#79443b",
+      "names_en": [
+        "Bole"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#674c47",
+      "names_en": [
+        "MediumTaupe"
+      ],
+      "names_de": [
+        "Mitteltaupe"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ffa089",
+      "names_en": [
+        "VividTangerine"
+      ],
+      "names_de": [
+        "Kräftig"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ffa07a",
+      "names_en": [
+        "LightSalmon"
+      ],
+      "names_de": [
+        "Helllachs",
+        "Helle Lachsfarbe"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ff8c69",
+      "names_en": [
+        "Salmon"
+      ],
+      "names_de": [
+        "Lachs"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#e9967a",
+      "names_en": [
+        "DarkSalmon"
+      ],
+      "names_de": [
+        "Dunkellachs",
+        "Dunkle Lachsfarbe"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff7f50",
+      "names_en": [
+        "Coral"
+      ],
+      "names_de": [
+        "Korallen",
+        "Koralle"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#da8a67",
+      "names_en": [
+        "PaleCopper"
+      ],
+      "names_de": [
+        "Blasskupfer"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#e97451",
+      "names_en": [
+        "BurntSienna"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#e2725b",
+      "names_en": [
+        "TerraCotta"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#cd5b45",
+      "names_en": [
+        "DarkCoral"
+      ],
+      "names_de": [
+        "Dunkelkorallen"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#b7410e",
+      "names_en": [
+        "Rust"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#8a3324",
+      "names_en": [
+        "BurntUmber"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#882d17",
+      "names_en": [
+        "Sienna"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff6e4a",
+      "names_en": [
+        "OutrageousOrange"
+      ],
+      "names_de": [
+        "Orange"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff6700",
+      "names_en": [
+        "SafetyOrange"
+      ],
+      "names_de": [
+        "Orange"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ff6347",
+      "names_en": [
+        "Tomato"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff5a36",
+      "names_en": [
+        "PortlandOrange"
+      ],
+      "names_de": [
+        "Orange"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff4f00",
+      "names_en": [
+        "InternationalOrange"
+      ],
+      "names_de": [
+        "Orange"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#e9692c",
+      "names_en": [
+        "DeepCarrotOrange"
+      ],
+      "names_de": [
+        "Tieforange"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ff4500",
+      "names_en": [
+        "OrangeRed"
+      ],
+      "names_de": [
+        "Orangerot",
+        "Orangenrot"
+      ],
+      "names_brand": [
+        "Reddit Orange"
+      ],
+      "family": "Browns"
+    },
+    {
+      "hex": "#f94d00",
+      "names_en": [
+        "Tangelo"
+      ],
+      "names_de": [],
+      "names_brand": [
+        "Microsoft Red"
+      ],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ff3800",
+      "names_en": [
+        "Coquelicot"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff2800",
+      "names_en": [
+        "FerrariRed"
+      ],
+      "names_de": [
+        "Rot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff2400",
+      "names_en": [
+        "Scarlet"
+      ],
+      "names_de": [
+        "Scharlachrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#e25822",
+      "names_en": [
+        "Flame"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#cb410b",
+      "names_en": [
+        "Sinopia"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#c04000",
+      "names_en": [
+        "Mahogany"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#c23b22",
+      "names_en": [
+        "DarkPastelRed"
+      ],
+      "names_de": [
+        "Dunkelrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ae0c00",
+      "names_en": [
+        "MordantRed19"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#a81c07",
+      "names_en": [
+        "Rufous"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#f38020",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Cloudflare"
+      ],
+      "family": "Browns"
+    },
+    {
+      "hex": "#f77f00",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Netsnek"
+      ],
+      "family": "Browns"
+    },
+    {
+      "hex": "#fc6d26",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "GitLab"
+      ],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff6900",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Xiaomi"
+      ],
+      "family": "Browns"
+    },
+    {
+      "hex": "#fbceb1",
+      "names_en": [
+        "Apricot"
+      ],
+      "names_de": [
+        "Aprikosen"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#ffcba4",
+      "names_en": [
+        "DeepPeach"
+      ],
+      "names_de": [
+        "Tiefpfirsich"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#edc9af",
+      "names_en": [
+        "DesertSand"
+      ],
+      "names_de": [
+        "Sand"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#deaa88",
+      "names_en": [
+        "Tumbleweed"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#cd9575",
+      "names_en": [
+        "AntiqueBrass"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#bc987e",
+      "names_en": [
+        "PaleTaupe"
+      ],
+      "names_de": [
+        "Blasstaupe"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#b38b6d",
+      "names_en": [
+        "LightTaupe"
+      ],
+      "names_de": [
+        "Helltaupe"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#9f8170",
+      "names_en": [
+        "Beaver"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#a67b5b",
+      "names_en": [
+        "CafeAuLait",
+        "FrenchBeige"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#a0785a",
+      "names_en": [
+        "Chamoisee"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#80461b",
+      "names_en": [
+        "Russet"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#6f4e37",
+      "names_en": [
+        "Coffee"
+      ],
+      "names_de": [
+        "Kaffee"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#635147",
+      "names_en": [
+        "Umber"
+      ],
+      "names_de": [
+        "Umbra"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#3d2b1f",
+      "names_en": [
+        "Bistre"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#2c1608",
+      "names_en": [
+        "ZinnwalditeBrown"
+      ],
+      "names_de": [
+        "Braun"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#ffbd88",
+      "names_en": [
+        "MacaroniAndCheese"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#f4a460",
+      "names_en": [
+        "SandyBrown"
+      ],
+      "names_de": [
+        "Braun",
+        "Sandbraun"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#ff9966",
+      "names_en": [
+        "AtomicTangerine"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ed872d",
+      "names_en": [
+        "CadmiumOrange"
+      ],
+      "names_de": [
+        "Orange"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#d99058",
+      "names_en": [
+        "PersianOrange"
+      ],
+      "names_de": [
+        "Orange"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#d68a59",
+      "names_en": [
+        "RawSienna"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#cc7722",
+      "names_en": [
+        "Ochre"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#d2691e",
+      "names_en": [
+        "Chocolate",
+        "Cinnamon",
+        "CocoaBrown"
+      ],
+      "names_de": [
+        "Schokoladen",
+        "Schokolade"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#cd5700",
+      "names_en": [
+        "Tawny"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#bb6528",
+      "names_en": [
+        "RuddyBrown"
+      ],
+      "names_de": [
+        "Braun"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#cc5500",
+      "names_en": [
+        "BurntOrange"
+      ],
+      "names_de": [
+        "Orange"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#b5651d",
+      "names_en": [
+        "LightBrown"
+      ],
+      "names_de": [
+        "Hellbraun"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#8b4513",
+      "names_en": [
+        "SaddleBrown"
+      ],
+      "names_de": [
+        "Braun",
+        "Sattelbraun"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ff8f00",
+      "names_en": [
+        "PrincetonOrange"
+      ],
+      "names_de": [
+        "Orange"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ff8c00",
+      "names_en": [
+        "DarkOrange"
+      ],
+      "names_de": [
+        "Dunkelorange",
+        "Dunkles Orange"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ff8243",
+      "names_en": [
+        "MangoTango"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#f28500",
+      "names_en": [
+        "Tangerine"
+      ],
+      "names_de": [],
+      "names_brand": [
+        "Cloudflare Orange"
+      ],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ff7518",
+      "names_en": [
+        "Pumpkin"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#faf0e6",
+      "names_en": [
+        "Linen"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#ffe4c4",
+      "names_en": [
+        "Bisque"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#ffdab9",
+      "names_en": [
+        "PeachPuff"
+      ],
+      "names_de": [
+        "Pfirsich"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#efdecd",
+      "names_en": [
+        "Almond"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#fdd5b1",
+      "names_en": [
+        "LightApricot"
+      ],
+      "names_de": [
+        "Hellaprikosen"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#e6be8a",
+      "names_en": [
+        "PaleGold"
+      ],
+      "names_de": [
+        "Blassgold"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#deb887",
+      "names_en": [
+        "Burlywood"
+      ],
+      "names_de": [
+        "Grobes Braun"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#d2b48c",
+      "names_en": [
+        "Tan"
+      ],
+      "names_de": [
+        "Gelbbraun"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#c19a6b",
+      "names_en": [
+        "Camel",
+        "Desert",
+        "Fallow",
+        "Lion"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#987654",
+      "names_en": [
+        "PaleBrown"
+      ],
+      "names_de": [
+        "Blassbraun"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#836953",
+      "names_en": [
+        "PastelBrown"
+      ],
+      "names_de": [
+        "Braun"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#704214",
+      "names_en": [
+        "Sepia"
+      ],
+      "names_de": [
+        "Sepia"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#654321",
+      "names_en": [
+        "DarkBrown",
+        "OtterBrown"
+      ],
+      "names_de": [
+        "Dunkelbraun"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#483c32",
+      "names_en": [
+        "DarkLava",
+        "DarkTaupe",
+        "Taupe"
+      ],
+      "names_de": [
+        "Dunkel"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#4b3621",
+      "names_en": [
+        "CafeNoir"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ffc87c",
+      "names_en": [
+        "Topaz"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#ffb347",
+      "names_en": [
+        "PastelOrange"
+      ],
+      "names_de": [
+        "Orange"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#ffae42",
+      "names_en": [
+        "YellowOrange"
+      ],
+      "names_de": [
+        "Gelborange"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#ffa812",
+      "names_en": [
+        "DarkTangerine"
+      ],
+      "names_de": [
+        "Dunkel"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ffa343",
+      "names_en": [
+        "NeonCarrot"
+      ],
+      "names_de": [
+        "Neon"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#e5aa70",
+      "names_en": [
+        "Fawn"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#ff9933",
+      "names_en": [
+        "DeepSaffron"
+      ],
+      "names_de": [
+        "Tief"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#e1a95f",
+      "names_en": [
+        "EarthYellow"
+      ],
+      "names_de": [
+        "Gelb"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#e3a857",
+      "names_en": [
+        "IndianYellow"
+      ],
+      "names_de": [
+        "Gelb"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#e49b0f",
+      "names_en": [
+        "Gamboge"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ed9121",
+      "names_en": [
+        "CarrotOrange"
+      ],
+      "names_de": [
+        "Orange"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#e08d3c",
+      "names_en": [
+        "TigerEye"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#da9100",
+      "names_en": [
+        "HarvestGold"
+      ],
+      "names_de": [
+        "Gold"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#e48400",
+      "names_en": [
+        "Fulvous"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#cd7f32",
+      "names_en": [
+        "Bronze"
+      ],
+      "names_de": [
+        "Bronze"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#fbf315",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Raiffeisen"
+      ],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ffdc00",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Österreichische Post"
+      ],
+      "family": "Browns"
+    },
+    {
+      "hex": "#fffc00",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Snapchat"
+      ],
+      "family": "Browns"
+    },
+    {
+      "hex": "#b87333",
+      "names_en": [
+        "Copper"
+      ],
+      "names_de": [
+        "Kupfer"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#b06500",
+      "names_en": [
+        "Ginger"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#996515",
+      "names_en": [
+        "GoldenBrown"
+      ],
+      "names_de": [
+        "Braun"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#150400",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "UPS"
+      ],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#ffa700",
+      "names_en": [
+        "ChromeYellow"
+      ],
+      "names_de": [
+        "Gelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ffa500",
+      "names_en": [
+        "Orange"
+      ],
+      "names_de": [
+        "Orange"
+      ],
+      "names_brand": [
+        "Cloudflare Yellow"
+      ],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ff9f00",
+      "names_en": [
+        "OrangePeel"
+      ],
+      "names_de": [
+        "Orange"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#fff8e7",
+      "names_en": [
+        "CosmicLatte"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#fdf5e6",
+      "names_en": [
+        "OldLace"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#ffefd5",
+      "names_en": [
+        "PapayaWhip"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#ffebcd",
+      "names_en": [
+        "BlanchedAlmond"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#faebd7",
+      "names_en": [
+        "AntiqueWhite",
+        "Moccasin"
+      ],
+      "names_de": [
+        "Weiß"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#ffe5b4",
+      "names_en": [
+        "Peach"
+      ],
+      "names_de": [
+        "Pfirsich"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#fae7b5",
+      "names_en": [
+        "BananaMania"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#ffdead",
+      "names_en": [
+        "NavajoWhite"
+      ],
+      "names_de": [
+        "Weiß"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#fadfad",
+      "names_en": [
+        "PeachYellow"
+      ],
+      "names_de": [
+        "Pfirsichgelb"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#f5deb3",
+      "names_en": [
+        "Wheat"
+      ],
+      "names_de": [
+        "Weizen"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#eae0c8",
+      "names_en": [
+        "Pearl"
+      ],
+      "names_de": [
+        "Perlmutt"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#fad6a5",
+      "names_en": [
+        "Champagne",
+        "DeepChampagne",
+        "Sunset"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#e3dac9",
+      "names_en": [
+        "Bone"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#c3b091",
+      "names_en": [
+        "Khaki"
+      ],
+      "names_de": [
+        "Khaki"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#a99a86",
+      "names_en": [
+        "Grullo"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#8a795d",
+      "names_en": [
+        "Shadow"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#6c541e",
+      "names_en": [
+        "FieldDrab"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ffcc33",
+      "names_en": [
+        "Sunglow"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#f4c430",
+      "names_en": [
+        "Saffron"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#e5b73b",
+      "names_en": [
+        "MeatBrown"
+      ],
+      "names_de": [
+        "Braun"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#e1ad21",
+      "names_en": [
+        "Urobilin"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#daa520",
+      "names_en": [
+        "Goldenrod"
+      ],
+      "names_de": [
+        "Goldrute"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#cba135",
+      "names_en": [
+        "SatinSheenGold"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#b78727",
+      "names_en": [
+        "UniversityOfCaliforniaGold"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#b8860b",
+      "names_en": [
+        "DarkGoldenrod"
+      ],
+      "names_de": [
+        "Dunkel",
+        "Dunkle Goldrutenfarbe"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#967117",
+      "names_en": [
+        "Drab",
+        "ModeBeige",
+        "SandDune",
+        "SandyTaupe"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ffc40c",
+      "names_en": [
+        "MikadoYellow"
+      ],
+      "names_de": [
+        "Gelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#fcc200",
+      "names_en": [
+        "GoldenPoppy"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ffbf00",
+      "names_en": [
+        "Amber",
+        "FluorescentOrange",
+        "Traffic Light Yellow"
+      ],
+      "names_de": [
+        "Bernstein",
+        "Ampel Gelb"
+      ],
+      "names_brand": [
+        "EN 12368"
+      ],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ffba00",
+      "names_en": [
+        "SelectiveYellow"
+      ],
+      "names_de": [
+        "Gelb"
+      ],
+      "names_brand": [
+        "Microsoft Yellow"
+      ],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ffb300",
+      "names_en": [
+        "UCLAGold"
+      ],
+      "names_de": [
+        "Gold"
+      ],
+      "names_brand": [
+        "Google Yellow"
+      ],
+      "family": "Browns"
+    },
+    {
+      "hex": "#fffacd",
+      "names_en": [
+        "LemonChiffon"
+      ],
+      "names_de": [
+        "Zitronen"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#fff8dc",
+      "names_en": [
+        "Cornsilk"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#faf0be",
+      "names_en": [
+        "Blond"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#f0ead6",
+      "names_en": [
+        "Eggshell"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#eee8aa",
+      "names_en": [
+        "PaleGoldenrod"
+      ],
+      "names_de": [
+        "Blass"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#f3e5ab",
+      "names_en": [
+        "MediumChampagne",
+        "Vanilla"
+      ],
+      "names_de": [
+        "Mittel"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#bdb76b",
+      "names_en": [
+        "DarkKhaki"
+      ],
+      "names_de": [
+        "Dunkelkhaki",
+        "Dunkles Khaki"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#c2b280",
+      "names_en": [
+        "Ecru",
+        "Sand"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#918151",
+      "names_en": [
+        "DarkTan"
+      ],
+      "names_de": [
+        "Dunkel"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#fbec5d",
+      "names_en": [
+        "Corn",
+        "Maize"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#f7e98e",
+      "names_en": [
+        "Flavescent"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#f0e68c",
+      "names_en": [
+        "LightKhaki"
+      ],
+      "names_de": [
+        "Hellkhaki"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#f8de7e",
+      "names_en": [
+        "Jasmine"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#ffdb58",
+      "names_en": [
+        "Mustard"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#fada5e",
+      "names_en": [
+        "Jonquil",
+        "NaplesYellow",
+        "StilDeGrainYellow"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#f0dc82",
+      "names_en": [
+        "Buff"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#eedc82",
+      "names_en": [
+        "Flax"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#f8d568",
+      "names_en": [
+        "OrangeYellow"
+      ],
+      "names_de": [
+        "Orangegelb"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#e4d96f",
+      "names_en": [
+        "Straw"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#e9d66b",
+      "names_en": [
+        "ArylideYellow",
+        "HansaYellow"
+      ],
+      "names_de": [
+        "Gelb"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#ecd540",
+      "names_en": [
+        "Sandstorm"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#cfb53b",
+      "names_en": [
+        "OldGold"
+      ],
+      "names_de": [
+        "Gold"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#c5b358",
+      "names_en": [
+        "VegasGold"
+      ],
+      "names_de": [
+        "Gold"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#b5a642",
+      "names_en": [
+        "Brass"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ffef00",
+      "names_en": [
+        "CanaryYellow"
+      ],
+      "names_de": [
+        "Gelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#fdee00",
+      "names_en": [
+        "Aureolin"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ffe135",
+      "names_en": [
+        "BananaYellow"
+      ],
+      "names_de": [
+        "Gelb"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#ffdf00",
+      "names_en": [
+        "GoldenYellow"
+      ],
+      "names_de": [
+        "Gelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#f0e130",
+      "names_en": [
+        "Dandelion"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#ffd800",
+      "names_en": [
+        "SchoolBusYellow"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ffd700",
+      "names_en": [
+        "Gold"
+      ],
+      "names_de": [
+        "Gold"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ffcc00",
+      "names_en": [
+        "TangerineYellow",
+        "USCGold"
+      ],
+      "names_de": [
+        "Gelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#e4d00a",
+      "names_en": [
+        "Citrine"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#fffff0",
+      "names_en": [
+        "Ivory"
+      ],
+      "names_de": [
+        "Elfenbein"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#ffffed",
+      "names_en": [
+        "LightYellow"
+      ],
+      "names_de": [
+        "Hellgelb"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#fffdd0",
+      "names_en": [
+        "Cream"
+      ],
+      "names_de": [
+        "Creme"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#fafad2",
+      "names_en": [
+        "LightGoldenrodYellow"
+      ],
+      "names_de": [
+        "Hellgelb"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#f5f5dc",
+      "names_en": [
+        "Beige"
+      ],
+      "names_de": [
+        "Beige"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#ecebbd",
+      "names_en": [
+        "PaleSpringBud"
+      ],
+      "names_de": [
+        "Blassfrühlings"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#bab86c",
+      "names_en": [
+        "OliveGreen"
+      ],
+      "names_de": [
+        "Olivgrün"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#4b5320",
+      "names_en": [
+        "ArmyGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ffff99",
+      "names_en": [
+        "Canary"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#fdfd96",
+      "names_en": [
+        "PastelYellow"
+      ],
+      "names_de": [
+        "Gelb"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#c9dc87",
+      "names_en": [
+        "MediumSpringBud"
+      ],
+      "names_de": [
+        "Mittelfrühlings"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#808000",
+      "names_en": [
+        "HeartGold",
+        "Olive"
+      ],
+      "names_de": [
+        "Olivgrün",
+        "Gold"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ffff66",
+      "names_en": [
+        "UnmellowYellow"
+      ],
+      "names_de": [
+        "Gelb"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#ffff31",
+      "names_en": [
+        "Daffodil"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#ffff00",
+      "names_en": [
+        "ElectricYellow",
+        "Yellow"
+      ],
+      "names_de": [
+        "Gelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#fefe22",
+      "names_en": [
+        "LaserLemon"
+      ],
+      "names_de": [
+        "Zitronen"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#fcf75e",
+      "names_en": [
+        "Icterine"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#fff700",
+      "names_en": [
+        "Lemon"
+      ],
+      "names_de": [
+        "Zitronen"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#fff600",
+      "names_en": [
+        "CadmiumYellow"
+      ],
+      "names_de": [
+        "Gelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#fff44f",
+      "names_en": [
+        "LemonYellow"
+      ],
+      "names_de": [
+        "Zitronengelb"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#eee600",
+      "names_en": [
+        "TitaniumYellow"
+      ],
+      "names_de": [
+        "Gelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#e6e200",
+      "names_en": [
+        "Peridot"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#d1e231",
+      "names_en": [
+        "Pear"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#a9ba9d",
+      "names_en": [
+        "LaurelGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#87a96b",
+      "names_en": [
+        "Asparagus"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#78866b",
+      "names_en": [
+        "CamouflageGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#556b2f",
+      "names_en": [
+        "DarkOliveGreen"
+      ],
+      "names_de": [
+        "Dunkelolivgrün",
+        "Dunkles Olivgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#414833",
+      "names_en": [
+        "RifleGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#bdda57",
+      "names_en": [
+        "JuneBud"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#a4c639",
+      "names_en": [
+        "AndroidGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#93c572",
+      "names_en": [
+        "Pistachio"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#9ab973",
+      "names_en": [
+        "Olivine"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#85bb65",
+      "names_en": [
+        "DollarBill"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#6b8e23",
+      "names_en": [
+        "OliveDrab"
+      ],
+      "names_de": [
+        "Oliv",
+        "Olivfarbiges Graubraun"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#507d2a",
+      "names_en": [
+        "SapGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#ccff00",
+      "names_en": [
+        "ElectricLime",
+        "FluorescentYellow"
+      ],
+      "names_de": [
+        "Limetten"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#bfff00",
+      "names_en": [
+        "LemonLime",
+        "Lime"
+      ],
+      "names_de": [
+        "Zitronenlimetten"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#adff2f",
+      "names_en": [
+        "GreenYellow"
+      ],
+      "names_de": [
+        "Grüngelb"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#a7fc00",
+      "names_en": [
+        "SpringBud"
+      ],
+      "names_de": [
+        "Frühlings"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#b2ec5d",
+      "names_en": [
+        "Inchworm"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#9acd32",
+      "names_en": [
+        "YellowGreen"
+      ],
+      "names_de": [
+        "Gelbgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#8db600",
+      "names_en": [
+        "AppleGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [
+        "Microsoft Green"
+      ],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#f0fff0",
+      "names_en": [
+        "Honeydew"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#d0f0c0",
+      "names_en": [
+        "TeaGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#ace1af",
+      "names_en": [
+        "Celadon"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#addfad",
+      "names_en": [
+        "MossGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#8fbc8f",
+      "names_en": [
+        "DarkSeaGreen"
+      ],
+      "names_de": [
+        "Dunkelmeergrün",
+        "Dunkles Schiefergrau"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#4f7942",
+      "names_en": [
+        "FernGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#465945",
+      "names_en": [
+        "GrayAsparagus"
+      ],
+      "names_de": [
+        "Grau"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#355e3b",
+      "names_en": [
+        "HunterGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#21421e",
+      "names_en": [
+        "Myrtle"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#98ff98",
+      "names_en": [
+        "MintGreen"
+      ],
+      "names_de": [
+        "Minzgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#98fb98",
+      "names_en": [
+        "PaleGreen"
+      ],
+      "names_de": [
+        "Blassgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#90ee90",
+      "names_en": [
+        "LightGreen"
+      ],
+      "names_de": [
+        "Hellgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#a8e4a0",
+      "names_en": [
+        "GrannySmithApple"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#77dd77",
+      "names_en": [
+        "PastelGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#74c365",
+      "names_en": [
+        "Mantis"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#71bc78",
+      "names_en": [
+        "Fern"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#059033",
+      "names_en": [
+        "NorthTexasGreen"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#228b22",
+      "names_en": [
+        "ForestGreen"
+      ],
+      "names_de": [
+        "Waldgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#2a8000",
+      "names_en": [
+        "NapierGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#087830",
+      "names_en": [
+        "LaSalleGreen"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#006600",
+      "names_en": [
+        "PakistanGreen"
+      ],
+      "names_de": [
+        "Dunkelgrün",
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#195905",
+      "names_en": [
+        "LincolnGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#76ff7a",
+      "names_en": [
+        "ScreaminGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#7fff00",
+      "names_en": [
+        "Chartreuse"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#7cfc00",
+      "names_en": [
+        "LawnGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#66ff00",
+      "names_en": [
+        "BrightGreen"
+      ],
+      "names_de": [
+        "Leuchtendgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#3fff00",
+      "names_en": [
+        "Harlequin"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#39ff14",
+      "names_en": [
+        "NeonGreen"
+      ],
+      "names_de": [
+        "Neongrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#00ff00",
+      "names_en": [
+        "ElectricGreen",
+        "Green"
+      ],
+      "names_de": [
+        "Grün",
+        "Zitronengrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#0bda51",
+      "names_en": [
+        "Malachite"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#32cd32",
+      "names_en": [
+        "LimeGreen"
+      ],
+      "names_de": [
+        "Limettengrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#03c03c",
+      "names_en": [
+        "DarkPastelGreen"
+      ],
+      "names_de": [
+        "Dunkelgrün"
+      ],
+      "names_brand": [
+        "Spotify Green"
+      ],
+      "family": "Greens"
+    },
+    {
+      "hex": "#4cbb17",
+      "names_en": [
+        "KellyGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#009000",
+      "names_en": [
+        "IslamicGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#138808",
+      "names_en": [
+        "IndiaGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#008000",
+      "names_en": [
+        "Ao",
+        "OfficeGreen"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#a0d6b4",
+      "names_en": [
+        "TurquoiseGreen"
+      ],
+      "names_de": [
+        "Türkisgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#b2beb5",
+      "names_en": [
+        "AshGrey"
+      ],
+      "names_de": [
+        "Grau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#96c8a2",
+      "names_en": [
+        "EtonBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#a3c1ad",
+      "names_en": [
+        "CambridgeBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#738678",
+      "names_en": [
+        "Xanadu"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#4d5d53",
+      "names_en": [
+        "Feldgrau"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#1e4d2b",
+      "names_en": [
+        "CalPolyPomonaGreen"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#014421",
+      "names_en": [
+        "UPForestGreen"
+      ],
+      "names_de": [
+        "Waldgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#004225",
+      "names_en": [
+        "BritishRacingGreen"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#123524",
+      "names_en": [
+        "PhthaloGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#013220",
+      "names_en": [
+        "DarkGreen"
+      ],
+      "names_de": [
+        "Dunkelgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#66ddaa",
+      "names_en": [
+        "MediumAquamarine"
+      ],
+      "names_de": [
+        "Mittel"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#50c878",
+      "names_en": [
+        "Emerald",
+        "ParisGreen"
+      ],
+      "names_de": [
+        "Smaragd"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#3cb371",
+      "names_en": [
+        "MediumSeaGreen"
+      ],
+      "names_de": [
+        "Mittelmeergrün",
+        "Mittleres Seegrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#00a86b",
+      "names_en": [
+        "Jade"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#009e60",
+      "names_en": [
+        "ShamrockGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [
+        "Google Green"
+      ],
+      "family": "Greens"
+    },
+    {
+      "hex": "#2e8b57",
+      "names_en": [
+        "SeaGreen"
+      ],
+      "names_de": [
+        "Meergrün",
+        "Seegrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#177245",
+      "names_en": [
+        "DarkSpringGreen"
+      ],
+      "names_de": [
+        "Dunkelfrühlingsgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#006b3c",
+      "names_en": [
+        "CadmiumGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#00693e",
+      "names_en": [
+        "DartmouthGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#00ff7f",
+      "names_en": [
+        "GuppieGreen",
+        "SpringGreen"
+      ],
+      "names_de": [
+        "Grün",
+        "Frühlingsgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#00fa9a",
+      "names_en": [
+        "MediumSpringGreen"
+      ],
+      "names_de": [
+        "Mittelfrühlingsgrün",
+        "Mittleres Frühlingsgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#3cd070",
+      "names_en": [
+        "UFOGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#009999",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Siemens"
+      ],
+      "family": "Blues"
+    },
+    {
+      "hex": "#1ed760",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Spotify"
+      ],
+      "family": "Greens"
+    },
+    {
+      "hex": "#25d366",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "WhatsApp"
+      ],
+      "family": "Greens"
+    },
+    {
+      "hex": "#aaf0d1",
+      "names_en": [
+        "MagicMint"
+      ],
+      "names_de": [
+        "Minz"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#88d8c0",
+      "names_en": [
+        "PearlAqua"
+      ],
+      "names_de": [
+        "Perlmuttaqua"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#40826d",
+      "names_en": [
+        "Viridian"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#49796b",
+      "names_en": [
+        "HookerGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#00755e",
+      "names_en": [
+        "TropicalRainForest"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#006d5b",
+      "names_en": [
+        "TealGreen",
+        "Traffic Light Green"
+      ],
+      "names_de": [
+        "Petrolgrün",
+        "Ampel Grün"
+      ],
+      "names_brand": [
+        "EN 12368"
+      ],
+      "family": "Blues"
+    },
+    {
+      "hex": "#006a4e",
+      "names_en": [
+        "BottleGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#00563f",
+      "names_en": [
+        "SacramentoStateGreen"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#18453b",
+      "names_en": [
+        "MSUGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#1c352d",
+      "names_en": [
+        "MediumJungleGreen"
+      ],
+      "names_de": [
+        "Mittelgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#1a2421",
+      "names_en": [
+        "DarkJungleGreen"
+      ],
+      "names_de": [
+        "Dunkelgrün"
+      ],
+      "names_brand": [
+        "Apple Space Gray"
+      ],
+      "family": "Greens"
+    },
+    {
+      "hex": "#7fffd4",
+      "names_en": [
+        "Aquamarine"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#45cea2",
+      "names_en": [
+        "Shamrock"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#00cc99",
+      "names_en": [
+        "CaribbeanGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#30ba8f",
+      "names_en": [
+        "MountainMeadow"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#3eb489",
+      "names_en": [
+        "Mint"
+      ],
+      "names_de": [
+        "Minz"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#29ab87",
+      "names_en": [
+        "JungleGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#96ded1",
+      "names_en": [
+        "PaleRobinEggBlue"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#008b8b",
+      "names_en": [
+        "DarkCyan"
+      ],
+      "names_de": [
+        "Dunkelcyan",
+        "Dunkles Zyanblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#008080",
+      "names_en": [
+        "Stormcloud",
+        "Teal"
+      ],
+      "names_de": [
+        "Entenbraun"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#01796f",
+      "names_en": [
+        "PineGreen"
+      ],
+      "names_de": [
+        "Grün"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#007474",
+      "names_en": [
+        "Skobeloff"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#004b49",
+      "names_en": [
+        "DeepJungleGreen"
+      ],
+      "names_de": [
+        "Tiefgrün"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#004242",
+      "names_en": [
+        "WarmBlack"
+      ],
+      "names_de": [
+        "Warmschwarz"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#004040",
+      "names_en": [
+        "RichBlack"
+      ],
+      "names_de": [
+        "Sattschwarz"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#00ffff",
+      "names_en": [
+        "Aqua",
+        "Cyan",
+        "ElectricCyan",
+        "Waterspout"
+      ],
+      "names_de": [
+        "Cyan",
+        "Aqua",
+        "Türkis"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#00ffef",
+      "names_en": [
+        "TurquoiseBlue"
+      ],
+      "names_de": [
+        "Türkisblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#08e8de",
+      "names_en": [
+        "BrightTurquoise"
+      ],
+      "names_de": [
+        "Leuchtendtürkis"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#30d5c8",
+      "names_en": [
+        "Turquoise"
+      ],
+      "names_de": [
+        "Türkis"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#48d1cc",
+      "names_en": [
+        "MediumTurquoise"
+      ],
+      "names_de": [
+        "Mitteltürkis",
+        "Mittleres Türkis"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#1fcecb",
+      "names_en": [
+        "RobinsEggBlue"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0abab5",
+      "names_en": [
+        "TiffanyBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#43b3ae",
+      "names_en": [
+        "Verdigris"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#20b2aa",
+      "names_en": [
+        "LightSeaGreen"
+      ],
+      "names_de": [
+        "Hellmeergrün",
+        "Helles Seegrün"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#f0ffff",
+      "names_en": [
+        "AzureMistWeb"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#e7feff",
+      "names_en": [
+        "Bubbles"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#e0ffff",
+      "names_en": [
+        "LightCyan"
+      ],
+      "names_de": [
+        "Hellcyan"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#b2ffff",
+      "names_en": [
+        "Celeste"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#afeeee",
+      "names_en": [
+        "PaleBlue"
+      ],
+      "names_de": [
+        "Blassblau",
+        "Blasses Türkis"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#ace5ee",
+      "names_en": [
+        "BlizzardBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#b0e0e6",
+      "names_en": [
+        "PowderBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#5f9ea0",
+      "names_en": [
+        "CadetBlue"
+      ],
+      "names_de": [
+        "Blau",
+        "Kadettblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#6e7f80",
+      "names_en": [
+        "Aurometalsaurus"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#2f4f4f",
+      "names_en": [
+        "DarkSlateGray"
+      ],
+      "names_de": [
+        "Dunkelschiefergrau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#7df9ff",
+      "names_en": [
+        "ElectricBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#00ced1",
+      "names_en": [
+        "DarkTurquoise"
+      ],
+      "names_de": [
+        "Dunkeltürkis",
+        "Dunkles Türkis"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#a4dded",
+      "names_en": [
+        "NonPhotoBlue"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#add8e6",
+      "names_en": [
+        "LightBlue"
+      ],
+      "names_de": [
+        "Hellblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#aec6cf",
+      "names_en": [
+        "PastelBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#367588",
+      "names_en": [
+        "TealBlue"
+      ],
+      "names_de": [
+        "Petrolblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#004953",
+      "names_en": [
+        "MidnightGreen"
+      ],
+      "names_de": [
+        "Mitternachtsgrün"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#1dacd6",
+      "names_en": [
+        "BrightCerulean"
+      ],
+      "names_de": [
+        "Leuchtend"
+      ],
+      "names_brand": [
+        "Microsoft Blue"
+      ],
+      "family": "Blues"
+    },
+    {
+      "hex": "#21abcd",
+      "names_en": [
+        "BallBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#1ca9c9",
+      "names_en": [
+        "PacificBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0d98ba",
+      "names_en": [
+        "BlueGreen"
+      ],
+      "names_de": [
+        "Blaugrün"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0095b6",
+      "names_en": [
+        "BondiBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#9bddff",
+      "names_en": [
+        "ColumbiaBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#9aceeb",
+      "names_en": [
+        "Cornflower"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#87cefa",
+      "names_en": [
+        "LightSkyBlue"
+      ],
+      "names_de": [
+        "Hellblau",
+        "Hellhimmelblau",
+        "Helles Himmelblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#89cff0",
+      "names_en": [
+        "BabyBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#93ccea",
+      "names_en": [
+        "LightCornflowerBlue"
+      ],
+      "names_de": [
+        "Hellblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#87ceeb",
+      "names_en": [
+        "SkyBlue"
+      ],
+      "names_de": [
+        "Himmelblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#73a9c2",
+      "names_en": [
+        "MoonstoneBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#91a3b0",
+      "names_en": [
+        "CadetGrey"
+      ],
+      "names_de": [
+        "Grau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#5d8aa8",
+      "names_en": [
+        "AirForceBlue",
+        "Rackley"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#536872",
+      "names_en": [
+        "Cadet"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#36454f",
+      "names_en": [
+        "Charcoal"
+      ],
+      "names_de": [
+        "Anthrazit"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0fc0fc",
+      "names_en": [
+        "SpiroDiscoBall"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#00bfff",
+      "names_en": [
+        "Capri",
+        "DeepSkyBlue"
+      ],
+      "names_de": [
+        "Tiefes Himmelblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0892d0",
+      "names_en": [
+        "RichElectricBlue"
+      ],
+      "names_de": [
+        "Sattblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#007ba7",
+      "names_en": [
+        "Cerulean"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#007aa5",
+      "names_en": [
+        "CGBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#006994",
+      "names_en": [
+        "SeaBlue"
+      ],
+      "names_de": [
+        "Meerblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#bcd4e6",
+      "names_en": [
+        "BeauBlue",
+        "PaleAqua"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#abcdef",
+      "names_en": [
+        "PaleCornflowerBlue"
+      ],
+      "names_de": [
+        "Blassblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#a1caf1",
+      "names_en": [
+        "BabyBlueEyes"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#9bc4e2",
+      "names_en": [
+        "PaleCerulean"
+      ],
+      "names_de": [
+        "Blass"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#99badd",
+      "names_en": [
+        "CarolinaBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#779ecb",
+      "names_en": [
+        "DarkPastelBlue"
+      ],
+      "names_de": [
+        "Dunkelblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#6699cc",
+      "names_en": [
+        "BlueGray"
+      ],
+      "names_de": [
+        "Blaugrau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#778899",
+      "names_en": [
+        "LightSlateGray"
+      ],
+      "names_de": [
+        "Hellschiefergrau",
+        "Helles Schiefergrau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#708090",
+      "names_en": [
+        "SlateGray"
+      ],
+      "names_de": [
+        "Schiefergrau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#4682b4",
+      "names_en": [
+        "SteelBlue"
+      ],
+      "names_de": [
+        "Stahlblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#536878",
+      "names_en": [
+        "DarkElectricBlue",
+        "PayneGrey"
+      ],
+      "names_de": [
+        "Dunkelblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#003153",
+      "names_en": [
+        "PrussianBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#002147",
+      "names_en": [
+        "OxfordBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#73c2fb",
+      "names_en": [
+        "MayaBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#4997d0",
+      "names_en": [
+        "CelestialBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#318ce7",
+      "names_en": [
+        "BleuDeFrance"
+      ],
+      "names_de": [],
+      "names_brand": [
+        "Google Blue"
+      ],
+      "family": "Blues"
+    },
+    {
+      "hex": "#417dc1",
+      "names_en": [
+        "TuftsBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0073cf",
+      "names_en": [
+        "TrueBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0077be",
+      "names_en": [
+        "OceanBoatBlue"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0072bb",
+      "names_en": [
+        "FrenchBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#1164b4",
+      "names_en": [
+        "GreenBlue"
+      ],
+      "names_de": [
+        "Grünblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0067a5",
+      "names_en": [
+        "MediumPersianBlue"
+      ],
+      "names_de": [
+        "Mittelblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#26619c",
+      "names_en": [
+        "LapisLazuli"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#035096",
+      "names_en": [
+        "MediumElectricBlue"
+      ],
+      "names_de": [
+        "Mittelblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#08457e",
+      "names_en": [
+        "DarkCerulean"
+      ],
+      "names_de": [
+        "Dunkel"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#003366",
+      "names_en": [
+        "DarkMidnightBlue"
+      ],
+      "names_de": [
+        "Dunkelmitternachtsblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#1e90ff",
+      "names_en": [
+        "DodgerBlue"
+      ],
+      "names_de": [
+        "Blau",
+        "Dodger-Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#002991",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Pay Pal"
+      ],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0066b1",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "BMW"
+      ],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0866ff",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Facebook"
+      ],
+      "family": "Blues"
+    },
+    {
+      "hex": "#11457e",
+      "names_en": [
+        "Czech Republic Blue"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#151f5d",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Volkswagen"
+      ],
+      "family": "Blues"
+    },
+    {
+      "hex": "#1a1f71",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Visa"
+      ],
+      "family": "Blues"
+    },
+    {
+      "hex": "#26a5e4",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Telegram"
+      ],
+      "family": "Blues"
+    },
+    {
+      "hex": "#3b45fd",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Signal"
+      ],
+      "family": "Blues"
+    },
+    {
+      "hex": "#4285f4",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Google"
+      ],
+      "family": "Blues"
+    },
+    {
+      "hex": "#5865f2",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Discord"
+      ],
+      "family": "Blues"
+    },
+    {
+      "hex": "#635bff",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Stripe"
+      ],
+      "family": "Blues"
+    },
+    {
+      "hex": "#6082b6",
+      "names_en": [
+        "Glaucous"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#536895",
+      "names_en": [
+        "UCLABlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#6495ed",
+      "names_en": [
+        "CornflowerBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#5b92e5",
+      "names_en": [
+        "UnitedNationsBlue"
+      ],
+      "names_de": [],
+      "names_brand": [
+        "X (Twitter) Blue"
+      ],
+      "family": "Blues"
+    },
+    {
+      "hex": "#446ccf",
+      "names_en": [
+        "HanBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#1560bd",
+      "names_en": [
+        "Denim"
+      ],
+      "names_de": [],
+      "names_brand": [
+        "LinkedIn Blue"
+      ],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0054b4",
+      "names_en": [
+        "MediumTealBlue"
+      ],
+      "names_de": [
+        "Mittelpetrolblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#324ab2",
+      "names_en": [
+        "VioletBlue"
+      ],
+      "names_de": [
+        "Violettblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0f4d92",
+      "names_en": [
+        "YaleBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#002e63",
+      "names_en": [
+        "CoolBlack"
+      ],
+      "names_de": [
+        "Kühlschwarz"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#007fff",
+      "names_en": [
+        "Azure"
+      ],
+      "names_de": [],
+      "names_brand": [
+        "Facebook Blue"
+      ],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0070ff",
+      "names_en": [
+        "BrandeisBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#4166f5",
+      "names_en": [
+        "UltramarineBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [
+        "Discord Blurple"
+      ],
+      "family": "Blues"
+    },
+    {
+      "hex": "#4169e1",
+      "names_en": [
+        "RoyalBlue"
+      ],
+      "names_de": [
+        "Königsblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#2a52be",
+      "names_en": [
+        "CeruleanBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#273be2",
+      "names_en": [
+        "PalatinateBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0f52ba",
+      "names_en": [
+        "Sapphire"
+      ],
+      "names_de": [
+        "Saphir"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0000ff",
+      "names_en": [
+        "Blue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0047ab",
+      "names_en": [
+        "Cobalt"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#1c39bb",
+      "names_en": [
+        "PersianBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [
+        "Visa Blue"
+      ],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0038a8",
+      "names_en": [
+        "RoyalAzure"
+      ],
+      "names_de": [
+        "Königs"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#1034a6",
+      "names_en": [
+        "EgyptianBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0033aa",
+      "names_en": [
+        "UABlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0000cd",
+      "names_en": [
+        "MediumBlue"
+      ],
+      "names_de": [
+        "Mittelblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#002fa7",
+      "names_en": [
+        "InternationalKleinBlue"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#003399",
+      "names_en": [
+        "DarkPowderBlue",
+        "Smalt"
+      ],
+      "names_de": [
+        "Dunkelblau"
+      ],
+      "names_brand": [
+        "PayPal Blue"
+      ],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0014a8",
+      "names_en": [
+        "Zaffre"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#00009c",
+      "names_en": [
+        "DukeBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#120a8f",
+      "names_en": [
+        "Ultramarine"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#000f89",
+      "names_en": [
+        "PhthaloBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#00008b",
+      "names_en": [
+        "DarkBlue"
+      ],
+      "names_de": [
+        "Dunkelblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#000080",
+      "names_en": [
+        "NavyBlue"
+      ],
+      "names_de": [
+        "Marineblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#e6e8fa",
+      "names_en": [
+        "Glitter"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#ccccff",
+      "names_en": [
+        "LavenderBlue",
+        "Periwinkle"
+      ],
+      "names_de": [
+        "Lavendelblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#a2add0",
+      "names_en": [
+        "WildBlueYonder"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#a2a2d0",
+      "names_en": [
+        "BlueBell"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#979aaa",
+      "names_en": [
+        "Manatee"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#8c92ac",
+      "names_en": [
+        "CoolGrey"
+      ],
+      "names_de": [
+        "Kühlgrau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#23297a",
+      "names_en": [
+        "SaintPatrickBlue"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#191970",
+      "names_en": [
+        "MidnightBlue"
+      ],
+      "names_de": [
+        "Mitternachtsblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#6050dc",
+      "names_en": [
+        "MajorelleBlue"
+      ],
+      "names_de": [
+        "Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#5a4fcf",
+      "names_en": [
+        "Iris"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#5218fa",
+      "names_en": [
+        "HanPurple"
+      ],
+      "names_de": [
+        "Lila"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#3f00ff",
+      "names_en": [
+        "ElectricUltramarine"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#e6e6fa",
+      "names_en": [
+        "Lavender",
+        "LavenderMist"
+      ],
+      "names_de": [
+        "Lavendel"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#dcd0ff",
+      "names_en": [
+        "PaleLavender"
+      ],
+      "names_de": [
+        "Blasslavendel"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#c4c3d0",
+      "names_en": [
+        "LavenderGray"
+      ],
+      "names_de": [
+        "Lavendelgrau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#b19cd9",
+      "names_en": [
+        "LightPastelPurple"
+      ],
+      "names_de": [
+        "Helllila"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#9370db",
+      "names_en": [
+        "MediumPurple"
+      ],
+      "names_de": [
+        "Mittellila",
+        "Mittleres Violett"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#966fd6",
+      "names_en": [
+        "DarkPastelPurple"
+      ],
+      "names_de": [
+        "Dunkellila"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#8878c3",
+      "names_en": [
+        "Ube"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#746cc0",
+      "names_en": [
+        "Toolbox"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#483d8b",
+      "names_en": [
+        "DarkSlateBlue"
+      ],
+      "names_de": [
+        "Dunkelschieferblau",
+        "Dunkles Schieferblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#32127a",
+      "names_en": [
+        "PersianIndigo"
+      ],
+      "names_de": [
+        "Indigo"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#7b68ee",
+      "names_en": [
+        "MediumSlateBlue"
+      ],
+      "names_de": [
+        "Mittelschieferblau",
+        "Mittleres Schieferblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#9457eb",
+      "names_en": [
+        "LavenderIndigo"
+      ],
+      "names_de": [
+        "Lavendelindigo"
+      ],
+      "names_brand": [
+        "Twitch Purple",
+        "Figma Purple"
+      ],
+      "family": "Purples"
+    },
+    {
+      "hex": "#8f00ff",
+      "names_en": [
+        "ElectricViolet"
+      ],
+      "names_de": [
+        "Violett"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#6a5acd",
+      "names_en": [
+        "SlateBlue"
+      ],
+      "names_de": [
+        "Schieferblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#6f00ff",
+      "names_en": [
+        "ElectricIndigo"
+      ],
+      "names_de": [
+        "Lila",
+        "Indigo"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#4d148c",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "FedEx"
+      ],
+      "family": "Purples"
+    },
+    {
+      "hex": "#9146ff",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Twitch"
+      ],
+      "family": "Purples"
+    },
+    {
+      "hex": "#f8f4ff",
+      "names_en": [
+        "Magnolia"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#d6cadd",
+      "names_en": [
+        "LanguidLavender"
+      ],
+      "names_de": [
+        "Lavendel"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#c9a0dc",
+      "names_en": [
+        "Wisteria"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#9d81ba",
+      "names_en": [
+        "PurpleMountainsMajesty"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#967bb6",
+      "names_en": [
+        "LavenderPurple"
+      ],
+      "names_de": [
+        "Lavendellila"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#9678b6",
+      "names_en": [
+        "PurpleMountainMajesty"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#e0b0ff",
+      "names_en": [
+        "Mauve"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#d19fe8",
+      "names_en": [
+        "BrightUbe"
+      ],
+      "names_de": [
+        "Leuchtend"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#bf94e4",
+      "names_en": [
+        "BrightLavender"
+      ],
+      "names_de": [
+        "Leuchtendlavendel"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#9966cc",
+      "names_en": [
+        "Amethyst"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#9955bb",
+      "names_en": [
+        "DeepLilac"
+      ],
+      "names_de": [
+        "Tief"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#7851a9",
+      "names_en": [
+        "RoyalPurple"
+      ],
+      "names_de": [
+        "Königslila"
+      ],
+      "names_brand": [
+        "Instagram Purple"
+      ],
+      "family": "Purples"
+    },
+    {
+      "hex": "#734f96",
+      "names_en": [
+        "DarkLavender"
+      ],
+      "names_de": [
+        "Dunkellavendel"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#69359c",
+      "names_en": [
+        "PurpleHeart"
+      ],
+      "names_de": [
+        "Lila"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#bf00ff",
+      "names_en": [
+        "ElectricPurple"
+      ],
+      "names_de": [
+        "Lila"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#9f00ff",
+      "names_en": [
+        "VividViolet"
+      ],
+      "names_de": [
+        "Kräftigviolett"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#a020f0",
+      "names_en": [
+        "Veronica"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#9932cc",
+      "names_en": [
+        "DarkOrchid"
+      ],
+      "names_de": [
+        "Dunkel",
+        "Dunkle Orchideenfarbe"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#8a2be2",
+      "names_en": [
+        "BluePurple",
+        "BlueViolet"
+      ],
+      "names_de": [
+        "Blaulila",
+        "Blauviolett"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#9400d3",
+      "names_en": [
+        "DarkViolet"
+      ],
+      "names_de": [
+        "Dunkelviolett",
+        "Dunkles Violett"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#4b0082",
+      "names_en": [
+        "Indigo"
+      ],
+      "names_de": [
+        "Indigo"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#d8bfd8",
+      "names_en": [
+        "Thistle"
+      ],
+      "names_de": [
+        "Distel"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#c8a2c8",
+      "names_en": [
+        "Lilac"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#cb99c9",
+      "names_en": [
+        "PastelViolet"
+      ],
+      "names_de": [
+        "Violett"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#b39eb5",
+      "names_en": [
+        "PastelPurple"
+      ],
+      "names_de": [
+        "Lila"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#aa98a9",
+      "names_en": [
+        "RoseQuartz"
+      ],
+      "names_de": [
+        "Rosen"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#86608e",
+      "names_en": [
+        "FrenchLilac"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#796878",
+      "names_en": [
+        "OldLavender"
+      ],
+      "names_de": [
+        "Lavendel"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#f4bbff",
+      "names_en": [
+        "BrilliantLavender",
+        "ElectricLavender"
+      ],
+      "names_de": [
+        "Lavendel"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#dda0dd",
+      "names_en": [
+        "MediumLavenderMagenta",
+        "PalePlum",
+        "Plum"
+      ],
+      "names_de": [
+        "Mittellavendelmagenta",
+        "Pflaume"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ff77ff",
+      "names_en": [
+        "FuchsiaPink"
+      ],
+      "names_de": [
+        "Rosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#fc74fd",
+      "names_en": [
+        "PinkFlamingo"
+      ],
+      "names_de": [
+        "Rosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ff6fff",
+      "names_en": [
+        "UltraPink"
+      ],
+      "names_de": [
+        "Rosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ee82ee",
+      "names_en": [
+        "LavenderMagenta",
+        "Violet"
+      ],
+      "names_de": [
+        "Lavendelmagenta"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#df73ff",
+      "names_en": [
+        "Heliotrope"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#da70d6",
+      "names_en": [
+        "Orchid"
+      ],
+      "names_de": [
+        "Orchidee"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ff00ff",
+      "names_en": [
+        "Famous",
+        "Fuchsia",
+        "Magenta"
+      ],
+      "names_de": [
+        "Magenta",
+        "Fuchsie"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#df00ff",
+      "names_en": [
+        "Phlox",
+        "PsychedelicPurple"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#b666d2",
+      "names_en": [
+        "RichLilac"
+      ],
+      "names_de": [
+        "Satt"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#ba55d3",
+      "names_en": [
+        "MediumOrchid"
+      ],
+      "names_de": [
+        "Mittel",
+        "Mittlere Orchideenfarbe"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#c154c1",
+      "names_en": [
+        "DeepFuchsia"
+      ],
+      "names_de": [
+        "Tief"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#cc00cc",
+      "names_en": [
+        "DeepMagenta"
+      ],
+      "names_de": [
+        "Tiefmagenta"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#8b008b",
+      "names_en": [
+        "DarkMagenta"
+      ],
+      "names_de": [
+        "Dunkelmagenta",
+        "Dunkles Magentarot"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#800080",
+      "names_en": [
+        "Patriarch",
+        "Purple"
+      ],
+      "names_de": [
+        "Violett"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#fbcce7",
+      "names_en": [
+        "ClassicRose"
+      ],
+      "names_de": [
+        "Rosen"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#e7accf",
+      "names_en": [
+        "PinkPearl"
+      ],
+      "names_de": [
+        "Rosaperlmutt"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#b784a7",
+      "names_en": [
+        "OperaMauve"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#997a8d",
+      "names_en": [
+        "MountbattenPink"
+      ],
+      "names_de": [
+        "Rosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#915c83",
+      "names_en": [
+        "AntiqueFuchsia"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#663854",
+      "names_en": [
+        "HalayaUBe"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#5d3954",
+      "names_en": [
+        "DarkByzantium"
+      ],
+      "names_de": [
+        "Dunkel"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#50404d",
+      "names_en": [
+        "PurpleTaupe"
+      ],
+      "names_de": [
+        "Lilataupe"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#fba0e3",
+      "names_en": [
+        "LavenderRose"
+      ],
+      "names_de": [
+        "Lavendelrosen"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#cf71af",
+      "names_en": [
+        "SkyMagenta"
+      ],
+      "names_de": [
+        "Himmelmagenta"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#702963",
+      "names_en": [
+        "Byzantium"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#682860",
+      "names_en": [
+        "PalatinatePurple"
+      ],
+      "names_de": [
+        "Lila"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#f984ef",
+      "names_en": [
+        "LightFuchsiaPink"
+      ],
+      "names_de": [
+        "Hellrosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#f984e5",
+      "names_en": [
+        "PaleMagenta"
+      ],
+      "names_de": [
+        "Blassmagenta"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ff66cc",
+      "names_en": [
+        "RosePink"
+      ],
+      "names_de": [
+        "Rosenrosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#fe4eda",
+      "names_en": [
+        "PurplePizzazz"
+      ],
+      "names_de": [
+        "Lila"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ff33cc",
+      "names_en": [
+        "RazzleDazzleRose"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ff1dce",
+      "names_en": [
+        "HotMagenta"
+      ],
+      "names_de": [
+        "Heißmagenta"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#fc0fc0",
+      "names_en": [
+        "ShockingPink"
+      ],
+      "names_de": [
+        "Rosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#bd33a4",
+      "names_en": [
+        "Byzantine"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#b53389",
+      "names_en": [
+        "Fandango"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#fff0f5",
+      "names_en": [
+        "LavenderBlush"
+      ],
+      "names_de": [
+        "Lavendel"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#fddde6",
+      "names_en": [
+        "PiggyPink"
+      ],
+      "names_de": [
+        "Rosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ffbcd9",
+      "names_en": [
+        "CottonCandy"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#f6adc6",
+      "names_en": [
+        "NadeshikoPink"
+      ],
+      "names_de": [
+        "Rosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#8a496b",
+      "names_en": [
+        "TwilightLavender"
+      ],
+      "names_de": [
+        "Lavendel"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#66424d",
+      "names_en": [
+        "TuscanRed"
+      ],
+      "names_de": [
+        "Rot"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#614051",
+      "names_en": [
+        "Eggplant"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#673147",
+      "names_en": [
+        "OldMauve"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#fbaed2",
+      "names_en": [
+        "LavenderPink"
+      ],
+      "names_de": [
+        "Lavendelrosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ffa6c9",
+      "names_en": [
+        "CarnationPink"
+      ],
+      "names_de": [
+        "Rosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#f49ac2",
+      "names_en": [
+        "PastelMagenta"
+      ],
+      "names_de": [
+        "Magenta"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#f77fbe",
+      "names_en": [
+        "PersianPink"
+      ],
+      "names_de": [
+        "Rosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#e68fac",
+      "names_en": [
+        "LightThulianPink"
+      ],
+      "names_de": [
+        "Hellrosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#de6fa1",
+      "names_en": [
+        "ThulianPink"
+      ],
+      "names_de": [
+        "Rosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#873260",
+      "names_en": [
+        "Boysenberry"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#872657",
+      "names_en": [
+        "DarkRaspberry"
+      ],
+      "names_de": [
+        "Dunkel"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#78184a",
+      "names_en": [
+        "PansyPurple"
+      ],
+      "names_de": [
+        "Lila"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#66023c",
+      "names_en": [
+        "TyrianPurple"
+      ],
+      "names_de": [
+        "Lila"
+      ],
+      "names_brand": [
+        "Slack Aubergine"
+      ],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ff69b4",
+      "names_en": [
+        "HotPink"
+      ],
+      "names_de": [
+        "Pink",
+        "Knallrosa",
+        "Leuchtendes Rosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#fe59c2",
+      "names_en": [
+        "NeonFuchsia"
+      ],
+      "names_de": [
+        "Neon"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ff55a3",
+      "names_en": [
+        "BrilliantRose"
+      ],
+      "names_de": [
+        "Rosen"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ff43a4",
+      "names_en": [
+        "WildStrawberry"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#f75394",
+      "names_en": [
+        "VioletRed"
+      ],
+      "names_de": [
+        "Violettrot"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#f9429e",
+      "names_en": [
+        "RoseBonbon"
+      ],
+      "names_de": [
+        "Rosen"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#fe28a2",
+      "names_en": [
+        "PersianRose"
+      ],
+      "names_de": [
+        "Rosen"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ff1493",
+      "names_en": [
+        "DeepPink",
+        "FluorescentPink"
+      ],
+      "names_de": [
+        "SattesRosa",
+        "Tiefrosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#e25098",
+      "names_en": [
+        "RaspberryPink"
+      ],
+      "names_de": [
+        "Rosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#f400a1",
+      "names_en": [
+        "FashionFuchsia",
+        "HollywoodCerise"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#da3287",
+      "names_en": [
+        "DeepCerise"
+      ],
+      "names_de": [
+        "Tief"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#c54b8c",
+      "names_en": [
+        "Mulberry"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#da1d81",
+      "names_en": [
+        "VividCerise"
+      ],
+      "names_de": [
+        "Kräftig"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ca2c92",
+      "names_en": [
+        "RoyalFuchsia"
+      ],
+      "names_de": [
+        "Königs"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#c71585",
+      "names_en": [
+        "MediumVioletRed",
+        "RedViolet"
+      ],
+      "names_de": [
+        "Mittelviolettrot",
+        "Mittleres Violettrot"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#bb3385",
+      "names_en": [
+        "MediumRedViolet"
+      ],
+      "names_de": [
+        "Mittelrotviolett"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#a50b5e",
+      "names_en": [
+        "JazzberryJam"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#b12b28",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Porsche"
+      ],
+      "family": "Reds"
+    },
+    {
+      "hex": "#bb0a30",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Audi"
+      ],
+      "family": "Reds"
+    },
+    {
+      "hex": "#d7141a",
+      "names_en": [
+        "Czech Republic Red"
+      ],
+      "names_de": [],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#dd0000",
+      "names_en": [
+        "Germany Red"
+      ],
+      "names_de": [
+        "Rot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#e40327",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "ÖBB"
+      ],
+      "family": "Reds"
+    },
+    {
+      "hex": "#e50914",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Netflix"
+      ],
+      "family": "Reds"
+    },
+    {
+      "hex": "#eb001b",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Mastercard"
+      ],
+      "family": "Reds"
+    },
+    {
+      "hex": "#eb0a1e",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Toyota"
+      ],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ed2939",
+      "names_en": [
+        "Austria Red"
+      ],
+      "names_de": [
+        "Rot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff0069",
+      "names_en": [],
+      "names_de": [],
+      "names_brand": [
+        "Instagram"
+      ],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#e0e0e0",
+      "names_en": [],
+      "names_de": [
+        "Friedhofsblond"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#d0e3ed",
+      "names_en": [],
+      "names_de": [
+        "Stilles Wasser"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#dcd8e3",
+      "names_en": [],
+      "names_de": [
+        "Nilpferdlila"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#d8d8d8",
+      "names_en": [],
+      "names_de": [
+        "Papyrusweiß"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#d7d7d7",
+      "names_en": [],
+      "names_de": [
+        "Lichtgrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#dad4db",
+      "names_en": [],
+      "names_de": [
+        "Grauviolett"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#d7d4d1",
+      "names_en": [],
+      "names_de": [
+        "Elefantengrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#c8d6d3",
+      "names_en": [],
+      "names_de": [
+        "Eisblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#b8d6e5",
+      "names_en": [],
+      "names_de": [
+        "Wellenblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#bbd9c6",
+      "names_en": [],
+      "names_de": [
+        "Kolibrigrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#d0d0d0",
+      "names_en": [],
+      "names_de": [
+        "Telegrau 4"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#b4dabf",
+      "names_en": [],
+      "names_de": [
+        "Wasserfall"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#c9cedb",
+      "names_en": [],
+      "names_de": [
+        "Lehmblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#cac6c3",
+      "names_en": [],
+      "names_de": [
+        "Nebelzauber"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#9dd1c7",
+      "names_en": [],
+      "names_de": [
+        "Geckogrün"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#c1c4c5",
+      "names_en": [],
+      "names_de": [
+        "Kieselstrand"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#aac8dd",
+      "names_en": [],
+      "names_de": [
+        "Delphinblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#c5c2bf",
+      "names_en": [],
+      "names_de": [
+        "Poesie der Stille"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#b0c4de",
+      "names_en": [],
+      "names_de": [
+        "Helles Stahlblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#c4c0be",
+      "names_en": [],
+      "names_de": [
+        "Wolkengrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#beb9ca",
+      "names_en": [],
+      "names_de": [
+        "Oktopuslila"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#b5b8b1",
+      "names_en": [],
+      "names_de": [
+        "Achatgrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#b9b3bd",
+      "names_en": [],
+      "names_de": [
+        "Lavendelviolett"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#84c3be",
+      "names_en": [],
+      "names_de": [
+        "Lichtgrün"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#b4a8ad",
+      "names_en": [],
+      "names_de": [
+        "Edles Mauve"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#94b0b7",
+      "names_en": [],
+      "names_de": [
+        "Gletscherblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#7fb5b5",
+      "names_en": [],
+      "names_de": [
+        "Pastelltürkis"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#a5a5a5",
+      "names_en": [],
+      "names_de": [
+        "Weißaluminium"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#a5a2a1",
+      "names_en": [],
+      "names_de": [
+        "Nebel im November"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#9da1aa",
+      "names_en": [],
+      "names_de": [
+        "Fenstergrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#9e9e9e",
+      "names_en": [],
+      "names_de": [
+        "Stadtgeflüster"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#9c9c9c",
+      "names_en": [],
+      "names_de": [
+        "Perlhellgrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#969992",
+      "names_en": [],
+      "names_de": [
+        "Signalgrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#8a9597",
+      "names_en": [],
+      "names_de": [
+        "Silbergrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#8d948d",
+      "names_en": [],
+      "names_de": [
+        "Verkehrsgrau A"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#909090",
+      "names_en": [],
+      "names_de": [
+        "Telegrau 1"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#8f8f8f",
+      "names_en": [],
+      "names_de": [
+        "Graualuminium"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#7f8da8",
+      "names_en": [],
+      "names_de": [
+        "Basaltblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#8f8c86",
+      "names_en": [],
+      "names_de": [
+        "Felsgrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#8b8c7a",
+      "names_en": [],
+      "names_de": [
+        "Steingrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#82898f",
+      "names_en": [],
+      "names_de": [
+        "Telegrau 2"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#78858b",
+      "names_en": [],
+      "names_de": [
+        "Fehgrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#898176",
+      "names_en": [],
+      "names_de": [
+        "Perlmausgrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#828282",
+      "names_en": [],
+      "names_de": [
+        "Perldunkelgrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#7d8471",
+      "names_en": [],
+      "names_de": [
+        "Zementgrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#6a8974",
+      "names_en": [],
+      "names_de": [
+        "Rosmaringrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#7d7f7d",
+      "names_en": [],
+      "names_de": [
+        "Staubgrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#8673a1",
+      "names_en": [],
+      "names_de": [
+        "Perlviolett"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#7f7679",
+      "names_en": [],
+      "names_de": [
+        "Platingrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#627791",
+      "names_en": [],
+      "names_de": [
+        "Nordmeer"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#497e76",
+      "names_en": [],
+      "names_de": [
+        "Minttürkis"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#686f84",
+      "names_en": [],
+      "names_de": [
+        "Rauchblau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#606e8c",
+      "names_en": [],
+      "names_de": [
+        "Taubenblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#6c7156",
+      "names_en": [],
+      "names_de": [
+        "Schilfgrün"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#6c7059",
+      "names_en": [],
+      "names_de": [
+        "Moosgrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#5d6c7d",
+      "names_en": [],
+      "names_de": [
+        "Porzellanblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#6c6874",
+      "names_en": [],
+      "names_de": [
+        "Perlbrombeer"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#686c5e",
+      "names_en": [],
+      "names_de": [
+        "Betongrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#6c6960",
+      "names_en": [],
+      "names_de": [
+        "Quarzgrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#646b63",
+      "names_en": [],
+      "names_de": [
+        "Mausgrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#5a697c",
+      "names_en": [],
+      "names_de": [
+        "Morgendunst Blau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#316650",
+      "names_en": [],
+      "names_de": [
+        "Patinagrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#645363",
+      "names_en": [],
+      "names_de": [
+        "Feigenviolett"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#4e5754",
+      "names_en": [],
+      "names_de": [
+        "Basaltgrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#4e5452",
+      "names_en": [],
+      "names_de": [
+        "Verkehrsgrau B"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#4d5645",
+      "names_en": [],
+      "names_de": [
+        "Grüngrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#4c514a",
+      "names_en": [],
+      "names_de": [
+        "Zeltgrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#2c5545",
+      "names_en": [],
+      "names_de": [
+        "Kieferngrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#474b4e",
+      "names_en": [],
+      "names_de": [
+        "Blaugrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#474a51",
+      "names_en": [],
+      "names_de": [
+        "Graphitgrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#434b4d",
+      "names_en": [],
+      "names_de": [
+        "Eisengrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#53453f",
+      "names_en": [],
+      "names_de": [
+        "Nachtbraun"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#434750",
+      "names_en": [],
+      "names_de": [
+        "Schiefergrau"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#cf3476",
+      "names_en": [],
+      "names_de": [
+        "Telemagenta"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#f75e25",
+      "names_en": [],
+      "names_de": [
+        "Hellrotorange"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#e4a010",
+      "names_en": [],
+      "names_de": [
+        "Maisgelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#c8cf5c",
+      "names_en": [],
+      "names_de": [
+        "Frühlingswiese"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#a0ce00",
+      "names_en": [],
+      "names_de": [
+        "Aliceblau"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#94fb4d",
+      "names_en": [],
+      "names_de": [
+        "Giftgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#57a639",
+      "names_en": [],
+      "names_de": [
+        "Gelbgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#66cdaa",
+      "names_en": [],
+      "names_de": [
+        "Mittleres Aquamarinblau"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#51b7a6",
+      "names_en": [],
+      "names_de": [
+        "Drachengrün"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#015d52",
+      "names_en": [],
+      "names_de": [
+        "Opalgrün"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#4040ff",
+      "names_en": [],
+      "names_de": [
+        "Pariserblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#3e5f8a",
+      "names_en": [],
+      "names_de": [
+        "Brillantblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#924e7d",
+      "names_en": [],
+      "names_de": [
+        "Signalviolett"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#de4c8a",
+      "names_en": [],
+      "names_de": [
+        "Erikaviolett"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#fe0000",
+      "names_en": [],
+      "names_de": [
+        "Leuchthellrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ff7514",
+      "names_en": [],
+      "names_de": [
+        "Pastellorange"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#dc9d00",
+      "names_en": [],
+      "names_de": [
+        "Narzissengelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#fad201",
+      "names_en": [],
+      "names_de": [
+        "Verkehrsgelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ccdea1",
+      "names_en": [],
+      "names_de": [
+        "Papageiengrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#679f2e",
+      "names_en": [],
+      "names_de": [
+        "Grüne Neune"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#00bb2d",
+      "names_en": [],
+      "names_de": [
+        "Leuchtgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#20a040",
+      "names_en": [],
+      "names_de": [
+        "Mittelgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#2b875c",
+      "names_en": [],
+      "names_de": [
+        "Wildes Paradies"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#1e5945",
+      "names_en": [],
+      "names_de": [
+        "Türkisgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#01fefe",
+      "names_en": [],
+      "names_de": [
+        "Zyanblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#256d7b",
+      "names_en": [],
+      "names_de": [
+        "Wasserblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#0091c6",
+      "names_en": [],
+      "names_de": [
+        "Coelinblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#007eff",
+      "names_en": [],
+      "names_de": [
+        "Cyanblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#354d73",
+      "names_en": [],
+      "names_de": [
+        "Violettblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#a146ff",
+      "names_en": [],
+      "names_de": [
+        "Violett"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#fe01fe",
+      "names_en": [],
+      "names_de": [
+        "Magentarot"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#f80000",
+      "names_en": [],
+      "names_de": [
+        "Leuchtrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ec612b",
+      "names_en": [],
+      "names_de": [
+        "Glutorange"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ffa420",
+      "names_en": [],
+      "names_de": [
+        "Leuchthellorange"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#dba621",
+      "names_en": [],
+      "names_de": [
+        "Ocker"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#f3da0b",
+      "names_en": [],
+      "names_de": [
+        "Rapsgelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#3d642d",
+      "names_en": [],
+      "names_de": [
+        "Farngrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#4c9141",
+      "names_en": [],
+      "names_de": [
+        "Maigrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#008f39",
+      "names_en": [],
+      "names_de": [
+        "Reingrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#12dddd",
+      "names_en": [],
+      "names_de": [
+        "Mittelrot"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#3f888f",
+      "names_en": [],
+      "names_de": [
+        "Türkisblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#3788ae",
+      "names_en": [],
+      "names_de": [
+        "Weiter Horizont"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#49678d",
+      "names_en": [],
+      "names_de": [
+        "Fernblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#7069d8",
+      "names_en": [],
+      "names_de": [
+        "Kornblumenblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#ea899a",
+      "names_en": [],
+      "names_de": [
+        "Hellrosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ff2301",
+      "names_en": [],
+      "names_de": [
+        "Leuchtorange"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#d84b20",
+      "names_en": [],
+      "names_de": [
+        "Signalorange"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#f39f18",
+      "names_en": [],
+      "names_de": [
+        "Sonnengelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#f5d033",
+      "names_en": [],
+      "names_de": [
+        "Safrangelb"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#89ac76",
+      "names_en": [],
+      "names_de": [
+        "Blassgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#90bd90",
+      "names_en": [],
+      "names_de": [
+        "Dunkles Seegrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#35682d",
+      "names_en": [],
+      "names_de": [
+        "Grasgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#025669",
+      "names_en": [],
+      "names_de": [
+        "Azurblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#5f7aa4",
+      "names_en": [],
+      "names_de": [
+        "Dragonerblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#6c4675",
+      "names_en": [],
+      "names_de": [
+        "Blaulila"
+      ],
+      "names_brand": [],
+      "family": "Purples"
+    },
+    {
+      "hex": "#a03472",
+      "names_en": [],
+      "names_de": [
+        "Verkehrspurpur"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#763f4f",
+      "names_en": [],
+      "names_de": [
+        "Sinfonie"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#f3a505",
+      "names_en": [],
+      "names_de": [
+        "Dahliengelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#d6ae01",
+      "names_en": [],
+      "names_de": [
+        "Ginstergelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#e5be01",
+      "names_en": [],
+      "names_de": [
+        "Signalgelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#bdecb6",
+      "names_en": [],
+      "names_de": [
+        "Weißgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#2d572c",
+      "names_en": [],
+      "names_de": [
+        "Laubgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#006400",
+      "names_en": [],
+      "names_de": [
+        "Dunkelgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#308446",
+      "names_en": [],
+      "names_de": [
+        "Verkehrsgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#72b9d1",
+      "names_en": [],
+      "names_de": [
+        "Messerblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#005a99",
+      "names_en": [],
+      "names_de": [
+        "Bremerblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#e393b9",
+      "names_en": [],
+      "names_de": [
+        "Party Pink"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#8a6973",
+      "names_en": [],
+      "names_de": [
+        "Cupcake"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ed760e",
+      "names_en": [],
+      "names_de": [
+        "Gelborange"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#f4a900",
+      "names_en": [],
+      "names_de": [
+        "Melonengelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#deb943",
+      "names_en": [],
+      "names_de": [
+        "Indischgelb"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#fcdd61",
+      "names_en": [],
+      "names_de": [
+        "Sommerzeit"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#587246",
+      "names_en": [],
+      "names_de": [
+        "Resedagrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#6aba71",
+      "names_en": [],
+      "names_de": [
+        "Froschgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#2a6478",
+      "names_en": [],
+      "names_de": [
+        "Perlenzian"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#2271b3",
+      "names_en": [],
+      "names_de": [
+        "Himmelblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#6d3f5b",
+      "names_en": [],
+      "names_de": [
+        "Rotlila"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#a18594",
+      "names_en": [],
+      "names_de": [
+        "Pastellviolett"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#f54021",
+      "names_en": [],
+      "names_de": [
+        "Verkehrsorange"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ec7c26",
+      "names_en": [],
+      "names_de": [
+        "Tieforange"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ffb856",
+      "names_en": [],
+      "names_de": [
+        "Happy Weekend"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#e1cc4f",
+      "names_en": [],
+      "names_de": [
+        "Elfenbein"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#287233",
+      "names_en": [],
+      "names_de": [
+        "Smaragdgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#20603d",
+      "names_en": [],
+      "names_de": [
+        "Minzgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#94c9e4",
+      "names_en": [],
+      "names_de": [
+        "Luftschloss"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#3b83bd",
+      "names_en": [],
+      "names_de": [
+        "Lichtblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#ebbce3",
+      "names_en": [],
+      "names_de": [
+        "Babyrosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#f44611",
+      "names_en": [],
+      "names_de": [
+        "Reinorange"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#cda434",
+      "names_en": [],
+      "names_de": [
+        "Goldgelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#c7b446",
+      "names_en": [],
+      "names_de": [
+        "Zitronengelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#317f43",
+      "names_en": [],
+      "names_de": [
+        "Signalgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#1c542d",
+      "names_en": [],
+      "names_de": [
+        "Perlgrün"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#1b5583",
+      "names_en": [],
+      "names_de": [
+        "Capriblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#c35831",
+      "names_en": [],
+      "names_de": [
+        "Perlorange"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#ed9d59",
+      "names_en": [],
+      "names_de": [
+        "Marrakesch"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#a98307",
+      "names_en": [],
+      "names_de": [
+        "Honiggelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#9d9101",
+      "names_en": [],
+      "names_de": [
+        "Currygelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#2e7b7f",
+      "names_en": [],
+      "names_de": [
+        "Petrol de Luxe"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#cab1cb",
+      "names_en": [],
+      "names_de": [
+        "Fliederfest"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#e43426",
+      "names_en": [],
+      "names_de": [
+        "Knallrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#d57453",
+      "names_en": [],
+      "names_de": [
+        "Venezianischrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#efa94a",
+      "names_en": [],
+      "names_de": [
+        "Pastellgelb"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#e6c37e",
+      "names_en": [],
+      "names_de": [
+        "Hafergelb"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#aea04b",
+      "names_en": [],
+      "names_de": [
+        "Ockergelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#00524e",
+      "names_en": [],
+      "names_de": [
+        "Blattgrün"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#90cffa",
+      "names_en": [],
+      "names_de": [
+        "Zinnoberrot"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#cc0605",
+      "names_en": [],
+      "names_de": [
+        "Verkehrsrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ffb972",
+      "names_en": [],
+      "names_de": [
+        "Fuchsorange"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#c6a664",
+      "names_en": [],
+      "names_de": [
+        "Sandgelb"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#6092b5",
+      "names_en": [],
+      "names_de": [
+        "Seebärblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#e63244",
+      "names_en": [],
+      "names_de": [
+        "Rosé"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#cd853f",
+      "names_en": [],
+      "names_de": [
+        "Peru"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#e6d690",
+      "names_en": [],
+      "names_de": [
+        "Hellelfenbein"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#afa468",
+      "names_en": [],
+      "names_de": [
+        "Chinaseidengelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#5d9b9b",
+      "names_en": [],
+      "names_de": [
+        "Pastellblau"
+      ],
+      "names_brand": [],
+      "family": "Blues"
+    },
+    {
+      "hex": "#d53032",
+      "names_en": [],
+      "names_de": [
+        "Erdbeerrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#a65e2e",
+      "names_en": [],
+      "names_de": [
+        "Orangebraun"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#f2af7a",
+      "names_en": [],
+      "names_de": [
+        "Biscotti"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#c2b078",
+      "names_en": [],
+      "names_de": [
+        "Beige"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#999950",
+      "names_en": [],
+      "names_de": [
+        "Olivgelb"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#cb2821",
+      "names_en": [],
+      "names_de": [
+        "Blutorange"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#8e402a",
+      "names_en": [],
+      "names_de": [
+        "Kupferbraun"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#955f20",
+      "names_en": [],
+      "names_de": [
+        "Ockerbraun"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#826c34",
+      "names_en": [],
+      "names_de": [
+        "Grünbraun"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#bebd7f",
+      "names_en": [],
+      "names_de": [
+        "Grünbeige"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#c51d34",
+      "names_en": [],
+      "names_de": [
+        "Himbeerrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#6a5f31",
+      "names_en": [],
+      "names_de": [
+        "Khakigrau"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#9e9764",
+      "names_en": [],
+      "names_de": [
+        "Graubeige"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#e55137",
+      "names_en": [],
+      "names_de": [
+        "Lachsorange"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#7f3523",
+      "names_en": [],
+      "names_de": [
+        "Rostbraun"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#b6ae8b",
+      "names_en": [],
+      "names_de": [
+        "Wanderlust"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#7e7b52",
+      "names_en": [],
+      "names_de": [
+        "Olivgrau"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#cb3234",
+      "names_en": [],
+      "names_de": [
+        "Reinrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#bc7b59",
+      "names_en": [],
+      "names_de": [
+        "Kupferorange"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#8f8b66",
+      "names_en": [],
+      "names_de": [
+        "Gelbgrau"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#dae3c4",
+      "names_en": [],
+      "names_de": [
+        "Balance"
+      ],
+      "names_brand": [],
+      "family": "Greens"
+    },
+    {
+      "hex": "#c93c20",
+      "names_en": [],
+      "names_de": [
+        "Rotorange"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#c1876b",
+      "names_en": [],
+      "names_de": [
+        "Beigerot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#8a6642",
+      "names_en": [],
+      "names_de": [
+        "Braunbeige"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#b8b799",
+      "names_en": [],
+      "names_de": [
+        "Kieselgrau"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#c2c7aa",
+      "names_en": [],
+      "names_de": [
+        "Pistaziengrün"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#d95030",
+      "names_en": [],
+      "names_de": [
+        "Lachsrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ffc9a9",
+      "names_en": [],
+      "names_de": [
+        "Papayaorange"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#6d6552",
+      "names_en": [],
+      "names_de": [
+        "Beigegrau"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#763c28",
+      "names_en": [],
+      "names_de": [
+        "Perlkupfer"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#6f4f28",
+      "names_en": [],
+      "names_de": [
+        "Olivbraun"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#aaae99",
+      "names_en": [],
+      "names_de": [
+        "Eukalyptusgrün"
+      ],
+      "names_brand": [],
+      "family": "Neutrals"
+    },
+    {
+      "hex": "#b32428",
+      "names_en": [],
+      "names_de": [
+        "Orientrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#734222",
+      "names_en": [],
+      "names_de": [
+        "Lehmbraun"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#dfcba4",
+      "names_en": [],
+      "names_de": [
+        "Beigegelb"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#b32821",
+      "names_en": [],
+      "names_de": [
+        "Korallenrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#6c3b2a",
+      "names_en": [],
+      "names_de": [
+        "Signalbraun"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#705335",
+      "names_en": [],
+      "names_de": [
+        "Perlgold"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#f67066",
+      "names_en": [],
+      "names_de": [
+        "Käferrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#79553d",
+      "names_en": [],
+      "names_de": [
+        "Beigebraun"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#bda78c",
+      "names_en": [],
+      "names_de": [
+        "Tea Time"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#af2b1e",
+      "names_en": [],
+      "names_de": [
+        "Feuerrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#674e3f",
+      "names_en": [],
+      "names_de": [
+        "Torfbraun"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#e0ceb6",
+      "names_en": [],
+      "names_de": [
+        "Sandbeige"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#a52019",
+      "names_en": [],
+      "names_de": [
+        "Signalrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#dcccb5",
+      "names_en": [],
+      "names_de": [
+        "Weicher Sand"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#9b111e",
+      "names_en": [],
+      "names_de": [
+        "Rubinrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#755c48",
+      "names_en": [],
+      "names_de": [
+        "Blassbraun"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#a12312",
+      "names_en": [],
+      "names_de": [
+        "Tomatenrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#d4c5b2",
+      "names_en": [],
+      "names_de": [
+        "Straßenköterblond"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#a2231d",
+      "names_en": [],
+      "names_de": [
+        "Karminrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ebddcd",
+      "names_en": [],
+      "names_de": [
+        "Sanftes Cashmere"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#fa8072",
+      "names_en": [],
+      "names_de": [
+        "Lachs"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    },
+    {
+      "hex": "#ddcebf",
+      "names_en": [],
+      "names_de": [
+        "Vers in Pastell"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#816e60",
+      "names_en": [],
+      "names_de": [
+        "Sanfte Erde"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#e7dece",
+      "names_en": [],
+      "names_de": [
+        "Hamsterbeige"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#cac4b0",
+      "names_en": [],
+      "names_de": [
+        "Seidengrau"
+      ],
+      "names_brand": [],
+      "family": "Yellows"
+    },
+    {
+      "hex": "#c0b4a9",
+      "names_en": [],
+      "names_de": [
+        "Zartes Puder"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#c55954",
+      "names_en": [],
+      "names_de": [
+        "Roter Ahorn"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#4f422c",
+      "names_en": [],
+      "names_de": [
+        "Bronzebraun"
+      ],
+      "names_brand": [],
+      "family": "Browns"
+    },
+    {
+      "hex": "#b44c43",
+      "names_en": [],
+      "names_de": [
+        "Perlrosa"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#6a5d4d",
+      "names_en": [],
+      "names_de": [
+        "Perlbeige"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#e87c8d",
+      "names_en": [],
+      "names_de": [
+        "Korallenpink"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#c3bcb0",
+      "names_en": [],
+      "names_de": [
+        "Zauber der Wüste"
+      ],
+      "names_brand": [],
+      "family": "Oranges"
+    },
+    {
+      "hex": "#d36e70",
+      "names_en": [],
+      "names_de": [
+        "Altrosa"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#922b3e",
+      "names_en": [],
+      "names_de": [
+        "Rotviolett"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#8a2a36",
+      "names_en": [],
+      "names_de": [
+        "Flammendes Herz"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#d37972",
+      "names_en": [],
+      "names_de": [
+        "Hula Hoop"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#a45054",
+      "names_en": [],
+      "names_de": [
+        "Beerenrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#ac7870",
+      "names_en": [],
+      "names_de": [
+        "Rhabarberrot"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#633a34",
+      "names_en": [],
+      "names_de": [
+        "Kastanienbraun"
+      ],
+      "names_brand": [],
+      "family": "Reds"
+    },
+    {
+      "hex": "#fbd3d6",
+      "names_en": [],
+      "names_de": [
+        "Flamingorosa"
+      ],
+      "names_brand": [],
+      "family": "Pinks"
+    }
+  ]
+}

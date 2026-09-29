@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Impressum – Colorpedia</title>
+  <style>
+    :root{color-scheme:dark;}
+    body{margin:0;font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,Helvetica,Arial; background:#0b0c10; color:#e9e9ee;}
+    a{color:#bae0e2;text-decoration:none}
+    a:hover{text-decoration:underline}
+    .wrap{max-width:900px;margin:0 auto;padding:24px}
+    .top{display:flex;align-items:baseline;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-bottom:18px}
+    .brand{display:inline-flex;gap:10px;align-items:center;font-weight:800;font-size:18px}
+    .card{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08);border-radius:14px;padding:18px 18px;margin:14px 0}
+    h1{font-size:22px;margin:0}
+    h2{font-size:16px;margin:0 0 10px}
+    p{margin:8px 0;line-height:1.45}
+    .kv{display:grid;grid-template-columns:220px 1fr;gap:8px 14px}
+    .k{opacity:.8}
+    .footer{margin-top:22px;opacity:.8;font-size:13px}
+    code{background:rgba(0,0,0,.35);padding:2px 6px;border-radius:6px}
+
+    /* Mobile fixes: avoid overflow and make key/value blocks stack nicely */
+    .kv > *{min-width:0}
+    a, code{overflow-wrap:anywhere;word-break:break-word}
+    @media (max-width: 560px){
+      .wrap{padding:16px}
+      .kv{grid-template-columns:1fr}
+      .card{padding:16px}
+    }
+
+  
+    /* Cookie consent banner */
+    .cookieConsent{position:fixed;left:12px;right:12px;bottom:12px;z-index:9999;display:flex;justify-content:center}
+    .cookieConsent.hidden{display:none}
+    .cookieConsent .cookieBox{max-width:820px;width:100%;display:flex;gap:12px;align-items:center;justify-content:space-between;
+      border:1px solid rgba(255,255,255,.14);border-radius:16px;padding:12px 14px;background:rgba(0,0,0,.55);backdrop-filter:blur(10px)}
+    .cookieConsent .cookieText{flex:1;min-width:240px;color:#b7b7c1;font-size:12px;line-height:1.35}
+    .cookieConsent .cookieTitle{color:#e9e9ee;font-weight:750;margin-right:6px}
+    .cookieConsent .cookieLink{margin-left:8px;color:#e9e9ee;text-decoration:none;border-bottom:1px solid rgba(255,255,255,.25)}
+    .cookieConsent .cookieLink:hover{border-bottom-color:rgba(255,255,255,.55)}
+    .cookieConsent .btn{display:inline-flex;align-items:center;gap:8px;padding:10px 12px;border-radius:12px;border:1px solid var(--border);
+      background:rgba(255,255,255,.06);color:var(--text);cursor:pointer;font-size:13px;user-select:none}
+    .cookieConsent .btn:hover{background:rgba(255,255,255,.10)}
+    .cookieConsent .btn.secondary{color:var(--muted)}
+    .cookieConsent .cookieActions{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
+    @media (max-width:520px){
+      .cookieConsent .cookieBox{flex-direction:column;align-items:stretch}
+      .cookieConsent .cookieActions .btn{width:100%;justify-content:center}
+      .cookieConsent .cookieText{min-width:0}
+    }
+
+</style>
+</head>
+<body>
+    <!-- Cookie consent (rendered immediately; hidden after consent check) -->
+  <div id="cookieConsent" class="cookieConsent" role="dialog" aria-live="polite" aria-label="Cookie consent">
+    <div class="cookieBox">
+      <div class="cookieText">
+        <span class="cookieTitle">🍪 Cookies</span>
+        <span>We use cookies/localStorage to remember your settings. No tracking.</span>
+        <a class="cookieLink" href="./imprint.html">Imprint</a>
+      </div>
+      <div class="cookieActions">
+        <button id="cookieDecline" type="button" class="btn secondary">Decline</button>
+        <button id="cookieAccept" type="button" class="btn">Accept</button>
+      </div>
+    </div>
+  </div>
+
+<div class="wrap">
+    <div class="top">
+      <a class="brand" href="./index.html"><span>🎨</span><span>Colorpedia</span></a>
+      <a href="https://colorpedia.org">colorpedia.org</a>
+    </div>
+
+    <div class="card">
+      <h1>Impressum</h1>
+      <p>Diese Seite verlinkt auf das Impressum von <strong>Netsnek e.U.</strong> und enthält die wesentlichen Unternehmensangaben.</p>
+    </div>
+
+    <div class="card">
+      <h2>Unternehmensdaten</h2>
+      <div class="kv">
+        <div class="k">Firma</div><div>Netsnek e.U.</div>
+        <div class="k">Inhaber</div><div>Florian Herbert Kleber</div>
+        <div class="k">Adresse</div><div>Löwengasse 14 / Lokal 2, 1030 Wien, Österreich</div>
+        <div class="k">Telefon</div><div>+43 650 824 88 11</div>
+        <div class="k">E‑Mail</div><div><a href="/cdn-cgi/l/email-protection#4f202929262c2a0f212a3b3c212a24612c2022"><span class="__cf_email__" data-cfemail="b6d9d0d0dfd5d3f6d8d3c2c5d8d3dd98d5d9db">[email&#160;protected]</span></a></div>
+        <div class="k">Website</div><div><a href="https://netsnek.com?source=colorpedia.org">netsnek.com</a></div>
+        <div class="k">Firmenbuch</div><div>FN 658312g</div>
+        <div class="k">Gericht</div><div>Handelsgericht Wien</div>
+        <div class="k">Rechtsform</div><div>Einzelunternehmer (e.U.)</div>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Haftung & Inhalte</h2>
+      <p>Die Inhalte dieser Website wurden mit Sorgfalt erstellt. Dennoch kann keine Gewähr für Richtigkeit, Vollständigkeit oder Aktualität übernommen werden.</p>
+      <p>Für direkte oder indirekte Schäden, die aus der Nutzung der Inhalte entstehen, wird – soweit gesetzlich zulässig – keine Haftung übernommen.</p>
+    </div>
+
+    <div class="card">
+      <h2>Links</h2>
+      <p>Diese Website kann auf externe Seiten verlinken. Für Inhalte externer Websites wird keine Verantwortung übernommen; maßgeblich sind die jeweiligen Betreiber der verlinkten Seiten.</p>
+    </div>
+
+    <div class="card">
+      <h2>Datenschutz</h2>
+      <p>Personenbezogene Daten werden vertraulich behandelt und ausschließlich im erforderlichen Umfang zur internen Abwicklung verarbeitet. Eine Weitergabe an Dritte erfolgt nicht, sofern keine gesetzliche Verpflichtung besteht.</p>
+      <p>Wenn Analyse‑ oder Statistikdienste eingesetzt werden (z. B. Web‑Analytics), kann dies Cookies und die Verarbeitung technischer Informationen (u. a. IP‑Adresse) beinhalten. Du kannst Cookies in deinem Browser deaktivieren; dadurch können Funktionen eingeschränkt sein.</p>
+    </div>
+
+    <div class="footer">
+      <a href="https://netsnek.com/imprint/?source=colorpedia.org">Original‑Impressum auf netsnek.com</a>
+    </div>
+  </div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+(function(){
+  function initCookieConsent(){
+    var banner = document.getElementById("cookieConsent");
+    if(!banner) return;
+    var key = "colorpedia_cookie_consent";
+    var val = null;
+    try { val = localStorage.getItem(key); } catch(e){}
+    if (val === "yes" || val === "no") banner.classList.add("hidden");
+
+    var accept = document.getElementById("cookieAccept");
+    var decline = document.getElementById("cookieDecline");
+    function set(v){
+      try { localStorage.setItem(key, v); } catch(e){}
+      try { document.cookie = "colorpedia_cookie_consent=" + v + "; Max-Age=31536000; Path=/; SameSite=Lax"; } catch(e){}
+      banner.classList.add("hidden");
+    }
+    if(accept) accept.addEventListener("click", function(){ set("yes"); });
+    if(decline) decline.addEventListener("click", function(){ set("no"); });
+  }
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", initCookieConsent);
+  else initCookieConsent();
+})();
+</script>
+
+</body>
+</html>
