@@ -3,6 +3,7 @@
 ## 2026-09-30
 * The map is now four saturation plates (Vivid, Strong, Soft, Muted & greys), each its own hex wheel, switched
   with tabs. Rule and rejected alternatives: [/map/layout-rules.md](/map/layout-rules.md).
+* New 3D view (`plates3d.js`): the same plates stacked in 3D; the Pages workflow publishes the file.
 
 ## 2026-09-29
 * Second import: Crayola crayons, xkcd color survey, JIS Z 8102 names, Japanese Wikipedia's list of Japanese colors

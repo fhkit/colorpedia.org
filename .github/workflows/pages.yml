@@ -27,7 +27,7 @@ jobs:
       - name: Assemble site
         run: |
           mkdir -p _site
-          cp index.html colors.json manifest.webmanifest Icon.svg imprint.html robots.txt _site/
+          cp index.html colors.json plates3d.js manifest.webmanifest Icon.svg imprint.html robots.txt _site/
           cp -r okf _site/okf
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

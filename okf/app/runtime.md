@@ -39,6 +39,15 @@ The Grid shows `filtered`; the Map dims (`.dim`) every cell not in `filtered` (t
   (`pickColor`), and so does switching to the Map view.
 * White is on every plate, so it never causes a switch.
 
+# 3D view (`ensure3d`, plates3d.js)
+* Created on first use. Plate geometry is read from the generated map panes (polygon centers), so there is no
+  second copy of the layout.
+* Hover previews a color, click/tap picks it (`pickColor`), selection and filters stay in sync
+  (`setSelected`, `apply3dFilter`: colors outside the current filter are drawn faint and cannot be picked).
+* The plate tabs bring a plate face-on in 3D; bringing a plate face-on inside the view also marks its tab.
+* The global swipe gesture (touch) cycles Map → Grid → 3D, but never starts inside the 3D view, where a drag
+  rotates the stack.
+
 # Map interaction (`wireMapInteractions`)
 One listener on `#mapWrap` for `mousemove` and `pointerdown` (preview) and `click` (pick). It finds the cell with
 `closest("[data-hex]")` and looks up the color by hex. Dimmed cells ignore events. Picking adds the color to

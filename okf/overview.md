@@ -18,6 +18,7 @@ hex, both names go on the same entry.
 |---|---|
 | `index.html` | The whole app: CSS, markup, the **inline SVG hex map**, and the JavaScript. See [/app/page-structure.md](/app/page-structure.md). |
 | `colors.json` | The data: one entry per hex. Fetched at runtime. See [/data/colors-json.md](/data/colors-json.md). |
+| `plates3d.js` | The **3D view**: the same saturation plates stacked in 3D (Canvas 2D, no dependencies). `window.createPlates3D(container, {plates, nameOf, onHover, onPick, onFocusChange})` returns `{setSelected, setFilter, focusPlate, resize, destroy}`. |
 | `tools/colorpedia.py` | Maintenance tool: imports name sources, **generates the SVG map** into `index.html`, validates everything. See [/howto/build-and-check.md](/howto/build-and-check.md). |
 | `data/sources/*.json` | Name lists the tool imports (with provenance). See [/data/sources.md](/data/sources.md). |
 | `manifest.webmanifest`, `Icon.svg` | PWA manifest and icon (an emoji on a dark rounded square). |
@@ -25,10 +26,12 @@ hex, both names go on the same entry.
 | `robots.txt` | Allows all crawlers. |
 | `.github/workflows/pages.yml` | On every push to `main`: runs `tools/colorpedia.py check`, then publishes the site files and `okf/` to GitHub Pages (https://fhkit.github.io/colorpedia.org/). |
 
-# The two views
+# The three views
 * **Map**: the SVGs in `index.html`, one hex color wheel per saturation plate (Vivid, Strong, Soft, Muted & greys),
   switched with tabs. Every color is one hexagon on one plate. See [/map/](/map/).
 * **Grid**: plain buttons generated in JavaScript from `colors.json`, in `colors.json` order.
+* **3D**: the four plates stacked like a fan deck (`plates3d.js`). Drag to rotate, pinch or scroll to zoom,
+  "Explode" to spread the plates, double-tap a plate (or its tab) to see it face-on.
 
 Both views use the same filters (source tab, family tab, search text) and share one preview panel.
 
