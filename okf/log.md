@@ -1,5 +1,9 @@
 # Log
 
+## 2026-09-30
+* The map is now four saturation plates (Vivid, Strong, Soft, Muted & greys), each its own hex wheel, switched
+  with tabs. Rule and rejected alternatives: [/map/layout-rules.md](/map/layout-rules.md).
+
 ## 2026-09-29
 * Second import: Crayola crayons, xkcd color survey, JIS Z 8102 names, Japanese Wikipedia's list of Japanese colors
   and German color-article samples; 1001 new colors, 2617 in total.

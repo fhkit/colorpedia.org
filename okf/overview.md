@@ -26,7 +26,8 @@ hex, both names go on the same entry.
 | `.github/workflows/pages.yml` | On every push to `main`: runs `tools/colorpedia.py check`, then publishes the site files and `okf/` to GitHub Pages (https://fhkit.github.io/colorpedia.org/). |
 
 # The two views
-* **Map**: the SVG in `index.html`. Every color is one hexagon, arranged as a color wheel. See [/map/](/map/).
+* **Map**: the SVGs in `index.html`, one hex color wheel per saturation plate (Vivid, Strong, Soft, Muted & greys),
+  switched with tabs. Every color is one hexagon on one plate. See [/map/](/map/).
 * **Grid**: plain buttons generated in JavaScript from `colors.json`, in `colors.json` order.
 
 Both views use the same filters (source tab, family tab, search text) and share one preview panel.

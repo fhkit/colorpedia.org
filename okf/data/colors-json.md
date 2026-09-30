@@ -32,6 +32,7 @@ The file is written compactly (no whitespace) by the tool.
 | `names_ja` | string[] | yes (may be empty) | Japanese names in kanji/kana (`"桜色"`). |
 | `names_ja_romaji` | string[] | only with `names_ja` | Romanization, **same length and order as `names_ja`** (`"Sakura-iro"`). Searchable; shown as `桜色 · Sakura-iro`. |
 | `names_brand` | string[] | yes (may be empty) | Brand or standard names (`"Google Blue"`, `"EN 12368"`). Shown unchanged. |
+| `plate` | string | yes | Saturation plate: `vivid`, `strong`, `soft` or `muted`. Computed by `build` from the rule in [/map/layout-rules.md](/map/layout-rules.md); never set it by hand, `check` fails if it differs. |
 | `codes` | string[] | no | Catalogue codes, currently RAL (`"RAL 7016"`). Searchable, not shown as chips. |
 
 Every color must have at least one name in `names_en`, `names_de`, `names_ja` or `names_brand`.

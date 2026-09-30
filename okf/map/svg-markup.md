@@ -24,6 +24,12 @@ The map is **inline SVG inside `index.html`**, in `<div id="mapWrap">`, between 
 <!-- COLORMAP:END -->
 ```
 
+Since 2026-09-30 the block holds **one pane per saturation plate**, in this order:
+`<div class="mapPane active" data-map="vivid" data-label="Vivid">`, then `strong`, `soft`, `muted`
+(`data-label` is the tab text). Only the pane with class `active` is visible; the tabs above the map switch it.
+Each pane has its own `<svg>` and `viewBox`; CSS scales every plate to the same size, so plates with fewer colors
+get bigger cells. `#ffffff` appears once in every pane (the center); every other hex appears in exactly one pane.
+
 `tools/colorpedia.py build` replaces everything between the markers. **Do not edit polygons by hand**:
 the next build overwrites them, and hand edits were the main source of errors in the original map
 (see [/map/audit-2026-09.md](/map/audit-2026-09.md)).

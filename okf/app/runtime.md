@@ -30,6 +30,15 @@ status: stable
   "kobai" and "RAL 7016" all work.
 The Grid shows `filtered`; the Map dims (`.dim`) every cell not in `filtered` (the selected one stays lit).
 
+# Saturation plates
+* Tabs above the map (`#plateTabs`, `renderPlateTabs`) show each plate with the number of colors that pass the
+  current filters. `setPlate(key)` makes that pane `active`.
+* When the search text changes, the map jumps to the plate with the most matches (`followMatches`); on other
+  re-renders it only leaves a plate that has no match left.
+* Picking a color outside the map (grid, favorites, search + Enter) switches to that color's plate
+  (`pickColor`), and so does switching to the Map view.
+* White is on every plate, so it never causes a switch.
+
 # Map interaction (`wireMapInteractions`)
 One listener on `#mapWrap` for `mousemove` and `pointerdown` (preview) and `click` (pick). It finds the cell with
 `closest("[data-hex]")` and looks up the color by hex. Dimmed cells ignore events. Picking adds the color to
