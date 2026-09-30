@@ -3,8 +3,8 @@
 
 Commands
   import   Merge the name lists in data/sources/*.json into colors.json.
-  build    Recompute the hex color map and write it into index.html,
-           refresh meta counts in colors.json.
+  build    Sort colours onto saturation plates, lay out one hex wheel per
+           plate and write them into index.html; refresh plate/meta in colors.json.
   check    Validate colors.json and the map in index.html (exit 1 on error).
   all      import + build + check.
 
@@ -43,6 +43,20 @@ SEAM_HUE = 293.0                  # HSL hue that sits right next to the seam
 NEUTRAL_CHROMA = 6.0              # CIELAB C* below this -> neutral spoke
 HUE_EQUALIZE = 0.75                # 0 = angle is pure hue, 1 = angle is pure hue rank
 
+# --- Saturation plates -------------------------------------------------------
+# A flat map cannot show hue, lightness and saturation at once, so colours are
+# split into saturation "plates"; each plate is its own hex wheel. Saturation is
+# OKLCH chroma relative to the most chroma sRGB can show at that lightness and hue.
+PLATES = [                        # (key, label, lowest effective saturation)
+    ("vivid", "Vivid", 0.80),
+    ("strong", "Strong", 0.55),
+    ("soft", "Soft", 0.30),
+    ("muted", "Muted & greys", -1.0),
+]
+CMAX_FLOOR = 0.08                 # near white/black the max chroma is tiny: keep them off the vivid plates
+DARK_L = 0.25                     # below this OKLab lightness colours read as black: damp saturation
+WHITE = "#ffffff"                 # centre of every plate
+
 FAMILIES = ["Neutrals", "Reds", "Oranges", "Yellows", "Greens",
             "Blues", "Purples", "Pinks", "Browns"]
 NAME_FIELDS = ["names_en", "names_de", "names_ja", "names_brand"]
@@ -72,6 +86,57 @@ def features(hx):
     L, a, b = rgb_to_lab(rgb)
     hue = colorsys.rgb_to_hls(*rgb)[0] * 360
     return {"L": L, "a": a, "b": b, "C": math.hypot(a, b), "hue": hue}
+
+
+def oklab(hx):
+    def lin(u):
+        return u / 12.92 if u <= 0.04045 else ((u + 0.055) / 1.055) ** 2.4
+    r, g, b = (lin(u) for u in hex_to_rgb01(hx))
+    l = 0.4122214708 * r + 0.5363325363 * g + 0.0514459929 * b
+    m = 0.2119034982 * r + 0.6806995451 * g + 0.1073969566 * b
+    s = 0.0883024619 * r + 0.2817188376 * g + 0.6299787005 * b
+    l, m, s = (math.copysign(abs(v) ** (1 / 3), v) for v in (l, m, s))
+    return (0.2104542553 * l + 0.7936177850 * m - 0.0040720468 * s,
+            1.9779984951 * l - 2.4285922050 * m + 0.4505937099 * s,
+            0.0259040371 * l + 0.7827717662 * m - 0.8086757660 * s)
+
+
+def max_chroma(L, h):
+    """Largest OKLCH chroma inside sRGB at lightness L and hue h (radians)."""
+    lo, hi = 0.0, 0.5
+    ca, sa = math.cos(h), math.sin(h)
+    for _ in range(24):
+        mid = (lo + hi) / 2
+        a, b = mid * ca, mid * sa
+        l = (L + 0.3963377774 * a + 0.2158037573 * b) ** 3
+        m = (L - 0.1055613458 * a - 0.0638541728 * b) ** 3
+        s = (L - 0.0894841775 * a - 1.2914855480 * b) ** 3
+        rgb = (4.0767416621 * l - 3.3077115913 * m + 0.2309699292 * s,
+               -1.2684380046 * l + 2.6097574011 * m - 0.3413193965 * s,
+               -0.0041960863 * l - 0.7034186147 * m + 1.7076147010 * s)
+        if all(-1e-6 <= v <= 1 + 1e-6 for v in rgb):
+            lo = mid
+        else:
+            hi = mid
+    return lo
+
+
+def saturation(hx):
+    """Effective saturation 0..1 used to pick a plate (see okf/map/layout-rules.md)."""
+    L, a, b = oklab(hx)
+    C = math.hypot(a, b)
+    if C < 1e-6 or L <= 0.001 or L >= 0.999:
+        return 0.0
+    s = min(1.0, C / max(max_chroma(L, math.atan2(b, a)), CMAX_FLOOR))
+    return s * min(1.0, L / DARK_L)
+
+
+def plate_of(hx):
+    s = saturation(hx)
+    for key, _, lo in PLATES:
+        if s >= lo:
+            return key
+    return PLATES[-1][0]
 
 
 def norm_name(s):
@@ -347,10 +412,20 @@ def svg_for(colors, placement):
 def cmd_build():
     data = load_colors()
     colors = [ensure_fields(c) for c in data["colors"]]
-    placement = layout(colors)
-    svg = svg_for(colors, placement)
+    by_hex = {c["hex"]: c for c in colors}
+    for c in colors:
+        c["plate"] = plate_of(c["hex"])
+    panes = []
+    for i, (key, label, _) in enumerate(PLATES):
+        members = [c for c in colors if c["plate"] == key]
+        if WHITE in by_hex and by_hex[WHITE] not in members:
+            members.append(by_hex[WHITE])          # white is the centre of every plate
+        svg = svg_for(members, layout(members))
+        active = " active" if i == 0 else ""
+        panes.append(f'<div class="mapPane{active}" data-map="{key}" data-label="{label}">\n{svg}\n</div>')
+        print(f"build: plate {key:<6} {len(members):5d} colours")
     page = INDEX_HTML.read_text(encoding="utf-8")
-    block = f'{MAP_BEGIN}\n<div class="mapPane active" data-map="hex">\n{svg}\n</div>\n{MAP_END}'
+    block = MAP_BEGIN + "\n" + "\n".join(panes) + "\n" + MAP_END
     if MAP_BEGIN in page:
         start = page.index(MAP_BEGIN)
         end = page.index(MAP_END) + len(MAP_END)
@@ -365,17 +440,21 @@ def cmd_build():
     data["colors"] = sorted(colors, key=lambda c: (-feats[c["hex"]]["L"], c["hex"]))
     update_meta(data)
     save_colors(data)
-    print(f"build: {len(colors)} cells written to index.html")
+    print(f"build: {len(colors)} colours on {len(PLATES)} plates written to index.html")
 
 
 # --- check ------------------------------------------------------------------------
-def map_cells(page):
+def map_panes(page):
+    """{plate key: [(points, fill, hex), ...]} for every pane in the map block."""
     block = page[page.index(MAP_BEGIN):page.index(MAP_END)]
-    cells = []
-    for m in re.finditer(r'<polygon points="([^"]+)" fill="([^"]+)" data-hex="([^"]+)"', block):
-        pts = [tuple(map(float, p.split(","))) for p in m.group(1).split()]
-        cells.append((pts, m.group(2), m.group(3)))
-    return cells
+    panes = {}
+    for pm in re.finditer(r'<div class="mapPane[^"]*" data-map="([^"]+)"[^>]*>(.*?)</svg>', block, re.S):
+        cells = []
+        for m in re.finditer(r'<polygon points="([^"]+)" fill="([^"]+)" data-hex="([^"]+)"', pm.group(2)):
+            pts = [tuple(map(float, p.split(","))) for p in m.group(1).split()]
+            cells.append((pts, m.group(2), m.group(3)))
+        panes[pm.group(1)] = cells
+    return panes
 
 
 def cmd_check():
@@ -394,6 +473,8 @@ def cmd_check():
             errors.append(f"{c['hex']}: has no name")
         if len(c.get("names_ja", [])) != len(c.get("names_ja_romaji", [])):
             errors.append(f"{c['hex']}: names_ja / names_ja_romaji length mismatch")
+        if c.get("plate") != plate_of(c["hex"]):
+            errors.append(f"{c['hex']}: plate {c.get('plate')} != rule {plate_of(c['hex'])}")
     for f in ("names_en", "names_de", "names_ja"):
         seen = {}
         for c in colors:
@@ -413,25 +494,34 @@ def cmd_check():
     if page.count(MAP_BEGIN) != 1 or page.count(MAP_END) != 1:
         errors.append("index.html: COLORMAP markers missing or duplicated")
     else:
-        cells = map_cells(page)
-        centers = []
-        for pts, fill, hx in cells:
-            if fill != hx:
-                errors.append(f"map: fill {fill} != data-hex {hx}")
-            cx = sum(p[0] for p in pts) / 6
-            cy = sum(p[1] for p in pts) / 6
-            centers.append((round(cx, 1), round(cy, 1)))
-            for p in pts:
-                if abs(math.dist(p, (cx, cy)) - HEX_R) > 0.02:
-                    errors.append(f"map: {hx} is not a regular hexagon")
-                    break
-        if len(set(centers)) != len(centers):
-            errors.append("map: two polygons share a position")
-        in_map = [hx for _, _, hx in cells]
+        panes = map_panes(page)
+        if list(panes) != [k for k, _, _ in PLATES]:
+            errors.append(f"map: panes {list(panes)} != plates {[k for k, _, _ in PLATES]}")
+        plate = {c["hex"]: c.get("plate") for c in colors}
+        in_map = []
+        for key, cells in panes.items():
+            centers = []
+            for pts, fill, hx in cells:
+                if fill != hx:
+                    errors.append(f"map {key}: fill {fill} != data-hex {hx}")
+                if hx != WHITE and plate.get(hx) != key:
+                    errors.append(f"map {key}: {hx} belongs on plate {plate.get(hx)}")
+                cx = sum(p[0] for p in pts) / 6
+                cy = sum(p[1] for p in pts) / 6
+                centers.append((round(cx, 1), round(cy, 1)))
+                for p in pts:
+                    if abs(math.dist(p, (cx, cy)) - HEX_R) > 0.02:
+                        errors.append(f"map {key}: {hx} is not a regular hexagon")
+                        break
+            if len(set(centers)) != len(centers):
+                errors.append(f"map {key}: two polygons share a position")
+            if WHITE in hexes and WHITE not in [hx for _, _, hx in cells]:
+                errors.append(f"map {key}: white centre missing")
+            in_map += [hx for _, _, hx in cells if hx != WHITE or key == PLATES[0][0]]
         if sorted(in_map) != sorted(hexes):
             miss = set(hexes) - set(in_map)
-            extra = set(in_map) - set(hexes)
-            errors.append(f"map and colors.json differ: missing {sorted(miss)[:10]} extra {sorted(extra)[:10]}")
+            extra = [h for h in set(in_map) if in_map.count(h) > 1 or h not in hexes]
+            errors.append(f"map and colors.json differ: missing {sorted(miss)[:10]} extra/duplicate {sorted(extra)[:10]}")
     for e in errors[:50]:
         print("ERROR", e)
     print(f"check: {len(colors)} colors, {len(errors)} errors, {len(warnings)} warnings "
